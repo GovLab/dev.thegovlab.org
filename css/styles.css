@@ -2004,7 +2004,7 @@ button:focus {
       transition: all .4s ease; }
       @media (min-width: 1025px) {
         .b-team .e-team-member .e-bio {
-          max-height: 600px; } }
+          max-height: 1200px; } }
       @media (max-width: 800px) {
         .b-team .e-team-member .e-bio {
           max-height: 1000px; } }
