@@ -124,7 +124,7 @@
         <div class="e-team-member" v-for="teammember in teamData" :id="teammember.slug">
             <div class="e-wrap">
       
-                <div v-if="teammember._embedded" class="e-team-picture" :style="{ backgroundImage: 'url(' + teammember.['wp:term']['wp:featuredmedia'].media_details.sizes.medium.source_url + ')' }">{{teammember['wp:term']}}</div>
+                <div v-if="teammember['wp:term']" class="e-team-picture" :style="{ backgroundImage: 'url(' + teammember.['wp:term']['wp:featuredmedia'].media_details.sizes.medium.source_url + ')' }">{{teammember['wp:term']}}</div>
 
                 <div class="e-info">
 
