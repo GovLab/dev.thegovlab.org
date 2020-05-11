@@ -79,11 +79,11 @@ new Vue({
     },
     showDesc(teammember) {
     	console.log('one');
-      teammember.sticky = true;
+      teammember.extended = true;
     },
     showExc(teammember) {
     	console.log('two');
-      teammember.sticky = false;
+      teammember.extended = false;
     },
     teamMore(slug) {
       window.location.href= slug+'.html';
