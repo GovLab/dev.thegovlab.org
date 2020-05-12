@@ -58,7 +58,7 @@ new Vue({
     filter: {
       slug: self.memberslug
     },
-    fields: ['*.*','books.books_id.*','videos.directus_files_id.*']
+    fields: ['*.*','books.books_id.*','videos.directus_files_id.*','books.books_id.picture.*']
   }
 ).then(data => {
   console.log(data);
