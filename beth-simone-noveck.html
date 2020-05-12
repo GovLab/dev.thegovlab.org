@@ -35,6 +35,7 @@
       ga('create', 'UA-XXXXXXX-X', 'auto');
       ga('send', 'pageview');
     </script>
+
 <script type="text/javascript">
     //this code loads the lighthouse widget. Additional config parameters to edit available on https://support.helpdocs.io/article/ykv7l5jthy-lighthouse-widget-api
         window.hdlh = {
@@ -171,50 +172,31 @@
             <aside class="b-sidebar">
                 <section class="e-section">
                     <h3>Resources</h3>
-                    <ul v-for= "(ressources, index) in memberData.resources">
+                    <ul v-for= "(ressources, index) in memberData.resources" >
                         <li><a :href="ressources" target="_blank">{{index}}</a></li>
                     </ul>
                 </section>
                 <section class="e-section">
                     <h3>Videos</h3>
-                    <ul v-for= "(video, index) in memberData.videos[0]">
-                          <li v-html='video.data.embed.html'></li>
+                    <ul v-for= "(video, index) in memberData.videos[0]" >
+                          <li class="embed-container" v-html='video.data.embed.html'></li>
+                          <!-- <iframe src="https://player.vimeo.com/video/394225913" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> -->
                     </ul>
-                    <iframe src="https://player.vimeo.com/video/394225913" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
                 </section>
                 <section class="e-section">
                     <h3>Books by Beth Simone Noveck</h3>
-                    <ul class="e-books">
+
+                    <ul class="e-books"  v-for= "(book, index) in memberData.books[0]">
                         <li>
                             <figure>
                                 <div class="e-image"
-                                    style="background-image: url('/static/img/team/bio/smart-citizens.jpg')">
-                                    <a href="http://www.amazon.com/Smart-Citizens-Smarter-State-Technologies/dp/0674286057"
-                                        class="e-dark-panel">Smart Citizens, Smarter State</a>
+                                    :style="{ backgroundImage: 'url(' + book.picture.data.thumbnails[3].url+ ')' }">
+                                    <a :href="book.link"
+                                        class="e-dark-panel">{{book.title}}</a>
                                 </div>
                             </figure>
                         </li>
-
-                        <li>
-                            <figure>
-                                <div class="e-image"
-                                    style="background-image: url('/static/img/team/bio/wiki-government.jpg')">
-                                    <a href="http://www.amazon.com/Wiki-Government-Technology-Democracy-Stronger/dp/0815705107"
-                                        class="e-dark-panel">Wiki Government</a>
-                                </div>
-                            </figure>
-                        </li>
-
-                        <li>
-                            <figure>
-                                <div class="e-image"
-                                    style="background-image: url('/static/img/team/bio/state-of-play.jpg')">
-                                    <a href="http://nyupress.org/books/9780814799727/" class="e-dark-panel">The State of
-                                        Play</a>
-                                </div>
-                            </figure>
-                        </li>
-
                     </ul>
                 </section>
                 <section class="e-section">
@@ -231,106 +213,9 @@
 
             </aside>
             <div class="e-main-content">
+                <p v-html="memberData.bio"></p>
 
 
-                <p class="c6"><span class="c0">Beth Simone Noveck directs the </span><span class="c4"><a class="c2"
-                            href="http://www.thegovlab.org/">Governance Lab</a></span><span class="c0">&nbsp;(GovLab)
-                        and its MacArthur Research Network on </span><span class="c4"><a class="c2"
-                            href="http://www.opening-governance.org/">Opening Governance</a></span><span class="c0">.
-                        She is a Professor in </span><span class="c4"><a class="c2"
-                            href="https://engineering.nyu.edu/academics/departments/technology-culture-and-society">Technology,
-                            Culture, and Society</a></span><span class="c0">and affiliated faculty at the </span><span
-                        class="c4"><a class="c2" href="https://cusp.nyu.edu/">Center for Urban Science and
-                            Progress</a></span><span class="c0">&nbsp;at New York University&rsquo;s </span><span
-                        class="c4"><a class="c2" href="https://engineering.nyu.edu/">Tandon School of
-                            Engineering</a></span><span class="c0">&nbsp;and a Fellow at NYU&rsquo;s </span><span
-                        class="c4"><a class="c2" href="https://ipk.nyu.edu/">Institute for Public
-                            Knowledge</a></span><span class="c0">. New Jersey governor Phil Murphy <a class="c2"
-                            href="https://nj.gov/governor/news/news/562018/approved/20180813a.shtml">appointed</a> her
-                        as the state’s first Chief Innovation Officer and Chancellor Angela Merkel named her to her <a
-                            class="c2"
-                            href="https://www.bundesregierung.de/breg-en/issues/the-faces-behind-the-digital-council-1504894">Digital
-                            Council</a> in 2018. She is also Visiting Senior Faculty Fellow at the </span><span
-                        class="c4"><a class="c2" href="https://www.heldrich.rutgers.edu/">John J. Heldrich Center for
-                            Workforce Development</a></span><span class="c0">&nbsp;at Rutgers University. Previously,
-                        Beth served in the White House as the first United States Deputy Chief Technology Officer and
-                        director of the White House </span><span class="c4"><a class="c2"
-                            href="https://obamawhitehouse.archives.gov/open">Open Government Initiative</a></span><span
-                        class="c0">&nbsp;under President Obama. UK Prime Minister David Cameron </span><span
-                        class="c4"><a class="c2"
-                            href="https://www.gov.uk/government/speeches/speech-by-the-chancellor-of-the-exchequer-rt-hon-george-osborne-mp-at-google-zeitgeist-2011">appointed
-                            her</a></span><span class="c3 c0">&nbsp;senior advisor for Open Government.</span></p>
-                <p class="c1"><span class="c3 c0"></span></p>
-                <p class="c6"><span class="c0">At the GovLab, she directs better governance programs, including work
-                        with public institutions on public engagement in lawmaking (</span><span class="c4"><a
-                            class="c2" href="http://www.crowd.law/">CrowdLaw</a></span><span class="c0">),
-                        expert-sourcing innovative solutions to hard problems (</span><span class="c4"><a class="c2"
-                            href="http://smartercrowdsourcing.org/">Smarter Crowdsourcing</a></span><span class="c0">),
-                        co-creation between cities and citizens (</span><span class="c4"><a class="c2"
-                            href="http://desafios.sanpedro.gob.mx:8888/">City Challenges</a></span><span class="c0">).
-                        She also coaches &quot;</span><span class="c4"><a class="c2"
-                            href="https://www.publicentrepreneur.org/">public entrepreneurs</a></span><span
-                        class="c0 c3">.&quot; working with passionate individuals to take their public interest projects
-                        from idea to implementation.</span></p>
-                <p class="c1"><span class="c3 c0"></span></p>
-                <p class="c6"><span class="c0">A graduate of </span><span class="c4"><a class="c2"
-                            href="https://www.harvard.edu/">Harvard University</a></span><span class="c0">&nbsp;and
-                    </span><span class="c4"><a class="c2" href="https://law.yale.edu/">Yale Law School</a></span><span
-                        class="c0">, she is a member of the </span><span class="c4"><a class="c2"
-                            href="https://www.loc.gov/programs/john-w-kluge-center/about-this-program/scholars-council/">Scholars
-                            Council of the Library of Congress</a></span><span class="c0">&nbsp;</span><span
-                        class="c0">and the </span><span class="c4"><a class="c2"
-                            href="https://www.imperial.ac.uk/mathematics-precision-healthcare">EPSRC Centre for the
-                            Mathematics of Precision Healthcare</a></span><span class="c0">. Beth also serves on the
-                        International Advisory Board of the </span><span class="c4"><a class="c2"
-                            href="https://www.england.nhs.uk/digitaltechnology/info-revolution/nhs-digital-academy/">NHS
-                            Digital Academy</a></span><span class="c0">&nbsp;and the Yankelovich Democracy Monitor as
-                        well as a member of the </span><span class="c4"><a class="c2"
-                            href="https://www.iadb.org/en">Inter-American Development Bank</a></span><span
-                        class="c0">President&rsquo;s Commission on Transparency and Corruption and the Global Future
-                        Council on Technology, Values and Policy for the World Economic Forum. She is a member of the
-                        Steering Committee for the </span><span class="c4"><a class="c2"
-                            href="https://ci.acm.org/">Collective Intelligence Conferences</a></span><span
-                        class="c0">&nbsp;and </span><span class="c4"><a class="c2"
-                            href="http://www.gigapp.org/">GIGAPP</a></span><span class="c3 c0">&nbsp;(Grupo de
-                        Investigaci&oacute;n en Gobierno, Administracion y Politicas Publicas). She is co-editor of the
-                        Association for Computing Machinery&rsquo;s Digital Government Research and Practice
-                        journal.</span></p>
-                <p class="c1"><span class="c3 c0"></span></p>
-                <p class="c6"><span class="c0">In 2018, Beth was awarded a Robert Schumann Fellowship at the
-                    </span><span class="c4"><a class="c2" href="https://www.eui.eu/">European University
-                            Institute</a></span><span class="c0">&nbsp;and a Richard von Weizsaecker Fellowship by the
-                    </span><span class="c4"><a class="c2"
-                            href="https://www.bosch-stiftung.de/en/project/robert-bosch-foundation-fellowship-program">Robert
-                            Bosch Foundation</a></span><span class="c0">. Beth was named one of the &ldquo;</span><span
-                        class="c4"><a class="c2"
-                            href="https://apolitical.co/lists/digital-government-world100/">World&rsquo;s 100 Most
-                            Influential People in Digital Government 2018</a></span><span class="c0">&rdquo; by
-                    </span><span class="c4"><a class="c2" href="https://apolitical.co/">Apolitical</a></span><span
-                        class="c0">. Previously, she was selected as one of the &ldquo;</span><span class="c4"><a
-                            class="c2"
-                            href="http://wagner.nyu.edu/news/newsStory/foreign-policy-magazine-names-prof-beth-noveck-its-list-top-global-thinkers">Foreign
-                            Policy 100</a></span><span class="c0">&rdquo; by Foreign Policy as well as one of the
-                        &ldquo;</span><span class="c4"><a class="c2"
-                            href="https://www.fastcompany.com/person/beth-simone-noveck">100 Most Creative People in
-                            Business</a></span><span class="c0">&rdquo; by Fast Company and &ldquo;</span><span
-                        class="c4"><a class="c2"
-                            href="http://www.huffingtonpost.com/2011/08/19/beth-simone-noveck-former-technology-officer_n_931617.html">Top
-                            Women in Technology</a></span><span class="c3 c0">&rdquo; by Huffington Post.</span></p>
-                <p class="c1"><span class="c3 c0"></span></p>
-                <p class="c6"><span class="c0">Beth is the author of </span><span class="c4"><a class="c2"
-                            href="http://smarterstate.org/">Smart Citizens, Smarter State: The Technologies of Expertise
-                            and the Future of Governing</a></span><span class="c0">&nbsp;(Harvard Univ Press 2015) and
-                    </span><span class="c4"><a class="c2" href="https://www.brookings.edu/book/wiki-government/">Wiki
-                            Government: How Technology Can Make Government Better, Democracy Stronger and Citizens More
-                            Powerful</a></span><span class="c0">&nbsp;(Brookings 2009) and co-editor of </span><span
-                        class="c4"><a class="c2" href="https://nyupress.org/books/9780814799727/">The State of Play:
-                            Law, Games and Virtual Worlds</a></span><span class="c0">&nbsp;(NYU Press, 2005). Her next
-                        book, Public Entrepreneurship: Training the Next Generation of Public Leader and Problem Solver,
-                        will appear with Yale Press. Her TED talk is </span><span class="c4"><a class="c2"
-                            href="https://www.ted.com/talks/beth_noveck_demand_a_more_open_source_government">here</a></span><span
-                        class="c0">. She tweets </span><span class="c4"><a class="c2"
-                            href="https://twitter.com/bethnoveck">@bethnoveck</a></span><span class="c3 c0">.</span></p>
 
                 <div class="e-collapsed">
 
