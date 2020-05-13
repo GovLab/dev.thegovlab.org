@@ -2008,7 +2008,7 @@ button:focus {
           max-height: 1200px; } }
       @media (max-width: 800px) {
         .b-team .e-team-member .e-bio {
-          max-height: 1000px; } }
+          max-height: 4000px; } }
       .b-team .e-team-member .e-bio .b-button.m-less {
         display: none; }
       .b-team .e-team-member .e-bio .b-button.m-hide {
