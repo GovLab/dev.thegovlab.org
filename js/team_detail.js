@@ -29,6 +29,8 @@ new Vue({
     return {
       memberData: [],
       more_body: false,
+      news_toggle:false,
+      publications_toggle:false,
       apiURL: 'https://directus.thegovlab.com/thegovlab/items/team?filter[slug][like]=',
       apiApp: '&fields=*.*,books.books_id.*,videos.directus_files_id.*'
 
@@ -73,6 +75,12 @@ new Vue({
     showExc(teammember) {
     	console.log('two');
       teammember.extended = false;
+    },
+    toggle(key) {
+        console.log(this[key+'_toggle']);
+      if(this[key+'_toggle'] == false) this[key+'_toggle'] = true;
+      else this[key+'_toggle'] = false;
+      console.log(this[key+'_toggle']);
     },
     teamMore(slug) {
       window.location.href= slug+'.html';
