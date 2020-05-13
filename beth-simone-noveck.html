@@ -102,7 +102,7 @@
         </div>
 
         <div class="e-social-media e-nav-group">
-            <a href="https://twitter.com/TheGovLab" class="e-nav-item" target="_blank"><i class="e-social-media-item fa fa-twitter"></i></a>
+            <a href="https://twitter.com/TheGovLab" class="e-nav-item" target="_blank"><i class="e-social-media-item fa fa-Twitter"></i></a>
             <!-- <a href="#" class="e-nav-item" target="_blank"><i class="e-social-media-item fa fa-facebook"></i></a> -->
             <a href="https://www.youtube.com/user/TheGovLab" class="e-nav-item" target="_blank"><i class="e-social-media-item fa fa-youtube-play"></i></a>
         </div>
@@ -140,8 +140,9 @@
                     <h1>{{memberData.name}}</h1>
                     <h2>{{memberData.title}}</h2>
                     <div class="e-social-media e-nav-group">
-                        <a :href="memberData.resources.twitter" class="e-nav-item" target="_blank"><i class="e-social-media-item fa fa-twitter" aria-hidden="true"></i></a>
-                        <a :href="memberData.resources.medium" class="e-nav-item" target="_blank"><i class="e-social-media-item fa fa-medium" aria-hidden="true"></i></a>
+                        <a v-if="memberData.resources.Twitter != null" :href="memberData.resources.Twitter" class="e-nav-item" target="_blank"><i class="e-social-media-item fa fa-twitter" aria-hidden="true"></i></a>
+                        <a v-if="memberData.resources.LinkedIn" :href="memberData.resources.LinkedIn" class="e-nav-item" target="_blank"><i class="e-social-media-item fa fa-linkedIn" aria-hidden="true"></i></a>
+                        <a :href="memberData.resources.Medium" class="e-nav-item" target="_blank"><i class="e-social-media-item fa fa-medium" aria-hidden="true"></i></a>
                     </div>
                 </div>
 
@@ -172,11 +173,11 @@
             <aside class="b-sidebar">
                 <section class="e-section">
                     <h3>Resources</h3>
-                    <ul v-for= "(ressources, index) in memberData.resources" >
+                    <ul v-if="memberData.resources != null" v-for= "(ressources, index) in memberData.resources" >
                         <li><a :href="ressources" target="_blank">{{index}}</a></li>
                     </ul>
                 </section>
-                <section class="e-section">
+                <section class="e-section" v-if="memberData.videos != ''">
                     <h3>Videos</h3>
                     <ul>
                           <li class="embed-container" v-for= "(video, index) in memberData.videos"  v-html='video.directus_files_id.data.embed.html'></li>
@@ -184,7 +185,7 @@
 
                 </section>
                 <section class="e-section">
-                    <h3>Books by Beth Simone Noveck</h3>
+                    <h3>Books by {{memberData.name}}</h3>
 
                     <ul class="e-books"  v-for= "(book, index) in memberData.books[0]">
                         <li>
@@ -201,10 +202,10 @@
                 <section class="e-section">
                     <h3>Downloads</h3>
                     <ul>
-                        <li><a href="static/img/beth-simone-noveck-1.jpg" target="_blank"
+                        <li><a :href="memberData.picture.data.thumbnails[5].url" target="_blank"
                                 class="file-beth-simone-noveck-1">Beth Simone Noveck's Photo <i
                                     class="e-social-media-item fa fa-download"></i></a></li>
-                        <li><a href="static/img/beth-simone-noveck-2.png" target="_blank"
+                        <li><a href="https://directus.thegovlab.com/uploads/thegovlab/originals/f168cb90-ea46-4695-b6fe-7b6995b9a369.png" target="_blank"
                                 class="file-beth-simone-noveck-2">Beth Simone Noveck's Photo in High Res <i
                                     class="e-social-media-item fa fa-download"></i></a></li>
                     </ul>
