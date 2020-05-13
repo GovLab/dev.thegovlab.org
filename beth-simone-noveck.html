@@ -178,9 +178,8 @@
                 </section>
                 <section class="e-section">
                     <h3>Videos</h3>
-                    <ul v-for= "(video, index) in memberData.videos[0]" >
-                          <li class="embed-container" v-html='video.data.embed.html'></li>
-                          <!-- <iframe src="https://player.vimeo.com/video/394225913" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> -->
+                    <ul>
+                          <li class="embed-container" v-for= "(video, index) in memberData.videos"  v-html='video.directus_files_id.data.embed.html'></li>
                     </ul>
 
                 </section>
@@ -219,198 +218,17 @@
 
                 <div class="e-collapsed">
 
-                    <p><span class="b-button m-display m-naked js-resources-toggle">In the News <i
+                    <p><span class="b-button m-display m-naked js-resources-toggle" @click="toggle('news')">In the News <i
                                 class="material-icons"><i class="material-icons">keyboard_arrow_down</i></i></span></p>
-                    <p><span class="b-button m-undisplay m-naked js-resources-toggle">In the News <i
+                    <p><span class="b-button m-undisplay m-naked js-resources-toggle"  @click="toggle('news')">In the News <i
                                 class="material-icons"><i class="material-icons">keyboard_arrow_up</i></i></span></p>
+                      <div  v-if="news_toggle==true" v-html="memberData.news"></div>
 
-                    <div class="e-additional-resources">
-                        <ul>
-                            <li>A Form that functions (<a
-                                    href="https://www.aspeninstitute.org/longform/ideas-the-magazine-of-the-aspen-institute-winter-2019-20/a-form-that-functions/?utm_source=iContact&utm_medium=email&utm_campaign=cinthia-schuman-ottinger&utm_content=990+Innovation+Featured+in+Aspen+Magazine">The
-                                    Aspen Institute</a>, December 2019)</li>
-                            <li>Never listen to advice but do get lots of information (<a
-                                    href="https://wearecommons.us/2020/01/24/never-listen-to-advice-but-do-get-lots-of-information/">The
-                                    Commons</a>, January 2020)</li>
-                            <li>Digital Economy: Digital democracy (<a
-                                    href="https://open.spotify.com/episode/4Mgvrt51F5BYLrOyfOFvCB">The Economist
-                                    Podcast</a>)</li>
-                            <li>Internet está creando desigualdad, pero hay formas de arreglarlo (<a
-                                    href="https://retina.elpais.com/retina/2019/03/29/tendencias/1553854212_177403.html">RETINA</a>,
-                                April 1 2019)</li>
-                            <li>Das tägliche Entscheider-Briefing zu Digitalisierung & KI, 28.03.2019 (<a
-                                    href="http://rdir.de/form.do?agnCI=1024&agnFN=fullview&agnUID=D.B.CEmV.GaW.Bjowy.A.4OJThCLWtBwSRIcl3nUWVdPkar6RYEX9CcEDcY52k8Ud3LH3iUZPewKnO0Idnrcjc_SgG5LY8E9wIbh0Mby2Wg&utm_medium=email&utm_source=newsletter%2Bbgdi">Der
-                                    Tagesspiegel</a>, 2019) </li>
-                            <li class="m-borderless">Salon 31: Workspheres (<a
-                                    href="http://momarnd.moma.org/salons/salon-31-workspheres-1/">MoMa R&D</a>, May
-                                2019)
-                            </li>
-                            <ul>
-                                <li>Professor Beth Simone Noveck’s talk at the MoMA R&D Salon which discussed the
-                                    changing landscape of workspheres in the current political and social landscape.
-                                </li>
-                            </ul>
-
-                            <li class="m-borderless">Beth Noveck, Asesora de Obama, Nos Explica Cómo la Tecnología Puede
-                                Hacer Más Transparentes Nuestras Democracias (<a
-                                    href="https://elfuturoesapasionante.elpais.com/beth-noveck-asesora-obama-nos-explica-la-tecnologia-puede-mejorar-nuestras-democracias/">El
-                                    País</a>, December 16, 2015)
-                            </li>
-                            <ul>
-                                <li>An article in El País describing Professor Beth Simone Noveck’s tenure in the White
-                                    House as Deputy Chief Technology Officer.</li>
-                            </ul>
-
-                            <li class="m-borderless">Beth Noveck: On the C-SPAN Networks (<a
-                                    href="https://www.c-span.org/person/?bethnoveck">C-SPAN</a>, 2009)
-                            </li>
-                            <ul>
-                                <li>Professor Beth Simone Noveck discusses topics like transparency, open government,
-                                    and civic engagement across three appearances in the C-SPAN video library.</li>
-                            </ul>
-
-                            <li>How Germany is preparing to digitize government and labor (<a
-                                    href="https://m.dw.com/en/how-germany-is-preparing-to-digitize-government-and-labor/a-48573117">Deutsche
-                                    Welle</a>, May 2019)</li>
-                            <li>Igualdad: Internet Está Creando Desigualdad, Pero Hay Formas de Arreglarlo (Montse
-                                Hidalgo Perez & Guillermo Vega, <a
-                                    href="https://retina.elpais.com/retina/2019/03/29/tendencias/1553854212_177403.html">Retina</a>,
-                                April 1, 2019)</li>
-                            <li>The Future of City Innovation (Beth Noveck, <a
-                                    href="https://medium.com/@BloombergCities/the-future-of-city-innovation-99a0950a76c3">Bloomberg
-                                    Cities</a>, March 19, 2019)</li>
-                            <li>New Ways of Working for Government (<a
-                                    href="https://mayorschallenge.bloomberg.org/the-creative-city-report/Chapter3/">Bloomberg</a>,
-                                2018)</li>
-                            <li>El Ejemplo de Madrid y por qué la Participación Ciudadana Aún no Funciona (Jordi Pérez
-                                Colomé, <a
-                                    href="https://elpais.com/tecnologia/2018/12/05/actualidad/1544030653_254137.html?id_externo_promo=enviar_email">El
-                                    País</a>, December 10, 2018)</li>
-                            <li>Top 10 Books About Building Cities (Jonathan Carr, <a
-                                    href="https://www.theguardian.com/books/2019/mar/13/top-10-books-about-building-cities-jonathan-carr-make-me-a-city">The
-                                    Guardian</a>, March 13, 2019)</li>
-                            <li>New Jersey Chief Innovation Officer Beth Noveck: Using Technology to Shape Policy (Casey
-                                Leins, <a
-                                    href="https://www.usnews.com/news/best-states/articles/2018-09-21/new-jersey-chief-innovation-officer-beth-noveck-on-using-technology-to-influence-policy">US
-                                    News</a>, September 21, 2019)</li>
-                            <li>Who knows best? Cities consult citizens for fresh ideas (Sophie Davies, <a
-                                    href="http://news.trust.org/item/20190212005100-02ad5">Thomson Reuters Foundation
-                                    News</a>, February 12, 2019)</li>
-                            <li>Beth Noveck on How Open Data and Direct Democracy Could Restore Our Faith in Politics
-                                (<a
-                                    href="https://www.abc.net.au/news/2018-09-13/beth-noveck-open-data-citizen-democracy/10236574">Australian
-                                    Broadcasting Corp</a>, September 12, 2018)</li>
-                            <li>Elections Won’t Save Our Democracy. But ‘CrowdLaw’ Could. (Beth Noveck, <a
-                                    href="https://www.washingtonpost.com/news/theworldpost/wp/2018/10/02/participatory-democracy/?utm_term=.f4df88b1ed56">The
-                                    Washington Post</a>, October 2, 2018)</li>
-                            <li>NJ’s First CIO Explains How Technology Can Improve Government Services (Briana Vannozzi,
-                                <a
-                                    href="https://www.njtvonline.org/news/video/njs-first-cio-explains-how-technology-can-improve-government-services/">NJTV
-                                    News</a>, October 1, 2018)</li>
-                            <li>Innovation Lead Will Help New Jersey Modernize Process, Support the Tech Economy (Theo
-                                Douglas, <a
-                                    href="https://www.govtech.com/data/Innovation-Lead-Will-Help-New-Jersey-Modernize-Process-Support-the-Tech-Economy.html">GovTech</a>,
-                                August 27, 2018)</li>
-                            <li>Artificial Intelligence and the End of Government (Daniel Araya, <a
-                                    href="https://www.forbes.com/sites/danielaraya/2019/01/04/artificial-intelligence-and-the-end-of-government/#e64a3c9719b4">Forbes</a>,
-                                January 4, 2019)</li>
-                            <li>Digital Crusaders: Technology Offers Weapons for the Battle Against Corruption (Chris
-                                Wellisz, <a
-                                    href="http://www.ipsnews.net/2018/12/digital-crusaders-technology-offers-weapons-battle-corruption/">IPS
-                                    News</a>, December 18, 2018)</li>
-                            <li>Renovating Democracy from the Bottom Up (Nathan Gardels, <a
-                                    href="https://www.washingtonpost.com/news/theworldpost/wp/2018/10/05/direct-democracy-2/?utm_term=.dc2f85fc92fc">The
-                                    Washington Post</a>, October 5, 2018)</li>
-                            <li>The Simple but Ingenious System Taiwan Uses to Crowdsource Its Laws (Chris Horton, <a
-                                    href="https://www.technologyreview.com/s/611816/the-simple-but-ingenious-system-taiwan-uses-to-crowdsource-its-laws/">MIT
-                                    Technology</a> Review, August 21, 2018)</li>
-                            <li>Australia’s Top 4 on the Global Stage of Digital Government Influencers (Harley Dennett,
-                                <a
-                                    href="https://www.themandarin.com.au/96950-australias-top-4-on-the-global-stage-of-digital-government-influencers/">The
-                                    Mandarin</a>, August 9, 2018)</li>
-                            <li>The Impact of Technology on Democracy (<a
-                                    href="https://www.wsj.com/articles/the-impact-of-technology-on-democracy-1541943796">The
-                                    Wall Street Journal</a>, November 11, 2018)</li>
-                            <li>[German] Die Digitalrätin aus New York (<a
-                                    href="https://www.zeit.de/2018/36/beth-novek-deutschland-digitalisierung-new-york-digitalraetin">Die
-                                    Zeit</a>, August 29 2018)</li>
-                            <li>Citizen participation in law-making and public policy: An Interview with Beth Simone
-                                Noveck (<a
-                                    href="http://www.abc.net.au/radionational/programs/bigideas/citizen-participation-in-law-making-and-public-policy/10161916">Australian
-                                    Broadcasting Corporation</a>, August 28 2018)</li>
-                            <li>The ex-White House digital champion bringing innovation to New Jersey(<a
-                                    href="https://apolitical.co/solution_article/the-ex-white-house-digital-champion-bringing-innovation-to-new-jersey/">Apolitical</a>,
-                                August 23 2018)</li>
-                            <li>New Jersey hires GovLab founder as its first Chief Innovation Officer(<a
-                                    href="http://www.govtech.com/pcio/articles/New-Jersey-Hires-GovLab-Founder-as-Its-First-Chief-Innovation-Officer.html">Govtech</a>,
-                                August 13 2018)</li>
-                            <li>Best and worst of times: how disruption will reshape work (<a
-                                    href="https://www.smh.com.au/business/workplace/best-and-worst-of-times-how-disruption-will-reshape-work-20180809-p4zwkc.html">Sydney
-                                    Morning Herald</a>, August 11 2018)</li>
-                            <li>If a robot's eating your job, it's probably eating your life expectancy too (<a
-                                    href="https://www.smh.com.au/business/workplace/if-a-robot-s-eating-your-job-it-s-probably-eating-your-life-expectancy-too-20180711-p4zqvp.html">Sydney
-                                    Morning Herald</a>, July 2018)</li>
-                            <li>Interview with Beth Noveck in ERR Novataar (<a
-                                    href="https://novaator.err.ee/835605/it-ekspert-rahvas-oskab-teha-rohkem-kui-korra-aastas-haaletada">Eesti
-                                    Rahvusringhääling</a>, May 2018)</li>
-                            <li>La Madre Del Gobierno Abierto (<a
-                                    href="https://www.pressreader.com/spain/la-vanguardia/20171223/284623192841809">La
-                                    Vanguardia</a>, 2017)</li>
-                            <li>Experta expondrá este jueves sobre uso de nuevas tecnologías en el gobierno (<a
-                                    href="http://www.latercera.com/noticia/experta-expondra-este-jueves-uso-nuevas-tecnologias-gobierno/">La
-                                    Tercera</a>, 2017)</li>
-                            <li>The Policy Labs We Urgently Need (<a
-                                    href="http://www.governing.com/commentary/col-data-policy-labs-states-urgently-need.html">Governing</a>,
-                                December 13 2017).</li>
-                            <li>Can Smarter Crowdsourcing Stop Zika? (CityLab Miami 2016, Video): <a
-                                    href="https://www.youtube.com/watch?v=YV0TBNl68P4">Beth Simone Noveck in
-                                    conversation with Rudi Borrman</a>.</li>
-                            <li>The International Congress on Government Administration and Public Policy (#GIGAPP2016,
-                                Video): <a
-                                    href="http://www.gigapp.org/index.php/publicaciones/video-media/340-entrevista-con-beth-noveck-gigapp2016">An
-                                    Interview with Beth Simone Noveck</a>.</li>
-                            <li>The Tech Presidency - Governing in the Age of Big Data and Machine Learning (LinkedIn
-                                Speaker Series, 2016, Video): <a href="https://www.youtube.com/watch?v=SW21_GVknAo">Beth
-                                    Noveck’s talk at the LinkedIn Speaker Series</a></li>
-                            <li>The Obama administration wanted to open up government to citizen input. Why hasn’t it
-                                worked? (The Washington Post, 2016): <a
-                                    href="https://www.washingtonpost.com/news/monkey-cage/wp/2016/06/20/the-u-s-government-could-benefit-from-advice-from-the-public-getting-that-advice-may-be-against-the-law/">An
-                                    interview with Beth Simone Noveck</a></li>
-                            <li>Smart Citizens, Smarter State: The Technologies of Expertise (#BCTECHSummit, 2016,
-                                Video): <a href="https://www.youtube.com/watch?v=qqJhR5Eoxl0">Beth Noveck’s talk at the
-                                    #BCTECHSummit</a></li>
-                            <li>The big data opportunity (#BCTECHSummit, 2016, Video): <a
-                                    href="https://www.youtube.com/watch?v=zG-uY-9yitw">Panel discussion moderated by
-                                    Beth Noveck at the #BCTECHSummit</a></li>
-                            <li>The Tinder Approach to Fixing Our Government (The Brian Lehrer Show, 2016, Audio): <a
-                                    href="http://www.wnyc.org/story/tinder-approach-governance/">Beth Noveck on the
-                                    Brian Lehrer show on WNYC 93.9 FM</a></li>
-                            <li>How Technology can make our democracy more transparent (El Pais, 2015, Video): <a
-                                    href="http://one.elpais.com/beth-noveck-asesora-obama-nos-explica-la-tecnologia-puede-mejorar-nuestras-democracias/">An
-                                    interview with El Pais</a></li>
-                            <li>Demand a more open source government (TED, 2012, Video): <a
-                                    href="https://www.ted.com/talks/beth_noveck_demand_a_more_open_source_government">Beth
-                                    Noveck at TED2012</a></li>
-                            <li>Can the Open Data Revolution Change Our Democracy (TED Radio hour, 2012, Audio): <a
-                                    href="http://www.npr.org/2014/01/31/265694831/can-the-open-data-revolution-change-our-democracies">NPR
-                                    TED Radio Hour</a></li>
-                            <li>What government can learn from tech (TechRepublic, 2015): <a
-                                    href="http://www.techrepublic.com/article/what-government-can-learn-from-tech-a-conversation-with-beth-noveck">A
-                                    conversation with Beth Noveck</a></li>
-                            <li>Bringing Democracy into the 21st century (Scenario Magazine, 2016): <a
-                                    href="http://www.scenariomagazine.com/bringing-democracy-into-the-21st-century/">J.P
-                                    O’Malley in the Scenario Magazine</a></li>
-                            <li>The International Congress on Government Administration and Public Policy (#GIGAPP2016,
-                                Video): <a
-                                    href="http://www.gigapp.org/index.php/publicaciones/video-media/340-entrevista-con-beth-noveck-gigapp2016">An
-                                    Interview with Beth Simone Noveck</a></li>
-                        </ul>
-                    </div>
-
-                    <p><span class="b-button m-expand m-naked js-articles-toggle">Selected Publications <i
+                    <p><span class="b-button m-expand m-naked js-articles-toggle" @click="toggle('publications')">Selected Publications <i
                                 class="material-icons"><i class="material-icons">keyboard_arrow_down</i></i></span></p>
-                    <p><span class="b-button m-collapse m-naked js-articles-toggle">Selected Publications <i
+                    <p><span class="b-button m-collapse m-naked js-articles-toggle" @click="toggle('publications')">Selected Publications <i
                                 class="material-icons"><i class="material-icons">keyboard_arrow_up</i></i></span></p>
+                    <div v-if="publications_toggle==true" v-html="memberData.publications"></div>
 
                     <div class="e-selected-articles">
                         <ul>
