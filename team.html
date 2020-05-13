@@ -136,9 +136,10 @@
                     <h4>{{teammember.title}}</h4>
                     <p v-if="teammember.extended == false" v-html="teammember.bio_short"></p>
                     <p v-if="teammember.extended == true" v-html="teammember.bio"></p>
-                    <a v-if="teammember.extended == false && !teammember.more_infos" @click="teammember.extended ? showExc(teammember) : showDesc(teammember)" class="b-button m-naked" target="_blank">More <i class="material-icons">keyboard_arrow_down</i></a>
-                    <a v-if="teammember.extended == true" @click="teammember.extended ? showExc(teammember) : showDesc(teammember)" class="b-button m-naked" target="_blank">Less<i class="material-icons">keyboard_arrow_down</i></a>
-                    <a v-if="teammember.extended == false && teammember.more_infos==true" @click="teamMore(teammember.slug)" class="b-button m-naked" target="_blank">More<i class="material-icons">keyboard_arrow_down</i></a>
+
+                    <a v-if="teammember.extended == false && teammember.more_infos==false" @click="teammember.extended ? showExc(teammember) : showDesc(teammember)" class="b-button m-naked" target="_blank">More <i class="material-icons">keyboard_arrow_down</i></a>
+                    <a v-if="teammember.extended == true && teammember.more_infos==false" @click="teammember.extended ? showExc(teammember) : showDesc(teammember)" class="b-button m-naked" target="_blank">Less<i class="material-icons">keyboard_arrow_down</i></a>
+                    <a v-if="teammember.extended == true && teammember.more_infos==true" @click="teamMore(teammember.slug)" class="b-button m-naked" target="_blank">More<i class="material-icons">keyboard_arrow_down</i></a>
 
                 </div>
             </div>
