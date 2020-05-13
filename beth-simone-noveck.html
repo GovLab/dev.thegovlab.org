@@ -187,13 +187,14 @@
                 <section class="e-section">
                     <h3>Books by {{memberData.name}}</h3>
 
-                    <ul class="e-books"  v-for= "(book, index) in memberData.books[0]">
+                    <ul class="e-books"  v-for= "(book, index) in memberData.books">
+
                         <li>
                             <figure>
                                 <div class="e-image"
-                                    :style="{ backgroundImage: 'url(' + book.picture.data.thumbnails[3].url+ ')' }">
-                                    <a :href="book.link"
-                                        class="e-dark-panel">{{book.title}}</a>
+                                    :style="{ backgroundImage: 'url(' + book.books_id.picture.data.thumbnails[3].url+ ')' }">
+                                    <a :href="book.books_id.link"
+                                        class="e-dark-panel">{{book.books_id.title}}</a>
                                 </div>
                             </figure>
                         </li>
