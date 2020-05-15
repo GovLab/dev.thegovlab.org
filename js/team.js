@@ -78,12 +78,13 @@ new Vue({
       // });
     },
     showDesc(teammember) {
-    	console.log('one');
-      teammember.extended = true;
+
+      teammember['extended'] = true;
+      console.log(teammember);
     },
     showExc(teammember) {
     	console.log('two');
-      teammember.extended = false;
+      teammember['extended'] = false;
     },
     teamMore(slug) {
       window.location.href= slug+'.html';
