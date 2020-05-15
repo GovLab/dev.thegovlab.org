@@ -51,11 +51,12 @@ new Vue({
   'team',
   {
     sort: 'order',
-    fields: ['*','picture.*']
+    fields: ['*.*','picture.*','projects.projects_id.*']
   }
 ).then(data => {
 
   self.teamData = data.data;
+  console.log(self.teamData);
 })
 .catch(error => console.error(error));
       // https://directus.thegovlab.com/thegovlab/items/team?sort=order&fields=*,picture.*
@@ -78,13 +79,18 @@ new Vue({
       // });
     },
     showDesc(teammember) {
-
       teammember['extended'] = true;
       console.log(teammember);
     },
     showExc(teammember) {
     	console.log('two');
       teammember['extended'] = false;
+    },
+    showProj(teammember) {
+      teammember['extended_project'] = true;
+    },
+    hideProj(teammember) {
+      teammember['extended_project'] = false;
     },
     teamMore(slug) {
       window.location.href= slug+'.html';
