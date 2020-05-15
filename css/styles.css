@@ -3608,9 +3608,10 @@ button:focus {
     font-size: 14px;
 }
 
-.project_list
+.project_list li
 {
-  padding: 10px;
-      border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-      cursor: pointer;
+  padding: 10px 0;
+list-style-type: none;
+border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+font-size: 14px;
 }
