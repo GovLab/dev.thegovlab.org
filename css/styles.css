@@ -2005,7 +2005,7 @@ button:focus {
       transition: all .4s ease; }
       @media (min-width: 1025px) {
         .b-team .e-team-member .e-bio {
-          max-height: 1200px; } }
+          max-height: 4000px; } }
       @media (max-width: 800px) {
         .b-team .e-team-member .e-bio {
           max-height: 4000px; } }
@@ -3598,3 +3598,19 @@ button:focus {
   font-feature-settings: 'liga'; }
 
 /*# sourceMappingURL=styles.css.map */
+
+/*/////////////////*/
+.additional-ressources li
+{
+  padding: 10px 0;
+    list-style-type: none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    font-size: 14px;
+}
+
+.project_list
+{
+  padding: 10px;
+      border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+      cursor: pointer;
+}
