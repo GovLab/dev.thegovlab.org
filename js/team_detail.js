@@ -31,8 +31,9 @@ new Vue({
       more_body: false,
       news_toggle:false,
       publications_toggle:false,
+      projects_toggle:false,
       apiURL: 'https://directus.thegovlab.com/thegovlab/items/team?filter[slug][like]=',
-      apiApp: '&fields=*.*,books.books_id.*,videos.directus_files_id.*'
+      apiApp: '&fields=*.*,books.books_id.*,videos.directus_files_id.*,projects.projects_id.*'
 
     }
   },
@@ -60,7 +61,7 @@ new Vue({
     filter: {
       slug: self.memberslug
     },
-    fields: ['*.*','books.books_id.*','videos.directus_files_id.*','books.books_id.picture.*']
+    fields: ['*.*','books.books_id.*','videos.directus_files_id.*','books.books_id.picture.*','projects.projects_id.*']
   }
 ).then(data => {
   console.log(data);
@@ -68,16 +69,7 @@ new Vue({
 })
 .catch(error => console.error(error));
     },
-    showDesc() {
-    	console.log('one');
-      teammember.extended = true;
-    },
-    showExc(teammember) {
-    	console.log('two');
-      teammember.extended = false;
-    },
     toggle(key) {
-        console.log(this[key+'_toggle']);
       if(this[key+'_toggle'] == false) this[key+'_toggle'] = true;
       else this[key+'_toggle'] = false;
       console.log(this[key+'_toggle']);
