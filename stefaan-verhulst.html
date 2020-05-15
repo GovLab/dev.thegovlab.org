@@ -188,7 +188,7 @@
                 <section class="e-section">
                     <h3>Downloads</h3>
                     <ul>
-                        <li><a href="static/img/beth-simone-noveck-1.jpg" target="_blank"
+                        <li><a href="memberData.picture.data.thumbnails[5].url" target="_blank"
                                 class="file-beth-simone-noveck-1">{{memberData.name}}'s Photo <i
                                     class="e-social-media-item fa fa-download"></i></a></li>
                     </ul>
@@ -206,20 +206,24 @@
                                 class="material-icons"><i class="material-icons">keyboard_arrow_down</i></i></span></p>
                     <p><span class="b-button m-undisplay m-naked js-resources-toggle"  @click="toggle('news')">In the News <i
                                 class="material-icons"><i class="material-icons">keyboard_arrow_up</i></i></span></p>
-                      <div  v-if="news_toggle==true" v-html="memberData.news"></div>
+                      <div  v-if="news_toggle==true" class="e-additional-resources" v-html="memberData.news"></div>
 
                     <p><span class="b-button m-expand m-naked js-articles-toggle" @click="toggle('publications')">Selected Publications <i
                                 class="material-icons"><i class="material-icons">keyboard_arrow_down</i></i></span></p>
                     <p><span class="b-button m-collapse m-naked js-articles-toggle" @click="toggle('publications')">Selected Publications <i
                                 class="material-icons"><i class="material-icons">keyboard_arrow_up</i></i></span></p>
-                    <div v-if="publications_toggle==true" v-html="memberData.publications"></div>
+                    <div v-if="publications_toggle==true" class="additional-ressources" v-html="memberData.publications"></div>
 
 
-                    <div class="b-button m-show m-naked js-project-toggle">Stefaan's Projects <i class="material-icons"><i
+                    <div class="b-button m-show m-naked js-project-toggle"  @click="toggle('projects')">Stefaans's Projects <i class="material-icons"><i
                                 class="material-icons">keyboard_arrow_down</i></i></div>
-                    <div class="b-button m-hide m-naked js-project-toggle">Stefaan's Projects<i class="material-icons"><i
+                    <div class="b-button m-hide m-naked js-project-toggle" @click="toggle('projects')">Stefaans's Projects<i class="material-icons"><i
                                 class="material-icons">keyboard_arrow_up</i></i></div>
-
+                    <div v-if="projects_toggle">
+                      <ul class="project_list" >
+                        <li v-for="project in memberData.projects"><a :href="project.projects_id.link">{{project.projects_id.name}}</a></li>
+                      </ul>
+                    </div>
 
 
                 </div>
