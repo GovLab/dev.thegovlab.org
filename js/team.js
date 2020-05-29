@@ -64,13 +64,13 @@ new Vue({
     fields: ['*.*','picture.*','projects.projects_id.*']
   }
 ).then(data => {
-  
+
   data.data.sort(function(x,y){
     if (x.slug == 'stefaan-verhulst'){ return -1 } else if (y == 'beth-simone-noveck'){return 1} else {return 0}; });
     data.data.sort(function(x,y){
       if (x.slug == 'beth-simone-noveck'){ return -1 } else if (y == 'beth-simone-noveck'){return 1} else {return 0}; });
 
-
+      console.log(data.data);
     return data
 }).then(data => {
     self.teamData = data.data;
