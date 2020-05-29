@@ -63,12 +63,14 @@ new Vue({
     fields: ['*.*','picture.*','projects.projects_id.*']
   }
 ).then(data => {
-  
-  
-  data.data.sort(function(x,y){ return x.slug == 'stefaan-verhulst' ? -1 : y.slug == 'stefaan-verhulst' ? 1 : 0; });
-  data.data.sort(function(x,y){ return x.slug == 'beth-simone-noveck' ? -1 : y.slug == 'beth-simone-noveck' ? 1 : 0; });
-  self.teamData = data.data;
 
+  data.data.sort(function(x,y){ return x.slug == 'stefaan-verhulst' ? -1 : y.slug == 'stefaan-verhulst' ? 1 : 0; });
+
+  return data;
+
+}).then(data2 => {
+    data2.data.sort(function(x,y){ return x.slug == 'beth-simone-noveck' ? -1 : y.slug == 'beth-simone-noveck' ? 1 : 0; });
+    self.teamData = data2.data;
 })
 .catch(error => console.error(error));
     },
