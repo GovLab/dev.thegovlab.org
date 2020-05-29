@@ -64,7 +64,8 @@ new Vue({
   }
 ).then(data => {
   
-  data.data.sort(function(x,y){ return x.slug == 'stefaan-verhulst' ? -1 : y.slug == 'beth-simone-noveck' ? 1 : 0; });
+  
+  data.data.sort(function(x,y){ return x.slug == 'stefaan-verhulst' ? -1 : y.slug == 'stefaan-verhulst' ? 1 : 0; });
   data.data.sort(function(x,y){ return x.slug == 'beth-simone-noveck' ? -1 : y.slug == 'beth-simone-noveck' ? 1 : 0; });
   self.teamData = data.data;
 
