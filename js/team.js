@@ -20,7 +20,7 @@ main();
 ////////////////////////////////////////////////////////////
 
 
-// Vue.use(VueMeta);
+Vue.use(VueMeta);
 new Vue({
 
   el: '#teamlist',
@@ -49,7 +49,6 @@ new Vue({
   methods: {
 
     fetchTeam() {
-
       self = this;
       const client = new DirectusSDK({
         url: "https://directus.thegovlab.com/",
@@ -64,16 +63,11 @@ new Vue({
     fields: ['*.*','picture.*','projects.projects_id.*']
   }
 ).then(data => {
+  
+  data.data.sort(function(x,y){ return x.slug == 'stefaan-verhulst' ? -1 : y.slug == 'beth-simone-noveck' ? 1 : 0; });
+  data.data.sort(function(x,y){ return x.slug == 'beth-simone-noveck' ? -1 : y.slug == 'beth-simone-noveck' ? 1 : 0; });
+  self.teamData = data.data;
 
-  data.data.sort(function(x,y){
-    if (x.slug == 'stefaan-verhulst'){ return -1 } else if (y.slug == 'beth-simone-noveck'){return 1} else {return 0}; });
-    data.data.sort(function(x,y){
-      if (x.slug == 'beth-simone-noveck'){ return -1 } else if (y.slug == 'beth-simone-noveck'){return 1} else {return 0}; });
-
-      console.log(data.data);
-    return data
-}).then(data => {
-    self.teamData = data.data;
 })
 .catch(error => console.error(error));
     },
