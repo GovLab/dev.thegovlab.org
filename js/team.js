@@ -20,7 +20,7 @@ main();
 ////////////////////////////////////////////////////////////
 
 
-Vue.use(VueMeta);
+// Vue.use(VueMeta);
 new Vue({
 
   el: '#teamlist',
@@ -65,10 +65,10 @@ new Vue({
   }
 ).then(data => {
   console.log(data);
-  // data.data.sort(function(x,y){
-  //   if (x.slug == 'stefaan-verhulst'){ return -1 } else if (y == 'beth-simone-noveck'){return 1} else {return 0}; });
-  //   data.data.sort(function(x,y){
-  //     if (x.slug == 'beth-simone-noveck'){ return -1 } else if (y == 'beth-simone-noveck'){return 1} else {return 0}; });
+  data.data.sort(function(x,y){
+    if (x.slug == 'stefaan-verhulst'){ return -1 } else if (y == 'beth-simone-noveck'){return 1} else {return 0}; });
+    data.data.sort(function(x,y){
+      if (x.slug == 'beth-simone-noveck'){ return -1 } else if (y == 'beth-simone-noveck'){return 1} else {return 0}; });
 
   self.teamData = data.data;
 
