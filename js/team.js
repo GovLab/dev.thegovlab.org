@@ -64,12 +64,24 @@ new Vue({
   }
 ).then(data => {
 
-  Promise.all(data.data.sort(function(x,y){ console.log(x.slug); console.log(y.slug); return x.slug == 'stefaan-verhulst' ? -1 : y.slug == 'stefaan-verhulst' ? 1 : 0; }));
-  console.log(data.data);
+  var stefaan =  data.data.filter(function(obj) {
+  return obj.slug === 'stefaan-verhulst';
+})
+var beth =  data.data.filter(function(obj) {
+return obj.slug === 'beth-simone-noveck';
+})
+
+    data.data = data.data.filter(function(obj) {
+    return obj.slug !== 'stefaan-verhulst' && obj.slug !== 'beth-simone-noveck';
+  })
+
+
+  data.data.unshift(stefaan[0]);
+  data.data.unshift(beth[0]);
   return data;
 
 }).then(data2 => {
-  Promise.all(data2.data.sort(function(x,y){ return x.slug == 'beth-simone-noveck' ? -1 : y.slug == 'beth-simone-noveck' ? 1 : 0; }));
+
 
     self.teamData = data2.data;
 })
