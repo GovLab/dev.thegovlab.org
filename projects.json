@@ -1,0 +1,3041 @@
+[
+  {
+    "status": "define",
+    "is_featured": 0,
+    "problem_statement": "City Challenges is a process to help cities and their communities collaborate to develop innovative and implementable solutions to pressing urban problems.",
+    "tags": {
+      "product_category": [
+        "Iterating"
+      ],
+      "governance_area": [
+        "Collaborative Governance"
+      ],
+      "type_of_institution": [
+        "Local Governments"
+      ],
+      "innovative_capability": [
+        "Collective Intelligence"
+      ]
+    },
+    "is_active": true,
+    "results": null,
+    "rank": 2,
+    "related_question": 3,
+    "related_articles": [
+      {
+        "url": "https://www.forbes.com/sites/bethsimonenoveck/2018/01/24/city-challenges-collaborative-governing-for-public-problem-solving/",
+        "name": "City Challenges: Collaborative Governing for Public Problem Solving"
+      }
+    ],
+    "background": "<p>As the <a href=\"https://sustainabledevelopment.un.org/index.php?page=view&type=400&nr=746&menu=1515\">most urbanized</a> region of the planet, Latin American cities are growing rapidly \u2013 too rapidly to ensure effective problem-solving of the increasingly complex problems they are facing. </p>\n<p>With increased populations in urban areas comes increasing demands for services and responsive local level governments. Public expectations of what government should deliver <a href=\"http://www.mckinsey.com/industries/public-sector/our-insights/government-by-design-four-principles-for-a-better-public-sector\">have risen</a>. </p>\n<p>There is no silver bullet that cities can use to address these challenges. Rather, as we have seen from our pioneering experience helping governments to innovate, public institutions need to change how they work, becoming more data-driven, agile, innovative, and capable of tapping expertise from new sources.</p>\n<p>In many cases, city governments need not look far to find the tools needed to meet these challenges - often it is <a href=\"http://www.smarterstate.org\">their own civil servants</a> and their communities who are best positioned to identify <a href=\"http://articles.chicagotribune.com/2009-01-11/news/0901100331_1_cecilia-deyanira-velazquez-red-tape-social-security-institute\">where public services fall short</a> and also possess the specialized expertise needed to <a href=\"http://www.gao.gov/assets/690/680425.pdf\">solve complex public challenges</a>, be they traffic congestion, air quality, or educational attainment.  </p>\n<p>The objective of the project is to build a comprehensive conceptual framework with key illustrative case-studies to document and analyze how public institutions, especially cities, are using co-creation and/or open innovation to create new public engagement opportunities and what impact it is having in public problem-solving. </p>\n",
+    "images": null,
+    "long_description": "<p>During our first pilot in Monterrey, we focused on solving four problems: environment and reducing pollution; government efficiency and services; mobility and transportation; and public spaces and participation. </p> <p>The City received project proposals from 125 individuals (representing 52 teams) in response to the call to submit ideas to solve the problems described. They selected the ten best projects and we coached those ten teams in a 10-week program that combined online and offline coaching with mentorship from 20 different local and international mentors and 38 one-on-one interviews. As a result of the coaching, 6 out of 10 winning projects were being implemented within six weeks of the end of the coaching project. Learn more about the project\u2019s impact here.</p> <p>Based on our experience in Mexico, we anticipate that the Multi-City Challenges Program --namely running a City Challenge across multiple cities in parallel -- can accomplish four goals:</p> <ul>\n  <li><b>Problem Solving:</b> Help target cities make measurable and specific progress in their most urgent and important areas of urban sustainability by unlocking the energy and knowledge of multiple communities to increase shared prosperity, improve environmental impact, and bolster democratic legitimacy; </li>\n  <li><b>Training at Scale:</b> Teach public innovation and entrepreneurship skills to energize and empower civil servants and to help them govern differently and foster ongoing self-sufficiency in problem-solving;  </li>\n  <li><b>Replicable Process:</b> Give governments an empirically tested process (design and incentives) for engaging with their community on an ongoing basis to improve their effectiveness; and,</li>\n  <li><b>Social Cohesion:</b> Working across communities and focusing not on politics but on problem-solving will help to rebuild trust in public institutions and deepen democracy through civic engagement.</li>\n</ul>\n<b>The core goals of our proposed research are to:</b>\n<ul> <li>Deepen our understanding of the use and impact of open innovation for solving public problems;</li> <li>Assess and provide evidence for the premise that the Multi-City Challenges model has the potential to impact traditionally underrepresented cities in the innovation space in a variety of beneficial ways; and,</li> <li>Provide actionable insights to policymakers, civil society representatives, entrepreneurs, researchers and others seeking to use open innovation to solve public problems.</li> </ul>\n<p>City Challenges is far from the only program aimed at improving government, nor is it the first to use crowdsourcing, challenges, coaching, or impact measurement. What sets this model apart is the way it blends these approaches together to: 1) deliver immediately measurable impact; 2) build cities\u2019 long-term capacities to innovate through easy to replicate public engagement methodologies; 3) combine community and global expertise; 4) introduce experimental design to generate research insights; and 5) do so cost-effectively.</p>\n<p>&nbsp;</p>\n<h2>Board of Advisors</h2>\n<p>To support our efforts, we will draw on the collaborative insight and experience of the following Advisory Group:</p>\n<table class=\"e-people-list\">\n    <tr>\n        <td>\n            <div><a href=\"https://ash.harvard.edu/people/teresa-acu%C3%B1a\">Teresa Acu\u00f1a</a></div>\n            <div>Associate Director for Democratic Governance, Harvard Ash Center for Democratic Governance and Innovation</div>\n        </td>\n        <td>\n            <div><a href=\"http://dznarayanan.com/\">Darshana Narayanan</a></div>\n            <div>Independent Researcher and Consultant at Polis</div>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            <div><a href=\"https://www.linkedin.com/in/paulina-bustos-arellano-a8639610/\">Paulina Bustos Arellano</a></div>\n            <div>Co-Founder and Growth, C\u00edvica Digital</div>\n        </td>\n        <td>\n            <div><a href=\"https://medium.com/@luisdaniel\">Luis Daniel Palacios</a></div>\n            <div>News Automation Team Lead, Bloomberg</div>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            <div><a href=\"https://www.medialab-prado.es/personal/yago-bermejo-abati\">Yago Bermejo</a></div>\n            <div>Head of the Collective Intelligence for Democracy Lab, MediaLab Prado</div>\n        </td>\n        <td>\n            <div><a href=\"http://www.linkedin.com/in/Laurapaonessa\">Laura Paonessa</a></div>\n            <div>Consultant at the Knowledge, Innovation and Communication Department, Inter-American Development Bank</div>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            <div><a href=\"https://www.linkedin.com/in/jaimieboyd/\">Jaimie Boyd</a></div>\n            <div>Director of Open Government, Treasury Board of Canada Secretariat</div>\n        </td>\n        <td>\n            <div><a href=\"http://www.c-knowledge.co/founders.html\">Carolina Pozo</a></div>\n            <div>Co-Founder, Knowledge Economy Initiative</div>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            <div><a href=\"https://citiesofservice.org/about/team/mauricio-garcia/\">Mauricio Garc\u00eda</a></div>\n            <div>Deputy Director of Cities of Services</div>\n        </td>\n        <td>\n            <div><a href=\"https://www.linkedin.com/in/silviadarosa/\">Silvia da Rosa</a></div>\n            <div>Consultant in Open Government, Innovation and User Centered Design, Data Uruguay</div>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            <div><a href=\"https://uc3m.academia.edu/CeciliaGuemes\">Cecilia G\u00fcemes</a></div>\n            <div>Professor and Researcher at GIGAPP & Carlos III University</div>\n        </td>\n        <td>\n            <div><a href=\"https://www.linkedin.com/in/ofabro/\">Fabro Steibel</a></div>\n            <div>Executive Director, Institute for Technology &nbsp; Society of Rio de Janeiro</div>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            <div><a href=\"http://shuyanglin.com/\">Shu Yang Lin</a></div>\n            <div>vTaiwan Re:architect and Co-Founder of the Public Digital Innovation Space, Taiwan Executive Yuan</div>\n        </td>\n        <td>\n            <div><a href=\"http://www.mattstempeck.com/\">Matt Stempeck</a></div>\n            <div>Former Director of Civic Technology, Microsoft NYC</div>\n        </td>\n    </tr>\n</table>\n",
+    "partners": [
+      "Tinker Foundation"
+    ],
+    "title": "City Challenges",
+    "tooltip": null,
+    "social_media": null,
+    "location": [
+      "Global"
+    ],
+    "team": [
+      "Beth Simone Noveck",
+      "Dinorah Cant\u00fa-Pedraza",
+      "Gabriella Capone",
+      "Joel Urena",
+      "John Harlow",
+      "Sam DeJohn",
+      "Pablo Collada",
+      "Victoria Alsina"
+    ],
+    "short_description": null,
+    "type": "Collective Intelligence"
+  },
+  {
+    "status": "complete",
+    "is_featured": 0,
+    "problem_statement": "Explored innovative and practical ways to address the causes of mosquito-borne diseases in 4 Latin American countries in 2016.",
+    "tags": {
+      "product_category": [
+        "Event/Workshop",
+        "Mapping",
+        "Strategy"
+      ],
+      "governance_area": [
+        "National Governance"
+      ],
+      "type_of_institution": [
+        "Public Sector"
+      ],
+      "innovative_capability": [
+        "Collective Intelligence",
+        "Crowdsourcing",
+        "Expert Networks",
+        "Design Thinking",
+        "Rapid Prototyping"
+      ]
+    },
+    "image": "zika-logo-v2-01.png",
+    "is_active": true,
+    "results": "<p>The Smarter Crowdsourcing team conducted a series of interviews and research into the ideas that were generated during the conferences, identifying their costs and benefits, the steps required for implementation, and the key strategic decisions that governments would need to make along the way. The team\u2019s findings were combined into an Implementation Report, which consists of twenty initiatives selected for their importance and potential impact as well as their suitability for immediate implementation. The Implementation Report is designed to enable public authorities to translate these new ideas into practical improvements in the way they deliver policies and services. </p>\n",
+    "rank": 2,
+    "related_question": 5,
+    "project_website": "http://zika.smartercrowdsourcing.org/",
+    "background": "<p>Global and complex public health emergencies, such as Zika, Dengue and Chikungunya, threaten public health and well-being, risk disruption to global and regional trade and economic stability, and cause widespread uncertainty and concern. They are complex and interdependent problems that demand access to expertise that is diverse and widely dispersed. But mobilizing this expertise -- both credentialed know-how and experiential wisdom-- demands coordination and curation to bring the best thinking to bear and translate good ideas into actionable proposals backed by evidence.</p>\n",
+    "images": null,
+    "long_description": "<p>In response, the Governance Lab and the Inter-American Development Bank in partnership with the Governments of the City of Rio de Janeiro, Argentina, Colombia and Panama, hosted a series of online conferences from August-October 2016. Instead of a handful of people meeting once at great expense in a conference room, we used the Internet to mobilize and curate diverse and distributed expertise -- both credentialed know-how and experiential wisdom -- to identify, design and iterate upon implementable ideas that governments can use. Conference topics included:</p> <ol> <li>Assessing Public Awareness </li> <li>Communication and Behavior Change </li> <li>Trash and Standing Water </li> <li>Information Collection/Data Governance </li> <li>Long Term Care </li> <li>Predictive Analytics </li> </ol>\n",
+    "partners": [
+      "Inter-American Development Bank",
+      "City of Rio de Janeiro",
+      "Government of Argentina",
+      "Government of Panama",
+      "Government of Colombia"
+    ],
+    "style": "small",
+    "title": "Smarter Crowdsourcing Zika",
+    "tooltip": null,
+    "social_media": null,
+    "location": [
+      "Global"
+    ],
+    "team": [
+      "Beth Simone Noveck",
+      "Maria Hermosilla",
+      "Rafael F. Ayoub",
+      "Eleonore Pauwels",
+      "Denny Tek",
+      "Christopher Wong",
+      "Claudio Mendonca",
+      "Anna Bialas",
+      "Ena Bek"
+    ],
+    "short_description": null,
+    "type": "Collective Intelligence",
+    "related_articles": [
+      {
+        "url": "http://zika.smartercrowdsourcing.org/files/crowdsourcing-inteligente-para-el-zika-y-otras-enfermedades-transmitidas-por-mosquitos_2.pdf",
+        "name": "Download the Final Report in Spanish"
+      },
+      {
+        "url": "http://zika.smartercrowdsourcing.org/",
+        "name": "Project website"
+      },
+      {
+        "url": "http://thegovlab.org/smarter-crowdsourcing-for-zika/",
+        "name": "Blog - Smarter Crowdsourcing for Zika"
+      },
+      {
+        "url": "http://blogs.iadb.org/salud/2016/08/22/zika-3/",
+        "name": "Crowdsourcing Inteligente, Buscamos Expertos en Zika y Otras Enfermedades Transmitidas por Mosquitos"
+      },
+      {
+        "url": "static/files/zika-one-pager-iodc.pdf",
+        "name": "One-Pager"
+      },
+      {
+        "url": "http://elpais.com/elpais/2017/03/30/mamas_papas/1490859066_276188.html",
+        "name": "El primer cumplea\u00f1os de los ni\u00f1os afectados por el virus del zika"
+      }
+    ]
+  },
+  {
+    "status": "complete",
+    "is_featured": 0,
+    "problem_statement": "Worked with the Mexican government, civil society and over 100 global experts in the summer of 2017 to devise solutions to the problem of corruption in Mexico.",
+    "tags": {
+      "product_category": [
+        "Event/Workshop",
+        "Mapping",
+        "Strategy"
+      ],
+      "governance_area": [
+        "National Governance"
+      ],
+      "type_of_institution": [
+        "Public Sector"
+      ],
+      "innovative_capability": [
+        "Collective Intelligence",
+        "Crowdsourcing",
+        "Expert Networks",
+        "Design Thinking",
+        "Rapid Prototyping"
+      ]
+    },
+    "image": "anti-corruption-logo-v2-04.png",
+    "is_active": true,
+    "results": "<p></p>\n",
+    "rank": 3,
+    "related_question": 5,
+    "project_website": "http://anticorruption.smartercrowdsourcing.org",
+    "background": "<p>One in every three times a Mexican citizen interacts with government a bribe is paid (read more <a href=\"http://www.beta.inegi.org.mx/proyectos/enchogares/regulares/encig/2015/\">here</a> or <a href=\"https://www.tm.org.mx/indice-nacional-de-corrupcion-y-buen-gobierno-incbg/\">here</a>). The real cost of such a problem goes beyond the billions of diverted taxpayer pesos. It also hinders the delivery of essential government services, harms public safety, and reduces public trust in government. In a recent survey, corruption was named as the second most relevant problem in Mexico behind only crime and ahead of unemployment.</p> <p>In 2016, the challenge of corruption spurred an unprecedented legal reform process, driven by civil society. The passage of the National Anti-Corruption System calls for reforms across the federal government. The new legal framework \u2013which has been <a href=\"https://www.forbes.com/sites/themexicoinstitute/2016/07/18/mexico-wins-anti-corruption-reform-approved/#40be4e83618b\">widely heralded</a>\u2013 creates, for example, a specialized court on corruption crimes and it expands and improves the ethics obligations of public servants. Although the Sistema Nacional Anticorrupci\u00f3n (National Anti-Corruption System) has propelled Mexico to global leadership in the reach and strength of its anti-corruption laws, most of the battle still lies ahead, as government agencies, the judiciary, and civil society put this law into practice. </p>\n",
+    "images": null,
+    "long_description": "<p><a href=\"http://www.thegovlab.org/\">The GovLab</a>, in partnership with the <a href=\"http://www.iadb.org/\">Inter-American Development Bank (IDB)</a> and Mexico\u2019s <a href=\"http://www.gob.mx/sfp\">Secretariat of the Civil Service</a> (Secretar\u00eda de la Funci\u00f3n P\u00fablica, or SFP), held a series of online conferences to generate new, actionable ideas in the fight against corruption in Mexico.</p> <p>Using The GovLab\u2019s <a href=\"http://thegovlab.org/smarter-crowdsourcing-against-corruption/\">Smarter Crowdsourcing</a> method, a collaborative problem-solving technique pairing the agility and diversity of crowdsourcing with the curation of relevant know-how in a format designed to produce effective and implementable outcomes, the series brought together over 100 <a href=\"http://anticorruption.smartercrowdsourcing.org/map.html\">global experts</a> from 25 different countries with representatives from the Mexican government and civil society leaders.  These stakeholders and specialists convened virtually to share insights and identify innovative yet practical strategies capable of achieving measurable progress against corruption in six separate challenge areas:</p> <ul> <li>Measuring Corruption and Its Costs</li> <li>Fostering Openness and Integrity in the Judiciary</li> <li>Facilitating Citizen Participation in Policymaking</li> <li>Ensuring Whistleblower Support and Protection</li> <li>Increasing the Effectiveness of Prosecution</li> <li>Tracking and Analyzing Money Flows</li> </ul> <p>These six areas were delineated following a rigorous research and evaluation process carried out by the Governance Innovation Clinic at the Yale Law School, created and led by The GovLab\u2019s Director Professor Beth Simone Noveck. Graduate students in the Clinic, along with GovLab Research Fellows, conducted interviews and documented each issue extensively in an effort to define the problem of corruption by its root causes. In turn, the briefs they developed would anchor a specialized online session to focus the invited experts on identifying workable solutions in the form of new policies and services.</p>\n",
+    "partners": [
+      "Inter-American Development Bank",
+      "City of Rio de Janeiro",
+      "Government of Argentina",
+      "Government of Panama",
+      "Government of Colombia"
+    ],
+    "style": "small",
+    "title": "Smarter Crowdsourcing Anti Corruption",
+    "tooltip": null,
+    "social_media": null,
+    "location": [
+      "Global"
+    ],
+    "team": [
+      "Beth Simone Noveck",
+      "Kaitlin Koga",
+      "Rafael Garcia Aceves",
+      "Hannah Delenau",
+      "Denny Tek",
+      "Christopher Wong",
+      "Claudio Mendonca",
+      "Ena Bek"
+    ],
+    "short_description": null,
+    "type": "Collective Intelligence",
+    "related_articles": [
+      {
+        "url": "http://anticorruption.smartercrowdsourcing.org",
+        "name": "Project website"
+      },
+      {
+        "url": "https://medium.com/smarter-crowdsourcing/introducing-the-smarter-crowdsourcing-against-corruption-initiative-26d11033d6c7",
+        "name": "Blog - Smarter Crowdsourcing for Zika"
+      },
+      {
+        "url": "http://anticorruption.smartercrowdsourcing.org/files/scac-es_web.pdf",
+        "name": "Download the Final Report"
+      }
+    ]
+  },
+  {
+    "status": "define",
+    "is_featured": 0,
+    "problem_statement": "How can data be used to increase public safety and reduce incarceration?",
+    "tags": {
+      "product_category": [
+        "mapping",
+        "policy or law",
+        "strategy"
+      ],
+      "governance_area": [
+        "National Governance"
+      ],
+      "type_of_institution": [
+        "Public Sector"
+      ],
+      "innovative_capability": [
+        "Open data",
+        "Big data",
+        "Collective Intelligence",
+        "Expert networks",
+        "Open innovation",
+        "Agile Research"
+      ]
+    },
+    "image": "data-justice-network-v1-04.png",
+    "is_active": true,
+    "results": null,
+    "rank": 1,
+    "related_question": 1,
+    "related_articles": [
+      {
+        "url": "static/files/criminal-justice-one-pager-web.pdf",
+        "name": "One-Pager"
+      },
+      {
+        "url": "http://govlab.typeform.com/to/qPeday",
+        "name": "Criminal Justice & Social Service Data Sharing Questionnaire (October 2015)"
+      },
+      {
+        "url": "static/files/data-sharing-survey-results-web.pdf",
+        "name": "Toward a New Paradigm - Results of Surveys on Data Sharing and Data Readiness"
+      },
+      {
+        "url": "static/files/ddcj_spring16_testimonials.pdf",
+        "name": "Testimonials"
+      }
+    ],
+    "background": "<p>Jurisdictions across the country have found success implementing new evidence-based practices to reduce jail and prison populations, link more people with effective treatment in their communities, and generate cost savings without corresponding increases in crime; yet challenges in collecting, sharing and analyzing data continue to present significant barriers to widespread adoption of proven reforms and stifle opportunities for new innovation.</p>\n",
+    "images": null,
+    "long_description": "<p>To accelerate trusted access to data for improved management of our criminal justice system, the Governance Lab with the support of the Laura and John Arnold Foundation, is working to articulate principles, policies, practices, and tools for trusted data sharing that safeguard civil liberties while maximizing the opportunity for evidence-based policy making and reform.  The goal of the project is to enable greater collaboration between government and the research community to the end of improving effectiveness and legitimacy of our nation\u2019s criminal justice system.</p> <p>\n   <a href=\"static/files/DDCJ_outline.pdf\">Program Outline</a><br>\n   <a href=\"static/files/agenda_1.pdf\">1st Session Agenda</a><br>\n   <a href=\"static/files/agenda_2.pdf\">2nd Session Agenda</a><br>\n   <a href=\"static/files/agenda_3.pdf\">3rd Session Agenda</a>\n</p>\n",
+    "partners": [
+      "White House Office of Science and Technology Policy",
+      "Laura and John Arnold Foundation"
+    ],
+    "title": "Data-Driven Criminal Justice",
+    "project_website": null,
+    "social_media": null,
+    "location": [
+      "United States"
+    ],
+    "team": [
+      "Ana Tovar",
+      "Anirudh Dinesh",
+      "Beth Simone Noveck",
+      "Batu Sayici",
+      "Christopher Wong",
+      "Dinorah Cant\u00fa-Pedraza",
+      "Denny Tek"
+    ],
+    "short_description": "<p>To accelerate trusted access to data for improved management of our criminal justice system, the Governance Lab with the support of the Laura and John Arnold Foundation, is working to articulate principles, policies, practices, and tools for trusted data sharing that safeguard civil liberties while maximizing the opportunity for evidence-based policy making and reform.  The goal of the project is to enable greater collaboration between government and the research community to the end of improving effectiveness and legitimacy of our nation\u2019s criminal justice system.</p>\n",
+    "type": "Data"
+  },
+  {
+    "status": "complete",
+    "is_featured": 0,
+    "problem_statement": "What is the social and economic value of open data for developing economies?",
+    "tags": {
+      "product_category": [
+        "Case Studies"
+      ],
+      "governance_area": [
+        "National and Global Governance"
+      ],
+      "type_of_institution": [
+        "Government"
+      ],
+      "innovative_capability": [
+        "Open Data"
+      ]
+    },
+    "image": "open-data-dev-eco.png",
+    "is_active": true,
+    "rank": 3,
+    "related_question": 1,
+    "tooltip": null,
+    "background": "<p>Recent years have witnessed considerable speculation about the potential of open data to bring about wide-scale transformation. The bulk of existing evidence about the impact of open data, however, focuses on high-income countries. Much less is known about open data\u2019s role and value in low- and middle-income countries, and more generally about its possible contributions to economic and social development. The field lacks a coherent Theory of Change for how and in what contexts open data supports or hampers development.</p>\n",
+    "long_description": "<p>This project seeks to build an evidence base identifying: a) the conditions under which open data is most (and least) effective in the development process; b) strategies to maximize the positive contributions of open data to development; and c) means for limiting open data\u2019s harms on developing countries.</p> <p>Toward that end, we are landscaping the current field of research investigating the value of open data in low and middle income contexts and developing a collection of  in-depth, illustrative and detailed case studies to better understand how developing countries are responding to public demand to open their data, who is making use of that data and for what, and what impact it is having in several key domains.</p> <h4>Advisory Board Members:</h4> <ul>\n  <li>Izabela Corr\u00eaa, Former Coordinator for the Promotion of Ethics, Transparency, and Integrity, Directorate for Corruption Prevention, Brazil</li>\n  <li>Elena Ignatova, BlueSquare</li>\n  <li>Andr\u00e9 Laperri\u00e8re, Executive Director, Global Open Data Initiative for Agriculture and Nutrition (GODAN)</li>\n  <li>Maurice McNaughton, Director of the Centre of Excellence for IT Enabled Innovation, Mona School of Business and Management, University of the West Indies, Jamaica</li>\n  <li>Jean Philbert Nsengimana, Minister of Youth and Information Communication Technology, Rwanda</li>\n  <li>David Selassie Opoku, Open Data for Development (OD4D) Africa Lead, Open Knowledge International</li>\n  <li>Fernando Perini, International Development Research Center, Canada</li>\n  <li>Nii Narku Quaynor, Chairman, Network Computer Systems, Ghana</li>\n  <li>Nicole Stremlau, Programme in Comparative Media Law and Policy, University of Oxford, UK</li>\n</ul>\n",
+    "partners": [
+      "Web Foundation",
+      "Mobile Solutions, Technical Assistance and Research (mSTAR)",
+      "Program funded by the Global Development Lab at the United States Agency for International Development (USAID)"
+    ],
+    "style": "small",
+    "title": "Open Data in Developing Economies",
+    "project_website": null,
+    "social_media": [
+      null
+    ],
+    "location": [
+      "Global"
+    ],
+    "team": [
+      "Stefaan Verhulst",
+      "Andrew Young",
+      "Anirudh Dinesh",
+      "Prianka Srinivasan",
+      "Robert Montano",
+      "Saroj Bista"
+    ],
+    "short_description": "<p>This project seeks to build an evidence base identifying: a) the conditions under which open data is most (and least) effective in the development process; b) strategies to maximize the positive contributions of open data to development; and c) means for limiting open data\u2019s harms on developing countries.</p>\n",
+    "type": "Data",
+    "related_articles": null
+  },
+  {
+    "status": "test",
+    "is_featured": 0,
+    "problem_statement": "How to make open data accessible & usable?",
+    "tags": {
+      "product_category": [
+        "database",
+        "dataset",
+        "platform"
+      ],
+      "governance_area": [
+        "Global Governance"
+      ],
+      "type_of_institution": [
+        "Nonprofit",
+        "Academic",
+        "Corporate/Business",
+        "Public Sector"
+      ],
+      "innovative_capability": [
+        "Open data",
+        "Big data"
+      ]
+    },
+    "image": "docker.png",
+    "is_active": true,
+    "results": "<p>Because Docker for Data archives the extracted data sets, it functions as a repository for usable open data. On Docker, you can find:</p> <ul>\n  <li>Over 100GB of data</li>\n  <li>8229 datasets</li>\n  <li>55 different data portals</li>\n</ul>\n",
+    "rank": 1,
+    "related_question": 999,
+    "related_articles": [
+      {
+        "url": "static/files/docker-for-open-data.pdf",
+        "name": "\u201cDocker\u201d for (open)data"
+      }
+    ],
+    "background": "<p>Existing open data portals are focused on views of single data sets in the browser. This is great until you need to do deep analysis or build a business on it.</p> <p>Downloading big datasets can take hours. It can take many more hours finding the location of important small datasets, especially those not living on the same portal. Add in a few more hours to load everything into a real database and figure out the relations, and you've spent days (or thousands of dollars) on something trivial. </p> <p>It doesn\u2019t have to be this hard.</p>\n",
+    "images": [
+      "docker-for-data-1.jpg",
+      "docker-for-data-2.jpg",
+      "docker-for-data-3.jpg"
+    ],
+    "long_description": "<p>Docker for Data is a cloud-based open source toolkit to speed up the extraction and loading of large open datasets. It gives open data users a command that can install a broad variety of data sets into a SQL database directly. A user can load data like New York City\u2019s deeds and mortgages directly into a powerful SQL database in just minutes instead of hours.</p> <p>Users no longer have to worry about schemas, transformations, load processes, or waiting for slow data portals.  Data from many formats is standardized and ready to go, fast. Installation is a snap: users don\u2019t even need a SQL database installed beforehand. Docker for Data can be installed with <a href=\"https://github.com/talos/docker4data#try-it-out\" target=\"_blank\">one line of code</a>.</p>\n",
+    "partners": null,
+    "style": "medium",
+    "title": "Docker for Data",
+    "project_website": null,
+    "social_media": null,
+    "location": [
+      "Global"
+    ],
+    "team": [
+      "John Krauss"
+    ],
+    "short_description": "<p>Docker for Data is a cloud-based open source toolkit to speed up the extraction and loading of large open datasets. It gives open data users a command that can install a broad variety of data sets into a SQL database directly. A user can load data like New York City\u2019s deeds and mortgages directly into a powerful SQL database in just minutes instead of hours. </p>\n",
+    "type": "Data"
+  },
+  {
+    "status": "complete",
+    "is_featured": 0,
+    "problem_statement": "How to catalyze more governance innovators and policy entrepreneurs?",
+    "tags": {
+      "product_category": [
+        "platform",
+        "training, coaching & mentorship"
+      ],
+      "governance_area": [
+        "Global Governance",
+        "Regional Governance",
+        "National Governance",
+        "Local Governance"
+      ],
+      "type_of_institution": [
+        "Nonprofit",
+        "Academic",
+        "Public Sector"
+      ],
+      "innovative_capability": [
+        "Design Thinking",
+        "Agile Research",
+        "Rapid Prototyping"
+      ]
+    },
+    "image": "canvas.png",
+    "is_active": true,
+    "results": "<p>80+ teams from 20+ countries used the Canvas to take their project from idea to implementation</p>\n",
+    "rank": 4,
+    "related_question": 6,
+    "related_articles": [
+      {
+        "url": "http://www.nesta.org.uk/blog/tech4labs-issue-4-canvassing-value-proposition-your-public-lab-project#sthash.QtPH0Mtv.dpuf",
+        "name": "'Canvassing' the value proposition of your public lab project"
+      }
+    ],
+    "background": "<p>According to Forbes, the Valley of Death is a common term in the startup world, referring to the difficulty of covering the negative cash flow in the early stages of a startup. For most Public interest projects, \u200athe common death-traps include: </p> <ul>\n  <li>Defining the problem clearly</li>\n  <li>Knowing how to navigate the necessary bureaucracies</li>\n  <li>Developing compelling materials to convince the decision-makers</li>\n  <li>Identifying how to measure what works.</li>\n</ul> <p>Canvases - proven frameworks to facilitate idea generation & structured discussions - have been widely used by companies and entrepreneurs; but not so much by non-profits or social actors, as they haven\u2019t been able to capture the challenges that are unique to social and public ventures.</p>\n",
+    "images": [
+      "canvas-1.jpg",
+      "canvas-2.jpg",
+      "canvas-3.jpg",
+      "canvas-4.jpg"
+    ],
+    "long_description": "<p>Based on our experience <a href=\"http://govlabacademy.org/\" target=\"_blank\">teaching civic innovators</a>, the GovLab designed the Public Projects Canvas, a 20-question, collaborative framework to help those working on civic projects to become more impactful. In contrast to developing the business plan for a for-profit product, public projects demand consideration of key issues not captured by traditional canvasses, such as Sustainability and Impact, which are captured by the GovLab Canvas. </p> <p>At GovLab, we are using canvas for our internal projects and also for the coaching of 'students' in the context of the GovLab Academy. A canvas is a good way to bootstrap a brand new project. It can be also very useful for existing projects or even past projects.</p>\n",
+    "partners": [
+      "John S. and James L. Knight Foundation"
+    ],
+    "title": "The GovLab Public Projects Canvas",
+    "project_website": "http://canvas.govlabacademy.org/",
+    "social_media": null,
+    "location": [
+      "Global"
+    ],
+    "team": [
+      "Beth Simone Noveck",
+      "Dinorah Cant\u00fa-Pedraza",
+      "Claudio Mendonca"
+    ],
+    "short_description": "<p>Based on our experience <a href=\"http://govlabacademy.org/\" target=\"_blank\">teaching civic innovators</a>, the GovLab designed the Public Projects Canvas, a 20-question, collaborative framework to help those working on civic projects to become more impactful. In contrast to developing the business plan for a for-profit product, public projects demand consideration of key issues not captured by traditional canvasses, such as Sustainability and Impact, which are captured by the GovLab Canvas. </p>\n",
+    "type": "Design Thinking"
+  },
+  {
+    "status": "test",
+    "is_featured": 0,
+    "problem_statement": "How to empower civic & policy entrepreneurs to develop impactful real-word projects?",
+    "tags": {
+      "product_category": [
+        "training, coaching & mentorship"
+      ],
+      "governance_area": [
+        "National Governance",
+        "Local Governance"
+      ],
+      "type_of_institution": [
+        "Nonprofit",
+        "Academic",
+        "Corporate/Business",
+        "Public Sector"
+      ],
+      "innovative_capability": [
+        "Open Innovation",
+        "Design Thinking",
+        "Agile Research",
+        "Rapid Prototyping"
+      ]
+    },
+    "image": "govlab-academy-logo-orange.png",
+    "is_active": true,
+    "results": "<p>In a series of Masters-level courses and online (and offline) workshops and coaching programs funded by the John S. and James L. Knight Foundation, The GovLab and its network of 25 world-class coaches and over 100 mentors helped over 1000 participants in more than a dozen US cities and thirty countries to take a public interest technology project from idea to implementation. In the process, we\u2019ve learned a lot about the need for new ways of training the next generation of leaders and problem solvers. <p>Our participants come from more than 30 different countries, and we have recently expanded to launch globally-accessible massive open online courses (MOOCs) such as \u201cSolving Public Problems with Data\u201d and \u201cOpen Justice\u201d.</p> <p>Our aim has been to aid public entrepreneurs\u200a\u2014\u200apassionate and innovative people who wish to take advantage of new technology to do good in the world. That\u2019s why we measure success, not by the number of participants in a class, but by the projects participants create and the impact those projects have on communities.</p>\n",
+    "rank": 1,
+    "related_question": 6,
+    "related_articles": [
+      {
+        "url": "http://thegovlab.org/usda-and-govlab-academy-teamed-up-to-provide-a-first-of-its-kind-camp-for-dc-area-teens-focused-specifically-on-open-data-and-agriculture/",
+        "name": "USDA and GovLab Academy teamed up to provide a \u201cFirst of Its Kind\u201d Camp for DC-Area Teens Focused Specifically on Open Data and Agriculture"
+      },
+      {
+        "url": "http://thegovlab.org/the-govlab-academy-a-students-perspective/",
+        "name": "Behind the Scenes: The #RedHeartHacker Discusses the GovLab Academy"
+      },
+      {
+        "url": "http://thegovlab.org/govlab-academy-coaching-programs-updates/",
+        "name": "GovLab Academy Coaching Programs Updates!"
+      },
+      {
+        "url": "http://thegovlab.org/intellibins-llc-announces-launch-of-private-beta-mobile-app/",
+        "name": "Intellibins LLC Announces Launch of Private Beta Mobile App"
+      },
+      {
+        "url": "http://thegovlab.org/people-driven-governance-spains-podemos-party/",
+        "name": "People-Driven Governance: Spain\u2019s Podemos Party"
+      },
+      {
+        "url": "http://thegovlab.org/dr-samir-k-brahmachari-on-the-open-source-drug-discovery-project/",
+        "name": "Dr. Samir K. Brahmachari on the Open Source Drug Discovery project"
+      },
+      {
+        "url": "http://thegovlab.org/from-the-classroom-to-the-community-a-students-journey-post-solving-public-problems-using-technology/",
+        "name": "From the Classroom to the Community: A Student\u2019s Journey post-Solving Public Problems Using Technology"
+      },
+      {
+        "url": "http://thegovlab.org/solving-public-problems-with-technology/",
+        "name": "Solving Public Problems With Technology"
+      },
+      {
+        "url": "static/files/academy final report.pdf",
+        "name": "Training the Next Generation of Public Problem Solvers (Report)"
+      },
+      {
+        "url": "static/files/GovLab Academy Final Deck.pdf",
+        "name": "Training the Next Generation of Public Problem Solvers (Slide Deck)"
+      },
+      {
+        "url": "static/files/academy-one-pager.pdf",
+        "name": "Academy One Pager"
+      },
+      {
+        "url": "https://medium.com/@TheGovLab/training-the-next-generation-of-public-leaders-and-problem-solvers-54df25bb72af",
+        "name": "Ten Lessons learned"
+      }
+    ],
+    "background": "<p>Although many schools and programs teach the skills relevant to business innovation, aspiring public and social sector innovators have very few places to turn to receive the mentoring and support needed to take a technology-driven governance innovation project across a wide range of social issues from idea to implementation. Our objective has been to focus sharply on delivering learning experiences and support that make for successful governance innovation projects.</p>\n",
+    "images": [
+      "academy-1.jpg",
+      "academy-2.jpg",
+      "academy-3.jpg",
+      "academy-4.jpg",
+      "academy-5.jpg"
+    ],
+    "partners": [
+      "John S. and James L. Knight Foundation"
+    ],
+    "style": "medium",
+    "title": "The GovLab Academy",
+    "project_website": "http://govlabacademy.org",
+    "social_media": null,
+    "location": [
+      "Global"
+    ],
+    "team": [
+      "Beth Simone Noveck",
+      "Dinorah Cant\u00fa-Pedraza",
+      "Denny Tek",
+      "Christopher Wong",
+      "Claudio Mendonca",
+      "Anna Bialas"
+    ],
+    "short_description": "<p>Through coaching programs, workshops, courses and project clinics, and master classes, The GovLab Academy offers teams and individuals who are passionate about solving a public problem access to high-quality, curated content aimed at busy practitioners, mentoring designed to help take public interest projects from idea to implementation, connections to subject-matter experts, and tools for peer-to-peer learning and skill sharing.</p>\n",
+    "type": "Design Thinking"
+  },
+  {
+    "status": "complete",
+    "is_featured": 0,
+    "problem_statement": "How to make accessible insights on solving public problems?",
+    "tags": {
+      "product_category": [
+        "Website"
+      ],
+      "governance_area": [
+        "International Governance",
+        "National Governance",
+        "Local Governance"
+      ],
+      "type_of_institution": [
+        "International Organization",
+        "Public Sector"
+      ],
+      "innovative_capability": [
+        "Behavioral Science and Nudges",
+        "Big Data",
+        "Crowdsourcing",
+        "Collective Intelligence",
+        "Civic Technology",
+        "Expert Networking",
+        "Innovation Labs",
+        "Open Data"
+      ]
+    },
+    "image": "ogrx-logo-v2-02.png",
+    "is_active": true,
+    "rank": 5,
+    "related_question": 7,
+    "background": "<p>From crowdsourcing to nudges to open data to participatory budgeting, more open and innovative ways to tackle society's problems and make public institutions more effective are emerging. Yet little is known about what innovations actually work, when, why, for whom and under what conditions. Anyone seeking existing research relating to open data is confronted with sources that are widely dispersed across disciplines, often locked behind pay walls, and hard to search because of the absence of established taxonomies. As the demand to confront problems in new ways grows, so too does the urgency for making learning about governance innovations more accessible.</p>\n",
+    "images": null,
+    "long_description": "<p>OGRX is a platform for browsing and sharing research findings about new, innovative ways to solve public problems. It seeks to curate and make accessible a diversity of findings on innovating governance.</p> <p>Developed by the GovLab in collaboration with founding partners the World Bank Digital Engagement Evaluation Team and mySociety, OGRX provides:</p> <ul>\n  <li>A platform for researchers to share findings and methodologies;</li>\n  <li>A repository of theoretical and applied research on open and innovative governance techniques and tools;</li>\n  <li>A diversity of publication types \u2013 from research reports and journal articles to books and dissertations;</li>\n  <li>A taxonomy for browsing research by type of innovation, objective, region, sector or tool;</li>\n  <li>The ability to submit new research for inclusion on the site; and</li>\n  <li>A community for those interested and committed to studying the impact of governance innovations and a place for those with research questions to connect to those with projects to study.</li>\n</ul>\n",
+    "partners": null,
+    "style": "medium",
+    "title": "Open Governance Research Exchange (OGRX)",
+    "project_website": "http://ogrx.org/",
+    "social_media": null,
+    "location": [
+      "Global"
+    ],
+    "team": [
+      "Stefaan Verhulst",
+      "Andrew Young",
+      "Greyson Nevins-Archer",
+      "Christopher Wong",
+      "Claudio Mendonca",
+      "Mark Adkins-Hastings",
+      "Denny Tek",
+      "Anna Bialas"
+    ],
+    "short_description": "<p>OGRX is a platform for browsing and sharing research findings about new, innovative ways to solve public problems. It seeks to curate and make accessible a diversity of findings on innovating governance.</p>\n",
+    "type": "Collective Intelligence"
+  },
+  {
+    "status": "test",
+    "is_featured": 1,
+    "problem_statement": "Creating Public Value by Exchanging Data",
+    "tags": {
+      "product_category": [
+        "Case Studies",
+        "Website"
+      ],
+      "governance_area": [
+        "International Governance",
+        "National Governance",
+        "Local Governance"
+      ],
+      "type_of_institution": [
+        "International Organization",
+        "Public Sector",
+        "Corporate/Business"
+      ],
+      "innovative_capability": [
+        "Data Collaboratives"
+      ]
+    },
+    "image": "datacollab.png",
+    "is_active": true,
+    "rank": 10,
+    "related_question": 2,
+    "related_articles": null,
+    "background": "<p>As public problems grow in complexity and increasingly require new insights, decision-makers both inside and outside government have begun exploring ways to be more data-driven and collaborative. Several of society\u2019s greatest challenges\u2014from addressing climate change to achieving the Sustainable Development Goals\u2014require greater access to data, ability to analyze particular kinds of datasets, and collaboration between public- and private-sector entities. However, much of the most useful, timely and comprehensive data resides with the private sector\u2014in the form of, for instance, Web clicks, online purchases, market research, sensor data, and data generated from the use of mobile phones. If we truly want to leverage the potential of data to improve people\u2019s lives, then we need to accelerate the creation and use of \u201cdata collaboratives\u201d in which participants from different sectors\u200a\u2014\u200aincluding private companies, research institutions, and government agencies\u200a\u2014\u200acan exchange data to help solve public problems.</p>\n",
+    "images": null,
+    "long_description": "<p>The GovLab is advancing a number of initiatives focused on increasing our understanding of data collaboratives. The hub of this work, DataCollaboratives.org, is a resource on creating public value by exchanging data, collecting examples of data collaboratives from around the world, and providing information on how to develop and implement a data collaborative. The site, and the GovLab\u2019s work on the topic in general, seeks to provide insight on how the responsible exchange of corporate data can improve people\u2019s lives.</p>\n",
+    "partners": [
+      "Omidyar Network",
+      "UNICEF"
+    ],
+    "style": "cover",
+    "title": "DataCollaboratives .org",
+    "project_website": "http://datacollaboratives.org/",
+    "social_media": null,
+    "location": [
+      "Global"
+    ],
+    "team": [
+      "Stefaan Verhulst",
+      "Andrew Young",
+      "Prianka Srinivasan",
+      "Robert Montano",
+      "Christopher Wong",
+      "Claudio Mendonca",
+      "Ena Bek",
+      "Denny Tek",
+      "Mark Adkins-Hastings",
+      "Anna Bialas",
+      "Andrew Zahuranec",
+      "Michelle Winowatan"
+    ],
+    "short_description": "<p>The GovLab is advancing a number of initiatives focused on increasing our understanding of data collaboratives. The hub of this work, DataCollaboratives.org, is a resource on creating public value by exchanging data, collecting examples of data collaboratives from around the world, and providing information on how to develop and implement a data collaborative. The site, and the GovLab\u2019s work on the topic in general, seeks to provide insight on how the responsible exchange of corporate data can improve people\u2019s lives.</p>\n",
+    "type": "Data"
+  },
+  {
+    "status": "prototype",
+    "is_featured": 0,
+    "problem_statement": "How to leverage cross-sector data-sharing to improve the lives of children?",
+    "tags": {
+      "product_category": [
+        "Case Studies",
+        "Event/Workshop",
+        "Strategy",
+        "Website"
+      ],
+      "governance_area": [
+        "International Governance"
+      ],
+      "type_of_institution": [
+        "International Organization",
+        "Public Sector",
+        "Corporate/Business"
+      ],
+      "innovative_capability": [
+        "Data Collaboratives"
+      ]
+    },
+    "image": "unicef-logo.png",
+    "is_active": true,
+    "rank": 9,
+    "related_question": 999,
+    "related_articles": null,
+    "background": "<p>Recent years have seen exponential growth in the amount of data being generated and stored around the world. There is increasing recognition that this data can play a key role in solving some of the most difficult public problems we face \u2013 including problems facing children around the world. However, much of the potentially useful data is currently privately held and not available for public insights. Data in the form of web clicks, social \u201clikes,\u201d geolocation and online purchases are typically tightly controlled, usually by entities in the private sector. Companies today generate an ever-growing stream of information from our proliferating sensors and devices. Increasingly, they\u2014and various other actors\u2014are asking if there is a way to make this data available for the public good. There is an ongoing search for new models of corporate responsibility in the digital era around data toward the creation of \u201cdata collaboratives\u201d.</p>\n",
+    "images": null,
+    "long_description": "<p>Working together with UNICEF, in collaboration with the UN Global Pulse, the GovLab is seeking to leverage the potential of private sector data to improve children\u2019s lives through the study and creation of data collaboratives. To accelerate solutions to the problems UNICEF works on and to bolster UNICEF\u2019s efforts to become more open and data-driven, the GovLab will help UNICEF and the UN Global Pulse identify and craft data philanthropy collaborations with private sector companies in support of UNICEF\u2019s mission.</p> <p>The 18-month initiative being comprises a number of activities aimed at increasing insight on current data collaboratives practice, what works and what doesn\u2019t, how to share data in a trusted manner using data governance frameworks, and what steps and conditions must be in place in order to ensure the exchange of value. New resources developed for the project (available at DataCollaboratives.org) aim to: map the current data collaboratives ecosystem, articulate policies and frameworks for responsibly sharing data for the public good, and help practitioners operationalize this next generation of public-private partnership to solve big public problems, including but not limited to improving the lives of children around the world.</p>\n",
+    "partners": [
+      "UNICEF",
+      "Omidyar Network"
+    ],
+    "style": "medium",
+    "title": "Data Collaboratives to Improve Children\u2019s Lives",
+    "project_website": "http://datacollaboratives.org/",
+    "social_media": null,
+    "location": [
+      "Global"
+    ],
+    "team": [
+      "Stefaan Verhulst",
+      "Andrew Young",
+      "Prianka Srinivasan"
+    ],
+    "short_description": "<p>Working together with UNICEF, in collaboration with the UN Global Pulse, the GovLab is seeking to leverage the potential of private sector data to improve children\u2019s lives through the study and creation of data collaboratives. To accelerate solutions to the problems UNICEF works on and to bolster UNICEF\u2019s efforts to become more open and data-driven, the GovLab will help UNICEF and the UN Global Pulse identify and craft data philanthropy collaborations with private sector companies in support of UNICEF\u2019s mission.</p>\n",
+    "type": "Data"
+  },
+  {
+    "status": "prototype",
+    "is_featured": 0,
+    "problem_statement": "How to develop an open map of the field of Internet Governance through crowdsourcing?",
+    "tags": {
+      "product_category": [
+        "platform",
+        "mapping"
+      ],
+      "governance_area": [
+        "Internet Governance"
+      ],
+      "type_of_institution": [
+        "Nonprofit"
+      ],
+      "innovative_capability": [
+        "Open data",
+        "Crowdsourcing"
+      ]
+    },
+    "image": "netmundial-logo.png",
+    "is_active": true,
+    "rank": 3,
+    "related_question": 999,
+    "related_articles": [
+      {
+        "url": "http://thegovlab.org/?s=Netmundial+solutions+map",
+        "name": "Beta Release of the NETmundial Solutions Map"
+      }
+    ],
+    "background": "<p>Across the world, the Internet has rapidly become essential to people\u2019s daily lives. Access to the Internet impacts all aspects of society. Subsequently, how the Internet is governed has grown in importance but also has become much more complex to navigate. In particular: </p> <ul>\n  <li>Information about internet governance is scattered and hard to find.</li>\n  <li>Internet governance is a global issue that requires collaboration and coordination, yet identifying who is already working on what issue within and across countries is currently difficult;</li>\n  <li>Information sharing on Internet governance can enable bottom-up participation and lead to increasingly legitimate and effective solutions</li>\n</ul>\n",
+    "images": [
+      "netmundial-1.jpg",
+      "netmundial-2.jpg"
+    ],
+    "long_description": "<p>The <a href=\"https://map.netmundial.org/\" target=\"_blank\">NETmundial Solutions Map</a>, an activity of the <a href=\"https://www.netmundial.org/\" target=\"_blank\">NETmundial Initiative</a>, is a tool to support decision makers at all levels and across sectors to make informed decisions on how to govern different aspects of the Internet by providing an open platform of information sharing and collaboration across Internet governance issues. It is designed to facilitate a \u201cdistributed Internet governance ecosystem that can propel the Internet as a shared, neutral, and global resource for human solidarity and economic progress (<a href=\"https://www.netmundial.org/\" target=\"_blank\">NETmundial Initiative</a>).\u201d </p> <p>The Map, currently released in Beta,  is organized around connections between Internet governance issues, actors, solutions and resources and supports several functionalities, including:</p> <ul>\n  <li>A searchable, interactive open database of issues, actors, solutions and resources</li>\n  <li>A visualization of connections between actors, responses and resources</li>\n  <li>A crowdsourced content repository</li>\n  <li>A platform to support action</li>\n</ul>\n",
+    "partners": [
+      "SecondRise",
+      "Association for Progressive Communications",
+      "Berkman",
+      "Center for Global Communication studies",
+      "Friends of the IGF",
+      "Global Internet Policy Observatory",
+      "Global Partners Digital",
+      "Internet Policy Observatory",
+      "Internet & Jurisdiction",
+      "Instituto de Tecnologia & Sociedade do Rio",
+      "Media Change and Innovation",
+      "MacArthur Foundation Research Network on Opening Governance",
+      "Observat\u00f3rio da Internet no Brasil",
+      "University of Oxford",
+      "FGV - Funda\u00e7\u00e3o Get\u00falio Vargas - Direito Rio"
+    ],
+    "style": "medium",
+    "title": "NETmundial Solutions Map",
+    "project_website": "https://map.netmundial.org/",
+    "social_media": null,
+    "location": [
+      "Global"
+    ],
+    "team": [
+      "Stefaan Verhulst"
+    ],
+    "short_description": "<p>The <a href=\"https://map.netmundial.org/\" target=\"_blank\">NETmundial Solutions Map</a>, an activity of the <a href=\"https://www.netmundial.org/\" target=\"_blank\">NETmundial Initiative</a>, is a tool to support decision makers at all levels and across sectors to make informed decisions on how to govern different aspects of the Internet by providing an open platform of information sharing and collaboration across Internet governance issues. It is designed to facilitate a \u201cdistributed Internet governance ecosystem that can propel the Internet as a shared, neutral, and global resource for human solidarity and economic progress (<a href=\"https://www.netmundial.org/\" target=\"_blank\">NETmundial Initiative</a>).\u201d </p>\n",
+    "type": "Collective Intelligence"
+  },
+  {
+    "status": "test# define, prototype, test, complete",
+    "is_featured": 0,
+    "problem_statement": "How to make open government data more relevant, accessible, and actionable?",
+    "tags": {
+      "product_category": [
+        "case studies",
+        "dataset",
+        "platform"
+      ],
+      "governance_area": [
+        "National Governance"
+      ],
+      "type_of_institution": [
+        "Corporate/Business",
+        "Public Sector"
+      ],
+      "innovative_capability": [
+        "Open data"
+      ]
+    },
+    "image": "od500-transparent.png",
+    "is_active": true,
+    "results": null,
+    "rank": 6,
+    "related_question": 2,
+    "related_articles": [
+      {
+        "url": "static/files/od500-one-pager-2016.pdf",
+        "name": "OpenData 500 One Pager"
+      }
+    ],
+    "background": "<p>In 2014, GovLab launched Open Data 500 (www.opendata500.com), supported by the John S. and James L. Knight Foundation. The OD500 is the first comprehensive study of U.S. based companies that use open government data as a key business resource. The name \u201cOD500\u201d originates from the research ambition to identify 500 U.S. companies that are using open government data. The tool provides a way to map and visualize the relationships between companies and open government datasets, as well as to conduct other sector-by-sector analyses. </p>\n",
+    "images": [
+      "open-data-network-1.jpg",
+      "open-data-network-2.jpg",
+      "open-data-network-3.jpg"
+    ],
+    "partners": null,
+    "style": "small",
+    "title": "Open Data 500 Global Network",
+    "project_website": "http://www.opendata500.com/",
+    "social_media": null,
+    "location": [
+      "Australia",
+      "Italy",
+      "Korea",
+      "Mexico",
+      "U.S."
+    ],
+    "team": [
+      "Stefaan Verhulst",
+      "Julia Root",
+      "John Krauss",
+      "Denny Tek",
+      "David Naffis",
+      "Christopher Wong",
+      "Claudio Mendonca",
+      "Mark Adkins-Hastings",
+      "Anna Bialas",
+      "Ena Bek"
+    ],
+    "short_description": "<p>The <a href=\"http://www.opendata500.com\" target=\"_blank\">OD500 Global Network</a> is an international network of organizations that seeks to study the use and economic impact of open government data. Coordinated by The GovLab, an action research institute at New York University, the OD500 Global Network enables participating organizations to analyze how open government data is being used in their country in a manner that is both globally comparative and domestically specific.</p>\n",
+    "type": "Data"
+  },
+  {
+    "status": "complete",
+    "is_featured": 0,
+    "problem_statement": "Can we accelerate innovation in government by making expertise of individuals searchable?",
+    "tags": {
+      "product_category": [
+        "platform"
+      ],
+      "governance_area": [
+        "Regional Governance",
+        "National Governance"
+      ],
+      "type_of_institution": [
+        "Public Sector"
+      ],
+      "innovative_capability": [
+        "Collective Intelligence",
+        "Expert networks",
+        "Design Thinking",
+        "Rapid Prototyping"
+      ]
+    },
+    "image": "noi-08.png",
+    "is_active": true,
+    "results": "<p>This project is still in its infancy with deployments of the platform in eight countries anticipated during 2015. The anticipated impact, however, is greater understanding and demonstration of how targeting people -- in this case government employees -- on the basis of their skills can accelerate innovation.</p>\n",
+    "rank": 2,
+    "related_question": 999,
+    "related_articles": [
+      {
+        "url": "static/files/noi-one-pager-cropped.pdf",
+        "name": "Network of Innovators One Pager"
+      },
+      {
+        "url": "https://medium.com/@bethnoveck/matching-demand-to-the-supply-of-open-data-know-how-the-network-of-innovators-experiment-e410df91556a",
+        "name": "Matching Demand to the Supply of Open Data Know How: The Network of Innovators Experiment"
+      },
+      {
+        "url": "http://thegovlab.org/network-of-innovators-expert-networking-for-open-data/",
+        "name": "Network of Innovators: Expert Networking for Open Data"
+      },
+      {
+        "url": "https://medium.com/@bethnoveck/the-network-of-innovators-experiment-what-we-are-learning-about-expertise-matching-6470ebe5fbe0",
+        "name": "The Network of Innovators Experiment: What We Are Learning about Expertise Matching"
+      },
+      {
+        "url": "https://www.whitehouse.gov/the-press-office/2015/10/07/fact-sheet-administration-celebrates-five-year-anniversary-challengegov",
+        "name": "FACT SHEET: Administration Celebrates Five-Year Anniversary of Challenge.gov with Launch of More than 20 New Public- and Private-Sector Prizes"
+      }
+    ],
+    "background": "<p>There is possibly no more important public issue today than how to enable our governing organizations to recognize and implement innovative and effective solutions to problems. Administrations that are supposed to solve critical problems on their own are inadequate for a complex, networked world. Governments need to learn to make use of the expertise of others \u2014 formal scientific knowledge and credentials, skills and experiences inside and outside of government \u2014 to tackle the challenges society will face in the coming years.</p>\n",
+    "images": [
+      "noi-logged-out-index.png",
+      "noi-logged-in-search_expertise.png",
+      "noi-add-skills.png",
+      "noi-match-me.png",
+      "noi-match-me-results.png",
+      "noi-discourse.png"
+    ],
+    "long_description": "<p>NoI is premised on the belief that traditional titles and academic credentials do not adequately convey the skills and experiences people have and would willingly share.  By promoting the exchange of knowledge about more agile, data-driven, open and collaborative approaches to working, NoI aims to enhance how we govern and solve public problems.</p>\n",
+    "partners": [
+      "Argentina, Office of the Chief Technology Officer of Buenos Aires",
+      "South Australia, Office of Participation and Partnerships",
+      "External Relations, Strategic Engagement and Communications, Department of the Premier and Cabinet, Government of South Australia",
+      "Canada, Policy Innovation, Central Innovation HUB and Executive Director, Citizen Engagement, Government Communications and Public Engagement, British Columbia",
+      "Chile, Ministerio de la Secretaria General de la Presidencia Mexico, Directora General de Datos Abiertos, Coordinaci\u00f3n de strategia Digital Nacional Presidencia de la Rep\u00fablica and Director General de Innovaci\u00f3n y Participaci\u00f3n Ciudadana, Estrategia Digital Nacional, Presidencia de la Republica",
+      "United Kingdom, Director of Open Data and Government Innovation at the Cabinet Office, Open Government Lead"
+    ],
+    "title": "Network of Innovators",
+    "project_website": "http://noi.thegovlab.org",
+    "social_media": null,
+    "location": [
+      "Australia",
+      "Argentina",
+      "Canada",
+      "Chile",
+      "Mexico",
+      "United States",
+      "United Kingdom"
+    ],
+    "team": [
+      "Beth Simone Noveck",
+      "Batu Sayici",
+      "Anupama Sharma",
+      "Andrew Young",
+      "John Krauss",
+      "Claudio Mendonca",
+      "Christopher Wong",
+      "Atul Varma",
+      "David Naffis",
+      "Mark Adkins-Hastings",
+      "Anna Bialas",
+      "Ena Bek"
+    ],
+    "short_description": "<p>Network of Innovators (NoI) is a skill sharing network enabling government and civic innovators to assess their problem-solving skills and get matched to those with complementary knowledge for mutual learning.</p>\n",
+    "type": "Collective Intelligence"
+  },
+  {
+    "status": "define",
+    "is_featured": 0,
+    "problem_statement": "How can universities tap into the knowledge and skills that exist in their diverse communities?",
+    "tags": {
+      "product_category": [
+        "platform",
+        "strategy"
+      ],
+      "governance_area": [
+        "Local Governance"
+      ],
+      "type_of_institution": [
+        "Academic"
+      ],
+      "innovative_capability": [
+        "Collective Intelligence",
+        "Expert networks",
+        "Open innovation",
+        "Design Thinking"
+      ]
+    },
+    "image": "open-nyu.png",
+    "is_active": true,
+    "results": null,
+    "rank": 4,
+    "related_question": 999,
+    "related_articles": null,
+    "background": "<p>In mid-2013, The GovLab was invited to advise New York University on how to use cutting-edge Information & Communication Technology  tools and an open innovation process for collaborative decision-making. Called the Open Peer Engagement Network (Open NYU), the goal of the project has been to develop techniques and platforms for NYU to tap into the knowledge and talents that exist within its diverse community of students, faculty, staff, researchers, alumni and administrative leadership.</p>\n",
+    "images": null,
+    "partners": [
+      "NYU University Enterprise Initiatives"
+    ],
+    "style": "medium",
+    "title": "OPEN NYU",
+    "project_website": null,
+    "social_media": null,
+    "location": [
+      "United States"
+    ],
+    "team": [
+      "Beth Simone Noveck",
+      "Julia Root",
+      "Batu Sayici",
+      "Christopher Wong"
+    ],
+    "short_description": "<p>The GovLab is designing and operationalizing an expert network tool at NYU where data science expertise can be found and made manifest by internal users as well as external decision-makers like policymakers in the White House, Congress, and other public institutions. The goal is to overcome the practical problem that there is currently no way for policymakers to find specialized outside expertise quickly. In developing a working prototype, we are testing the hypothesis that when people are matched to the right opportunity to answer compelling questions on the basis of their skills, they are more likely to use their skills to solve public policy dilemmas.</p>\n",
+    "type": "Collective Intelligence"
+  },
+  {
+    "status": "define",
+    "is_featured": 0,
+    "problem_statement": "How can crowdsourcing and open data be used to gain better information about companies?",
+    "tags": {
+      "product_category": [
+        "Platform"
+      ],
+      "governance_area": [
+        "National Governance"
+      ],
+      "type_of_institution": [
+        "Corporate/Business"
+      ],
+      "innovative_capability": [
+        "Open data",
+        "Collective Intelligence",
+        "Crowdsourcing",
+        "Open innovation",
+        "Design Thinking"
+      ]
+    },
+    "is_active": true,
+    "results": "<p>By making information about players in the Extractives industry more accessible, the project will seek to increase the transparency and accountability of those actors. Moreover, the initial pilot phase of the project will help to uncover an optimal methodology for combining crowdsourcing and open data to yield new insights into institutional behaviors.</p>",
+    "rank": 10,
+    "related_question": 999,
+    "related_articles": [
+      {
+        "url": "http://dotank.nyls.edu/2011/02/15/orgpedia/",
+        "name": "The OrgPedia Open Organizational Data Project"
+      }
+    ],
+    "background": "<p>Both corporate identities and activities remain too opaque and complex to get a full 3D view of any given company. To gain a greater understanding of corporations and their activities, the OrgPedia project aims to prototype the tools, processes and incentives for combining open government data, such as regulatory filings, with open private data, such as NGO reports, and crowdsourced data gathered from individuals about companies.</p>\n",
+    "images": null,
+    "long_description": "<p>To build the foundation for the OrgPedia Project, the GovLab is developing the methodology, prototype, platform, and pilot a program to solicit, aggregate, and organize crowdsourced intelligence on a select number of corporations in the Extractives Industry \u2013 i.e., the oil, gas, and mining sectors. The project is to be designed with the goal of understanding whether it is possible to: </p> <ul> <li>Build an open, public business intelligence system combining crowdsourcing and open data; </li> <li>See the provenance and reliability (reputation) of data drawn from these different sources; </li> <li>Understand what kinds of information crowdsourcing will yield, including information about what a company does, what it produces, who its owners, partners and collaborators are, and what channels and asset flows it uses.</li> </ul>\n",
+    "partners": [
+      "American International Group, Inc. (AIG)"
+    ],
+    "title": "OrgPedia - Crowdsourcing and Impact Modeling",
+    "project_website": null,
+    "social_media": null,
+    "location": [
+      "Global"
+    ],
+    "team": [
+      "Beth Simone Noveck",
+      "Batu Sayici",
+      "Christopher Wong",
+      "Claudio Mendonca",
+      "Anna Bialas",
+      "Mark Adkins-Hastings"
+    ],
+    "short_description": "<p>To build the foundation for the OrgPedia Project, the GovLab is developing the methodology, prototype, platform, and pilot a program to solicit, aggregate, and organize crowdsourced intelligence on a select number of corporations in the Extractives Industry \u2013 i.e., the oil, gas, and mining sectors. The project is to be designed with the goal of understanding whether it is possible to: </p>\n",
+    "type": "Data"
+  },
+  {
+    "status": "prototype",
+    "is_featured": 0,
+    "problem_statement": "How can Congressional oversight processes be made more efficient and transparent?",
+    "tags": {
+      "product_category": [
+        "database",
+        "platform"
+      ],
+      "governance_area": [
+        "National Governance"
+      ],
+      "type_of_institution": [
+        "Public Sector"
+      ],
+      "innovative_capability": [
+        "Open data"
+      ]
+    },
+    "is_active": true,
+    "results": null,
+    "rank": 2,
+    "related_question": 999,
+    "related_articles": null,
+    "background": "<p>Members of Congress send formal \u201coversight\u201d letters to cabinet departments and independent agencies on a dizzying array of topics. These letters can contain many different kinds of \u201casks\u201d of the executive branch, including issuing or revising a particular regulation, changing an interpretation of an existing rule, initiating an investigation and many others. Such communication is a core component of Congress\u2019s oversight work and a key way for Members to shape policy. Yet, there exists no simple, accessible way to discover which Members have written which agencies on which issues, and with what outcomes. The Legisletters project aims to fix that by creating a living, searchable archive of the formal letters that Members of Congress send.</p>\n",
+    "images": [
+      "legisletters.jpg"
+    ],
+    "long_description": "<p>Legisletters is an automatic web crawler that gathers and classifies letters written by Members of Congress from legislators' websites. Because letters often are published in ways that are difficult to automatically read, in particular PDF formats, we have a long-term vision of user participation to improve the quality of Legisletters:</p> <ul>\n  <li>Engaging the offices of congresspeople to help them publish their documents in open formats.</li>\n  <li>Asking users to improve the quality of existing letters by allowing them to classify different sections and fix errors.</li>\n  <li>Permitting the addition of letters that have not been automatically discovered, both by link and upload.</li>\n</ul>\n",
+    "partners": null,
+    "title": "Legisletters",
+    "project_website": "http://legisletters.com/",
+    "social_media": null,
+    "location": [
+      "United States"
+    ],
+    "team": [
+      "John Krauss"
+    ],
+    "short_description": "<p>Legisletters is an automatic web crawler that gathers and classifies letters written by Members of Congress from legislators' websites. Because letters often are published in ways that are difficult to automatically read, in particular PDF formats, we have a long-term vision of user participation to improve the quality of Legisletters:</p>\n",
+    "type": "Data"
+  },
+  {
+    "status": "test",
+    "poject_website": "http://crowdsourcingadvisor.org/",
+    "is_featured": 0,
+    "problem_statement": "How can we give decision-makers the information necessary to develop impactful crowdsourcing initiatives?",
+    "tags": {
+      "product_category": [
+        "Case Studies",
+        "Guide",
+        "Platform"
+      ],
+      "governance_area": [
+        "Global Governance",
+        "Regional Governance",
+        "National Governance",
+        "Local Governance"
+      ],
+      "type_of_institution": [
+        "Nonprofit",
+        "Academic",
+        "Corporate/Business",
+        "Public Sector"
+      ],
+      "innovative_capability": [
+        "Collective Intelligence",
+        "Crowdsourcing",
+        "Citizen Engagement"
+      ]
+    },
+    "image": "crowdsorcerer.png",
+    "is_active": true,
+    "results": null,
+    "rank": 9,
+    "related_question": 999,
+    "related_articles": [
+      {
+        "url": "http://thegovlab.org/is-crowdsourcing-the-right-tool-for-your-project/",
+        "name": "Is Crowdsourcing the right tool for your project?"
+      }
+    ],
+    "background": "<p>Knowing when and how to use crowdsourcing is hard: there are more than 40 different definitions of crowdsourcing; there is little conclusive evidence of what works and when and, even though there is an abundance of tools and examples, information is disorganized and not well-suited to help a decision-maker know what to do. Under the assumption that there is no single right way of doing crowdsourcing but, rather, engagement must be tailored to each needs and circumstances, the Advisor builds on the experience of others and attempts to help decision-makers in the public and private sectors make an informed decision about when and how to use crowdsourcing.</p>\n",
+    "images": [
+      "crowdsourcerer-1.jpg",
+      "crowdsourcerer-2.jpg",
+      "crowdsourcerer-3.jpg"
+    ],
+    "partners": null,
+    "style": "contain",
+    "title": "Crowdsorcerer",
+    "social_media": null,
+    "location": [
+      "Global"
+    ],
+    "team": [
+      "Beth Simone Noveck",
+      "Dinorah Cant\u00fa-Pedraza",
+      "Irene Tello-Arista"
+    ],
+    "short_description": "<p>Through a guided interview, the Crowdsourcing Advisor not only helps to identify the key elements one must consider when designing a crowdsourcing project, but also provides a report of the most important case studies (drawn from our knowledge-base) and learnings tailored to the needs and circumstances of the user.</p>\n",
+    "type": "Collective Intelligence"
+  },
+  {
+    "status": "complete",
+    "is_featured": 0,
+    "problem_statement": "How to obtain more usable data about the nonprofit sector and whether open data can improve the performance of nonprofits",
+    "tags": {
+      "product_category": [
+        "Publication"
+      ],
+      "governance_area": [
+        "National Governance"
+      ],
+      "type_of_institution": [
+        "Nonprofit"
+      ],
+      "innovative_capability": [
+        "Open data",
+        "Big data"
+      ]
+    },
+    "image": "information-for-impact.jpg",
+    "is_active": true,
+    "results": "<p>As a result in part of the work done in collaboration with and under the auspices of the Aspen Institute to make the case for opening up IRS-held data about the nonprofit sector and to explain why this could be transformative, the IRS issued a statement on June 30, 2015 that: \u201cThe IRS has made substantial progress in developing a technology solution that, when perfected, will allow the IRS to provide electronically-filed Forms 990 in a machine-readable format. This solution will ensure that sensitive or personally identifiable information continues to be protected from public distribution. The IRS expects that this technology solution should be in place in early 2016.\u201d</p>\n",
+    "rank": 11,
+    "related_question": 999,
+    "project_website": "https://assets.aspeninstitute.org/content/uploads/files/content/docs/pubs/Information_for_Impact_Report_FINAL_REPORT_9-26-13.pdf",
+    "background": "<p>In 2010, there were 1.5 million tax-exempt organizations in the United States with $1.51 trillion in revenues. Through the Form 990 in its several varieties, the Internal Revenue Service (IRS) gathers a large amount of information about tax-exempt organizations. Like other important data collected by governments, information contained in the 990s could potentially be far more useful if it were not only public but \u201copen\u201d data that are available to all, free of charge, in a standard format, published without proprietary conditions, and available online as a bulk download rather than only through single-entry lookup. This report was designed to address whether and how making the Form 990 data truly open in this sense would not only make it easier to use for the organizations that already process it, but would also make it useful to researchers, advocates, entrepreneurs, technologists, and nonprofits that do not have the resources to use the data in its current form. </p>\n",
+    "images": [
+      "information-for-impact.jpg"
+    ],
+    "long_description": null,
+    "partners": [
+      "Aspen Institute",
+      "Daniel Goroff",
+      "The Sloan Foundation"
+    ],
+    "style": "small",
+    "title": "Information for Impact: Liberating Nonprofit Sector Data",
+    "tooltip": null,
+    "social_media": null,
+    "location": [
+      "United States"
+    ],
+    "team": [
+      "Beth Simone Noveck"
+    ],
+    "short_description": "<p>We argue in this paper that open 990 data may increase transparency for nonprofit organizations, making it easier for state and federal authorities to detect fraud, spur innovation in the nonprofit sector and, above all, help us to understand the potential value of the 990 data. However, as also is the case for the 990s, \u201cliberating\u201d government data from paper-based technologies and processes is neither straightforward nor free. While myriad benefits may justify the costs, there is a need for practical strategies to overcome technical, political, and cultural impediments. In addition to exploring the costs and benefits of strategies for achieving open 990 data, the paper focused on how to build a community willing to examine the quality of 990 data and build innovative tools to create a better understanding of the nonprofit sector than we currently have and that we so desperately need.</p>\n",
+    "type": "Data",
+    "related_articles": [
+      {
+        "url": "https://medium.com/on-philanthropy/improving-non-profits-with-open-data-81033d71242e",
+        "name": "Improving Non-Profits with Open Data"
+      },
+      {
+        "url": "https://philanthropy.com/article/IRS-Plans-to-Begin-Releasing/231265",
+        "name": "The Chronicle of Philanthropy"
+      },
+      {
+        "url": "http://ssir.org/articles/entry/liberating_990_data",
+        "name": "Liberating 990 Data"
+      },
+      {
+        "url": "http://www.aspeninstitute.org/sites/default/files/content/docs/psi/psi_Information-for-Impact.pdf",
+        "name": "The Aspen Institute"
+      }
+    ]
+  },
+  {
+    "status": "complete",
+    "is_featured": 0,
+    "problem_statement": "Can crowdsourcing improve the quality of patent applications?",
+    "tags": {
+      "product_category": [
+        "platform"
+      ],
+      "governance_area": [
+        "National Governance"
+      ],
+      "type_of_institution": [
+        "Public Sector"
+      ],
+      "innovative_capability": [
+        "Collective Intelligence",
+        "Crowdsourcing"
+      ]
+    },
+    "image": "peer-to-patent.png",
+    "is_active": true,
+    "results": "<p>Peer to Patent was the first expert network used in government. It catalyzed similar pilot projects including UK Intellectual Property Office, IP Australia, the Japan Patent Office, and the Korean Intellectual Property Office and led, eventually, to a relaxation of the rules against third party protests against pending patent applications. Those policy changes became enshrined in law in the America Invents Acts (2011). In 2011, New York Law School recommended that Stack Exchange use its Q&A platform, Stack Overflow, to run citizen engagement in patent examination and Ask Patents was established: http://patents.stackexchange.com/. Subsequently, the White House named a Presidential Innovation Fellow in 2014-15 to continue the project and ensure that citizen engagement would become part of mainstream patent practice at the USPTO. That Fellow - Christopher Wong - joined the GovLab in 2015. This pathbreaking citizen participation initiative, which demonstrated that, if asked, people would participate in ways that could help civil servants make a better informed decision, was the inspiration for the White House Open Government Initiative, launched during the first term of the Obama Presidency in 2009.</p>\n",
+    "rank": 8,
+    "related_question": 999,
+    "project_website": "http://peertopatent.org",
+    "background": "<p>The Peer To Patent project is an initiative that seeks to assist patent offices in improving patent quality by gathering public input in a structured, productive manner. Peer To Patent is the first social-software project directly linked to decision-making by the federal government. An initial pilot project in collaboration with the United States Patent and Trademark Office (USPTO) was completed June 15, 2009. That pilot examined more than 220 patent applications in the fields of software and business methods. The Peer To Patent project has issued two anniversary reports from the initial pilot. Following the conclusion of the initial pilot the USPTO undertook an evaluation of Peer To Patent assisted by students from Worcester Polytechnic Institute. That evaluation concluded that the program had merit and should be continued. On October 19, 2010, the USPTO and New York Law School jointly announced a new pilot program commencing October 25, 2010, and continuing through September 30, 2011 (with the review period extending through December 31, 2011). This new pilot included patent applications covering subject matter included in the initial pilot, it also included telecommunications, speech recognition, translation, biotechnology, bioinformatics and biopharmaceuticals.</p>\n",
+    "images": [
+      "peer-to-patent.jpg"
+    ],
+    "long_description": null,
+    "partners": [
+      "New York Law School",
+      "Omidyar",
+      "MacArthur Foundation",
+      "IBM",
+      "Microsoft",
+      "CA",
+      "GE",
+      "HP",
+      "Red Hat"
+    ],
+    "style": "medium",
+    "title": "Peer to Patent",
+    "tooltip": null,
+    "social_media": null,
+    "location": [
+      "United States",
+      "United Kingdom",
+      "Japan",
+      "Australia"
+    ],
+    "team": [
+      "Beth Simone Noveck",
+      "Christopher Wong"
+    ],
+    "short_description": "<p>Developed and run by the New York Law School Institute for Information Law and Policy (the precursor to the GovLab @ NYU), Peer To Patent is a historic initiative by the <a href=\"https://en.wikipedia.org/wiki/United_States_Patent_and_Trademark_Office\" target=\"_blank\">United States Patent and Trademark Office</a> (USPTO) that opens the patent examination process to public participation for the first time. Peer to Patent is an online system that aims to improve the quality of issued patents by enabling the public to supply the USPTO with information relevant to assessing the claims of pending patent applications.This pilot project connects an open network for community input to the legal decision-making process. The community supplies information and research based on its expertise. The patent examiner makes the final determination on the basis of legal standards. This process combines the democracy of open participation with the legitimacy and effectiveness of administrative decision making.</p>\n",
+    "type": "Collective Intelligence",
+    "related_articles": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Peer-to-Patent",
+        "name": "Peer-to-Patent"
+      },
+      {
+        "url": "http://www.amazon.com/Wiki-Government-Technology-Democracy-Stronger/dp/0815705107",
+        "name": "Wiki Government: How Technology Can Make Government Better, Democracy Stronger, and Citizens More Powerful"
+      },
+      {
+        "url": "http://www.peertopatent.org/video/",
+        "name": "Video"
+      },
+      {
+        "url": "http://www.peertopatent.org/instructions-for-using-peer-to-patent/",
+        "name": "Instructions for Using Peer To Patent"
+      },
+      {
+        "url": "http://www.peertopatent.org/press/",
+        "name": "Press Releases"
+      }
+    ]
+  },
+  {
+    "status": "define",
+    "poject_website": null,
+    "is_featured": 0,
+    "problem_statement": "Can targeting opportunities to participate in regulatory reviews of medical devices based on skills and experience improve efficacy?",
+    "tags": {
+      "product_category": [
+        "Platform"
+      ],
+      "governance_area": [
+        "Public Sector"
+      ],
+      "type_of_institution": [
+        "Health"
+      ],
+      "innovative_capability": [
+        "Expert Networking"
+      ]
+    },
+    "image": "fda.png",
+    "is_active": true,
+    "results": "<p>The experimentation around the rollout of FDA Profiles will allow researchers to identify how and when changes in the assembly, composition, and efficiency of a review panel change when expert networking software is introduced and will identify the impact of the software on each of these factors.  </p> <p>Additionally, the agile empirical manner in which the experimentation will occur will seek to accelerate the pace of research by developing replicable methods for studying governance innovations in the wild.</p>\n",
+    "rank": 5,
+    "related_question": 999,
+    "related_articles": [
+      {
+        "url": "http://www.democracyjournal.org/34/bridging-the-knowledge-gap-in-search-of-expertise.php?page=all",
+        "name": "Democracy: A Journal of Ideas"
+      },
+      {
+        "url": "http://www.governing.com/columns/smart-mgmt/col-macarthur-foundation-research-network-opening-governance-public-innovation.html",
+        "name": "SMART MANAGEMENT"
+      },
+      {
+        "url": "https://litigation-essentials.lexisnexis.com/webcd/app?action=DocumentDisplay&crawlid=1&doctype=cite&docid=32+Yale+L.+%26+Pol%27y+Rev.+545&srctype=smi&srcid=3B15&key=0fecf1ae72fe78e33741b9b9143b335b",
+        "name": "If We Only Knew What We Know: Open Regulatory Review at the FDA"
+      }
+    ],
+    "background": "<p>With thousands of devices -- sometimes leveraging cutting-edge technology -- to examine each year, the US Food and Drug Administration (FDA) is faced with the challenge of finding the right internal and external expertise to help the agency quickly study a device\u2019s safety and efficacy. Done right, lives can be saved and companies can prosper from bringing innovations to market. Done wrong, bad devices kill.</p>\n",
+    "images": null,
+    "long_description": null,
+    "partners": [
+      "U.S. Food and Drug Administration",
+      "MacArthur Foundation Research Network on Opening Governance",
+      "Harvard Business School",
+      "Stanford University"
+    ],
+    "style": "medium",
+    "title": "FDA Profiles",
+    "tooltip": null,
+    "social_media": null,
+    "location": [
+      "United States"
+    ],
+    "team": [
+      "Beth Simone Noveck",
+      "Andrew Young"
+    ],
+    "short_description": "<p>As one of its duties, the Food and Drug Administration manages the process of pre-market approval of all medical devices to ensure that patients and providers have timely access to safe, effective, and high quality devices, as well as the post-market review of medical devices to ensure that any unsafe medical devices are identified and recalled from the market. In both of these contexts, the FDA seeks to provide the medical device industry with productive, consistent, transparent, and efficient regulatory pathways.</p> <p>In a pilot program, the GovLab, MacArthur Foundation Research Network on Opening Governance and partners will evaluate several potential impacts of the introduction of a piece of expert networking software, FDA Profiles. This software is designed to decrease frictions in identifying qualified government employees to participate in medical device regulatory review panels. FDA Profiles aggregates information about the expertise of potential reviewers including information from internal databases, publications on PubMed, and self-reported information about an individual\u2019s skills and experience.</p>\n",
+    "type": "Collective Intelligence"
+  },
+  {
+    "status": "prototype",
+    "is_featured": 0,
+    "problem_statement": "How to connect a public institution to data science expertise inside and outside the institution",
+    "tags": {
+      "product_category": [
+        "platform",
+        "mapping",
+        "strategy"
+      ],
+      "governance_area": [
+        "National Governance"
+      ],
+      "type_of_institution": [
+        "Public Sector"
+      ],
+      "innovative_capability": [
+        "Open data",
+        "Big data",
+        "Small data",
+        "Collective Intelligence",
+        "Crowdsourcing",
+        "Expert networks"
+      ]
+    },
+    "image": "public-data-sci.png",
+    "is_active": true,
+    "results": "<p>The first stage of the project will involve identifying questions to which the NHS needs answers and measure whether the institution was able to get better, more diverse, more innovative, or faster expertise in response as a result of targeting expertise.</p>\n",
+    "rank": 6,
+    "related_question": 999,
+    "project_website": "http://nhs.networkofinnovators.org",
+    "background": "<p>Better use of data has the potential to improve the quality of healthcare for all, reduce costs, and promote innovation.</p> <p>Access to high quality, relevant data is essential but to make use of that data, public institutions like NHS England also need to build capacity for using data to improve people\u2019s lives. Right now, most public institutions suffer from a \u201cdata expertise gap.\u201d</p> <p>There is a demand for more expertise, especially in the latest big data tools and techniques and in bringing together those with data science and public health know how to address strategies for turning data into improved health outcomes.</p> <p>Even where expertise exists it can be hard to find both within the NHS and across Britain\u2019s universities, making it hard for NHS to realize the benefit without an infrastructure to make that expertise searchable.</p>\n",
+    "images": null,
+    "long_description": "",
+    "partners": [
+      "MacArthur Foundation",
+      "NHS in England",
+      "NYU"
+    ],
+    "style": "small",
+    "title": "NHS Public Data Science Network",
+    "tooltip": "",
+    "social_media": null,
+    "location": [
+      "United Kingdom"
+    ],
+    "team": [
+      "Julia Root",
+      "Christopher Wong",
+      "Andrew Young",
+      "Batu Sayici",
+      "Beth Simone Noveck",
+      "John Krauss"
+    ],
+    "short_description": "<p>The NHS Public Data Science Network project is rooted in the belief that many people possess expertise and will share it, especially if they are asked to contribute. In this first phase, GovLab is collaborating with the NHS in England to focus on mapping the demand for and supply of expertise to the end of eventually designing, developing, and launching a beta version of the data science brain trust populated by data science experts from UK universities and NHS professionals. We are engaging in ethnographic research, including extensive interviews to understand the demand for data science expertise within the NHS in England</p>\n",
+    "type": "Data",
+    "related_articles": null
+  },
+  {
+    "status": "complete",
+    "is_featured": 0,
+    "problem_statement": "How to begin implementing and measuring the impact of open data in healthcare",
+    "tags": {
+      "product_category": [
+        "Guide",
+        "Strategy"
+      ],
+      "governance_area": [
+        "National Governance"
+      ],
+      "type_of_institution": [
+        "Public Sector"
+      ],
+      "innovative_capability": [
+        "Open Data",
+        "Big Data"
+      ]
+    },
+    "image": "open-data-healthcare.png",
+    "is_active": true,
+    "results": "<p>The goal is that researchers and healthcare managers can use this open data model to help design and measure their own open data initiatives.</p>\n",
+    "rank": 7,
+    "related_question": 999,
+    "project_website": "http://images.thegovlab.org/wordpress/wp-content/uploads/2014/10/nhs-full-report-21.pdf",
+    "background": "<p>The National Health Service England has launched a series of initiatives to begin opening its healthcare data with the intent to positively impact outcomes. Despite widespread recognition of the value proposition of open data, there is little understanding of whether and how open data initiatives definitively lead to improved outcomes in healthcare. This project aims to establish a healthcare open data model that can be used by researchers and program managers to design their open data initiatives and then measure their impact.</p>\n",
+    "images": null,
+    "long_description": "<p>NHS England and The GovLab released The Open Data Era in Health and Social Care in May 2014 as a model for measuring the impact of open data in healthcare to inform future priorities and investments in open data programs. Specifically, this model identifies and evaluates the following six value propositions for impact measurement:</p> <ul> <li><strong>Accountability:</strong> The use of data to hold healthcare organizations and providers accountable for treatment outcomes.</li> <li><strong>Choice:</strong> Providing open data to help patients make informed choices from among the healthcare options available to them.</li> <li><strong>Efficiency:</strong> Improving the efficiency and cost-effectiveness of healthcare delivery.</li> <li><strong>Outcomes:</strong> Improving treatment outcomes by using open data to make the results of different treatments, healthcare organizations, and providers\u2019 work more transparent.</li> <li><strong>Patient satisfaction and customer service:</strong> Using open data to educate patients and their families and make healthcare institutions more responsive.</li> <li><strong>Economic growth and innovation:</strong> Using open data to fuel new healthcare companies and initiatives, and to spur innovation in the broader economy.</li> </ul>\n",
+    "partners": [
+      "NHS England"
+    ],
+    "style": "cover",
+    "title": "NHS - Open Data",
+    "tooltip": "<p></p>\n",
+    "social_media": null,
+    "location": [
+      "United Kingdom"
+    ],
+    "team": [
+      "Stefaan Verhulst"
+    ],
+    "short_description": "<p>NHS England and The GovLab released The Open Data Era in Health and Social Care in May 2014 as a model for measuring the impact of open data in healthcare to inform future priorities and investments in open data programs. Specifically, this model identifies and evaluates the following six value propositions for impact measurement:</p>\n",
+    "type": "Data",
+    "related_articles": [
+      {
+        "url": "http://thegovlab.org/nhs/",
+        "name": "The Open Data Era in Health and Social Care"
+      }
+    ]
+  },
+  {
+    "status": "test",
+    "is_featured": 1,
+    "problem_statement": "Develop recommendations on how to use crowdlaw to improve the quality of lawmaking. We want to explore when and under what circumstances engagement can result in lawmaking that is either more legitimate, more effective or both.",
+    "tags": {
+      "product_category": [
+        "Platform",
+        "Mapping",
+        "Strategy"
+      ],
+      "governance_area": [
+        "National Governance",
+        "Local Governance"
+      ],
+      "type_of_institution": [
+        "Public Sector"
+      ],
+      "innovative_capability": [
+        "Open data",
+        "Big data",
+        "Small data",
+        "Collective Intelligence",
+        "Crowdsourcing",
+        "Expert networks"
+      ]
+    },
+    "image": "crowdlaw-square.png",
+    "is_active": true,
+    "results": "<p>The goal of the original CrowdLaw paper was to help the Assembly of the Community of Madrid, the legislature governing one of the seventeen autonomous communities of Spain, and the 179 Ayuntamientos (\u201cCity Councils\u201d) within the Madrid region to (1) develop the capacity design and (2) use public engagement to improve the quality, effectiveness and legitimacy of the lawmaking process.</p> <p>Now, CrowdLaw has been scaled up to become a global initiative that uses diverse methods to achieve the same goals in cities, regions, and nations around the world.</p>\n",
+    "rank": 0,
+    "related_question": 4,
+    "project_website": "http://crowd.law/",
+    "background": "<p>With rates of trust in government at historic lows, the legitimacy of traditional representative models of lawmaking\u200a\u2014\u200aoften conducted by professional staff and politicians working behind closed doors and distorted by political party agendas\u2013is called into question. New forms of public participation could help to improve both legitimacy and effectiveness by introducing more data and diverse viewpoints at each stage of the lawmaking process.</p>\n",
+    "images": [
+      "crowdlaw-1.png",
+      "crowdlaw-2.png"
+    ],
+    "long_description": "<p>CrowdLaw is the practice of using technology to tap the intelligence and expertise of the public in order to improve the quality of lawmaking. Around the world, there are already over two dozen examples of local legislatures and national parliaments turning to the Internet to involve the public in legislative drafting and decision-making. These ambitious crowdlaw initiatives show that the public can, in many cases, go beyond contributing opinions and signing petitions online to playing a more substantive role, including: proposing legislation, drafting bills, monitoring implementation, and supplying missing data. Through such processes, the public becomes collaborators and co-creators in the legislative process to the end of improving the quality of legislative outcomes and the effectiveness of governing.</p> <p>Crowdlaw offers an alternative to the traditional method of lawmaking, which is typically done by professional staff and politicians working behind closed doors and with little direct input from the people legislation affects. Instead, we start from the hypothesis that crowdlaw has the potential to enhance the quality of legislation. Designed right, with the aim of improving the quality of outputs, there are opportunities at each stage of the lawmaking process, including problem definition, solution identification, research and drafting, subsequent crafting of implementing regulations, and monitoring of outcomes, to introduce greater expertise into the legislative process efficiently. At the same time, we acknowledge that, designed wrong, without regard for outcomes, engagement may only hamstring decision-making and deepen distrust of government. Thus, we approach this project not as evangelists but as critical researchers whose aim is to understand what works and when.</p> <p>GovLab is supporting legislative bodies in investigating, designing, implementing, and testing crowdlaw initiatives. Our work includes:</p> <ul> <li>Studying and sharing learnings about CrowdLaw practices in use around the world and convening practitioners to share learnings.</li> <li>Synthesizing best practices for the design of CrowdLaw initiatives\u200a\u2014\u200aincluding platforms, processes, and policies\u200a\u2014\u200athrough an on-going survey of over 25 public engagement initiatives.</li> <li>Cultivating a thriving network of now more than 90 CrowdLaw and public engagement experts and practitioners.</li> <li>Crafting a model legal framework to accelerate the integration of public input into the legislative process.</li> <li>Advising on the implementation of CrowdLaw practices.</li> </ul> <p>As part of the CrowdLaw project, GovLab has also created the following related products:</p> <ul> <li><a href=\"https://catalog.crowd.law/\">The CrowdLaw Catalog</a> - a compendium of real-world examples from 39 countries and six continents demonstrating how legislatures, parliaments, city councils, and public bodies around the world are leveraging technology to involve more people in the process of making policies and laws.</li> <li><a href=\"https://crowd.law/crowdlaw-communiqu%C3%A9-vol-3-fall-2018-68763edd04c1\">\u201cCrowdLaw Communiqu\u00e9\u201d Quarterly Newsletter</a> - Designed for interested public officials, technologists, politicians and researchers, the CrowdLaw Communiqu\u00e9 features curated news, interviews, announcements, and recommended readings on the evolution of law and policymaking processes for the 21st century.</li> <li><a href=\"https://manifesto.crowd.law/\">The CrowdLaw Manifesto</a> - 12 principles to promote the use of CrowdLaw by local legislatures and national parliaments, calling for legislatures, technologists and the public to participate in creating more open and participatory lawmaking practices.</li> <li><a href=\"https://www.youtube.com/playlist?list=PL2zpEc-7YPYwd-yGuJ6XHD8Vd7x0WImy8\">The CrowdLaw Bellagio Interviews</a> - a series of short videos recorded during the 2018 CrowdLaw Bellagio conference, displaying the expert attendees\u2019 thoughts of the future of crowdlaw in the short-term and the long-term, the challenges they anticipate and about their favorite CrowdLaw platforms</li> </ul> <center><a href=\"https://catalog.crowd.law/\"><img src=\"static/img/projects/crowdlawcat.png\"></a></center> <p>&nbsp;</p> <center><a href=\"http://www.nyu.edu/community/government-affairs/study-of-congress.html\"><img src=\"static/img/projects/brademas.png\"></a></center> <p>&nbsp;</p>\n",
+    "partners": null,
+    "style": "cover",
+    "title": "CrowdLaw",
+    "tooltip": "<p></p>\n",
+    "social_media": null,
+    "location": [
+      "Madrid, Spain",
+      "Global"
+    ],
+    "team": [
+      "Beth Simone Noveck",
+      "Gabriella Capone",
+      "Victoria Alsina",
+      "Anirudh Dinesh",
+      "Sam DeJohn",
+      "Marco Konopacki",
+      "Rose Harvey",
+      "Mark Adkins-Hastings"
+    ],
+    "short_description": "<p>Crowdlaw is an emerging field of practice that is comprised of lawyers, platform developers, lawyers, government employees and research scientists, among others including citizen advocates. GovLab plays a convening role to engage practitioners from around the world and has initiated a dialogue in order to identify case studies and pilots, assess impact and inspire greater innovation across political, government and civil society actors.</p>\n",
+    "type": "Collective Intelligence",
+    "related_articles": [
+      {
+        "url": "https://twitter.com/TheGovLab/lists/crowdlaw",
+        "name": "The GovLab's CrowdLaw Twitter list"
+      },
+      {
+        "url": "http://thegovlab.org/a-growing-community-of-global-crowdlaw-practitioners/",
+        "name": "A growing community of global #CrowdLaw practitioners"
+      },
+      {
+        "url": "http://thegovlab.org/crowdlaw-in-action-details-a-preview-of-next-weeks-online-event/",
+        "name": "Crowdlaw in Action: Details & A Preview of Next Week\u2019s Online Event"
+      },
+      {
+        "url": "http://thegovlab.org/how-do-we-maximize-and-sustain-participation-in-the-crowdlaw-process/",
+        "name": "How do we maximize and sustain participation in the #CrowdLaw process?"
+      },
+      {
+        "url": "http://thegovlab.org/crowdlaw-on-the-verge-of-disruptive-change-designing-to-scale-impact/",
+        "name": "#CrowdLaw \u2014 On the Verge of Disruptive Change\u2026.Designing to Scale Impact"
+      },
+      {
+        "url": "http://thegovlab.org/expanding-insights-crowdlaw-session-2-highlights-need-for-experimentation-collaboration/",
+        "name": "Expanding Insights \u2013 #Crowdlaw Session 2 Highlights Need for Experimentation & Collaboration"
+      },
+      {
+        "url": "http://thegovlab.org/toward-more-inclusive-lawmaking-what-we-know-still-most-need-to-know-about-crowdlaw/",
+        "name": "Toward More Inclusive Lawmaking: What We Know & Still Most Need to Know about Crowdlaw"
+      },
+      {
+        "url": "http://sunlightfoundation.com/blog/2016/03/11/crowdlaw-and-open-data-policy-a-perfect-match/",
+        "name": "Crowdlaw and open data policy: A perfect match?"
+      },
+      {
+        "url": "https://crowd.law/",
+        "name": "The CrowdLaw Website"
+      }
+    ]
+  },
+  {
+    "status": "test",
+    "is_featured": 0,
+    "problem_statement": "Improving the Effectiveness and Legitimacy of Government Grant Funding",
+    "tags": {
+      "product_category": [
+        "publication"
+      ],
+      "governance_area": [
+        "national governance",
+        "regional governance"
+      ],
+      "type_of_institution": [
+        "public Sector",
+        "nonprofit"
+      ],
+      "innovative_capability": [
+        "open data",
+        "expert networking",
+        "collective intelligence",
+        "crowdsourcing",
+        "prizes and challenges"
+      ]
+    },
+    "image": "open-grantmaking.png",
+    "is_active": true,
+    "results": null,
+    "rank": 12,
+    "related_question": 999,
+    "related_articles": [
+      {
+        "url": "http://www.governing.com/columns/smart-mgmt/col-innovation-government-grantmaking-process-needs.html",
+        "name": "The Innovation the Grantmaking Process Needs"
+      },
+      {
+        "url": "http://medium.com/open-grantmaking-innovations/introduction-to-open-grantmaking-9301089a8780#.8wrprb7h2",
+        "name": "Introduction to Open and Effective Grantmaking"
+      },
+      {
+        "url": "http://medium.com/open-grantmaking-innovations/innovations-pre-judging-ideation-challenges-c8c08f103225#.q8l7g52e7",
+        "name": "Innovations Pre-Granting: Ideation Challenges"
+      },
+      {
+        "url": "http://medium.com/open-grantmaking-innovations/innovations-pre-granting-improving-the-quality-of-applications-through-matchmaking-d52b76669fa#.oemmxiaug",
+        "name": "Innovations Pre-Granting: Improving the Quality of Applications through Matchmaking"
+      },
+      {
+        "url": "http://medium.com/open-grantmaking-innovations/innovations-pre-granting-prioritizing-bottom-up-participation-c9cd748672a#.lm584pnzb",
+        "name": "Innovations Pre-Granting: Prioritizing Bottom-Up Participation"
+      },
+      {
+        "url": "http://medium.com/open-grantmaking-innovations/innovations-in-granting-evidence-based-grantmaking-a-little-evidence-a-little-money-a-lot-of-c40bdd9b9dfc#.78zjq3dal",
+        "name": "Innovations in Granting: Evidence-Based Grantmaking"
+      },
+      {
+        "url": "http://medium.com/open-grantmaking-innovations/innovations-in-granting-open-alternatives-to-grants-crowdfunding-micropayments-and-prize-f99c090721f0#.8okikzwiz",
+        "name": "Innovations in Granting: Open Alternatives to Grants"
+      },
+      {
+        "url": "http://medium.com/open-grantmaking-innovations/innovations-in-granting-expert-networking-matching-experts-to-opportunities-fd7f9b69febd#.1y0tjeom4",
+        "name": "Innovations in Granting: Expert Networking"
+      },
+      {
+        "url": "http://medium.com/open-grantmaking-innovations/innovations-in-granting-open-peer-review-and-participatory-judging-4bc48e904e41#.8482cui9v",
+        "name": "Innovations in Granting: Open Peer Review and Participatory Judging"
+      }
+    ],
+    "background": "<p>Grantmaking plays a vital role in helping our government, our researchers, and our communities confront 21st-century challenges. Yet we still have a decidedly 20th-century system in place for deciding how we make these billions of dollars of crucial investments. In order to make the most of limited funding\u200a\u2014\u200aand to help build confidence in the ability of public investments to make a positive difference\u200a\u2014\u200ait is essential for our government agencies to try more strategic approaches to designing, awarding, and measuring their grantmaking.</p>\n",
+    "images": [
+      "open-grantmaking.jpg"
+    ],
+    "partners": [
+      "GrantCraft, a service of Foundation Center"
+    ],
+    "style": "small",
+    "title": "Open Grantmaking",
+    "project_website": "https://medium.com/open-grantmaking-innovations",
+    "social_media": null,
+    "location": [
+      "United States"
+    ],
+    "team": [
+      "Beth Simone Noveck",
+      "Andrew Young"
+    ],
+    "short_description": "<p>In collaboration with GrantCraft, a service of Foundation Center, The GovLab is exploring how new innovations can increase the openness and effectiveness of grantmaking. In a number of publications available on Medium, we sketch out the range and potential impact of open and effective grantmaking innovations at all stages of the process. Through these posts, we asking readers to help us gather and curate information about open and effective grantmaking innovations, analyze their potential uses, and encourage their adoption where appropriate. This open input process is a first toward building a conversation and a broader case for putting grantmaking innovations into practice throughout government at all levels.</p>\n",
+    "type": "Collective Intelligence"
+  },
+  {
+    "status": "complete",
+    "is_featured": 0,
+    "problem_statement": "What are the global impacts of open data?",
+    "tags": {
+      "product_category": [
+        "case studies"
+      ],
+      "governance_area": [
+        "national governance",
+        "regional governance"
+      ],
+      "type_of_institution": [
+        "public sector",
+        "nonprofit"
+      ],
+      "innovative_capability": [
+        "open data"
+      ]
+    },
+    "image": "periodic-table.png",
+    "is_active": true,
+    "results": null,
+    "rank": 2,
+    "related_question": 1,
+    "related_articles": [
+      {
+        "url": "http://thegovlab.org/wanted-peer-reviewers-on-the-impact-of-open-data/",
+        "name": "Wanted: Peer Reviewers on the Impact of Open Data"
+      },
+      {
+        "url": "http://thegovlab.org/the-impact-of-open-data-initial-findings-from-case-studies/",
+        "name": "The Impact of Open Data \u2013 Initial Findings from Case Studies"
+      },
+      {
+        "url": "http://thegovlab.org/open-data-impact-studies/",
+        "name": "New Project: Open Data Impact Studies"
+      },
+      {
+        "url": "static/files/odimpact-one-pager.pdf",
+        "name": "One-Pager"
+      }
+    ],
+    "background": "<p>Recent years have witnessed considerable enthusiasm over open data. Several studies have documented its potential to spur economic innovation and social transformation, and to usher in fresh forms of political and government accountability. Yet for all the enthusiasm, we know little about how open data actually works, and what forms of impact it is really having.</p>\n",
+    "images": [
+      "open-data-impact-1.png"
+    ],
+    "long_description": "<p>In collaboration with <a href=\"https://www.omidyar.com/\" target=\"_blank\">Omidyar Network</a>, the GovLab has conducted <strong>19 detailed case studies of open data projects around the world</strong> and developed a key findings paper describing lessons learned across the projects examined. The case studies were selected for their sectoral and geographic representativeness. They were built in part from secondary sources (\u201cdesk research\u201d), but also from a number of first-hand interviews with important players and key stakeholders. The case studies, key findings paper and other resources will be posted on the Open Data\u2019s Impact repository in early 2016.</p>\n",
+    "partners": [
+      "Omidyar Network"
+    ],
+    "style": "cover",
+    "title": "Open Data's Impact",
+    "project_website": "http://odimpact.org",
+    "social_media": null,
+    "location": [
+      "global"
+    ],
+    "team": [
+      "Andrew Young",
+      "Stefaan Verhulst",
+      "Christopher Wong",
+      "Batu Sayici",
+      "Claudio Mendonca",
+      "Mark Adkins-Hastings",
+      "Denny Tek"
+    ],
+    "short_description": null,
+    "type": "Data"
+  },
+  {
+    "status": "complete",
+    "is_featured": 0,
+    "problem_statement": "How could public decision-making improve if institutions knew how to leverage citizens\u2019 and civil servants\u2019 expertise?",
+    "tags": {
+      "product_category": [
+        "Case Studies"
+      ],
+      "governance_area": [
+        "Regional Governance",
+        "National Governance"
+      ],
+      "type_of_institution": [
+        "Public Sector"
+      ],
+      "innovative_capability": [
+        "Collective Intelligence",
+        "Crowdsourcing",
+        "Expert Networks"
+      ]
+    },
+    "is_active": true,
+    "results": null,
+    "rank": 3,
+    "related_question": 6,
+    "tooltip": "<p></p>\n",
+    "background": "<p>Government \u201cof the people, by the people, for the people\u201d expresses an ideal that resonates in all democracies. Yet poll after poll reveals deep distrust of institutions that seem to have left \u201cthe people\u201d out of the equation. Government bureaucracies that are supposed to solve critical problems on their own are a troublesome outgrowth of the professionalization of public life in the industrial age. They are especially ill-suited to confronting today\u2019s complex challenges. Offering a far-reaching program for innovation, the book Smart Citizens, Smarter State by Beth Simone Noveck suggests that public decision-making could be more effective and legitimate if our institutions knew how to use technology to leverage citizens\u2019 expertise. </p><p>Drawing on a wide range of disciplines and practical examples from her work as an adviser to governments on innovation, Noveck explores how to create more open and collaborative institutions. She puts forward a profound new vision for participatory democracy rooted not in the paltry act of occasional voting or the serendipity of crowdsourcing, but in people\u2019s knowledge and know-how.</p>\n",
+    "images": null,
+    "long_description": "<p>New tools\u2014what GovLab calls technologies of expertise\u2014 are making it possible to match the supply of citizen expertise to the demand for it in government. Smarter State is a GovLab initiative to design and test how public decision-making could improve if institutions knew how to use the technologies of expertise to tap the wisdom of citizens\u2019 and civil servants.</p>\n",
+    "partners": [
+      null
+    ],
+    "title": "Smarter State Case Studies",
+    "project_website": "http://www.thegovlab.org/smarterstate.html",
+    "social_media": null,
+    "location": [
+      "Global"
+    ],
+    "team": [
+      "Andrew Young",
+      "Anirudh Dinesh",
+      "Beth Simone Noveck",
+      "Christopher Wong",
+      "Claudio Mendonca",
+      "Mar\u00eda Hermosilla",
+      "Mark Adkins-Hastings"
+    ],
+    "short_description": "<p>A GovLab initiative to design and test how public decision-making could improve if institutions knew how to leverage citizens\u2019 and civil servants\u2019 expertise.</p>\n",
+    "type": "Data",
+    "related_articles": null
+  },
+  {
+    "status": "complete",
+    "is_featured": 0,
+    "problem_statement": "How can targeted crowdsourcing help the City of Quito, Ecuador get smarter about how to prepare for a likely volcano eruption?",
+    "tags": {
+      "product_category": [
+        "Training",
+        "Coaching & mentoring",
+        "Strategy"
+      ],
+      "governance_area": [
+        "Municipal Governance"
+      ],
+      "type_of_institution": [
+        "Public Sector"
+      ],
+      "innovative_capability": [
+        "Collective Intelligence",
+        "Crowdsourcing",
+        "Expert Networks",
+        "Design Thinking",
+        "Rapid Prototyping"
+      ]
+    },
+    "image": "cotopaxi-logo-v2-04.png",
+    "is_active": true,
+    "results": "<p>This project was the first effort to solicit expertise and help for emergency response before the disaster happens. 65 international experts self-selected themselves to join online coaching sessions and help the City of Quito leverage their expertise on specific problems like:\n  <ul>\n    <li>Coordination of communication,</li>\n    <li>Evacuation planning,</li>\n    <li>Cost-effective shelters,</li>\n    <li>Citizen sensing and citizen science.</li>\n  </ul>\n</p> <p>As a result of the collective analysis of the problem, a single major problem was identified: the absence of real-time data before, during and after the disaster. If officials could have access to real-time data directly from citizens, information gaps could be bridged so authorities can take better and data-driven decisions.</p> <p>The latter materialized in the development of <strong><em>Mi Quito Reporta*</em></strong>, a two-way communications platform between authorities and the community to be used as the mechanism for people to express their worries and create real-time reports of relevant issued, and for authorities to collect meaningful data and push out the latest information.</p> <p>*The beta version of tool is ready as a web service and also available for <a href=\"http://tu-reportas.devsu.us/\">download</a> (Android and iOS)</p>\n",
+    "rank": 1,
+    "related_question": 5,
+    "project_website": "http://cotopaxi.smartercrowdsourcing.org/",
+    "background": "<p>Through a curated call for help to global experts, the GovLab Academy organized a series of online advice and mentoring sessions to help the city of Quito get smarter about how to prepare for the then (September 2015) likely eruption of the Cotopaxi Volcano.</p> <p>At the time of the call, Cotopaxi was spewing ash (latest images below). The last large-scale eruption was in 1877, and it was believed that another one is inevitable. If it erupts, some communities will have less than half an hour to evacuate.The scale of the challenge is overwhelming. However, by mobilizing expertise - both credentialed know-how and experiential wisdom - we hoped to bring the best thinking to bear and translate good ideas for how to mitigate the risks and create actionable proposals, especially using technology and innovation.</p>\n",
+    "images": [
+      "cotopaxi1.png",
+      "cotopaxi2.png",
+      "cotopaxi3.png",
+      "cotopaxi4.png",
+      "cotopaxi5.png"
+    ],
+    "long_description": "<p>The online sessions had the intention to help the city of Quito: better define and understand the nature of the problem; help connect those people with relevant experience and know how to city officials to help Quito better manage the impending disaster; identify innovative and practical ways, especially using new technology, to tackle the challenge at hand; and, last but not least, find out ways to do things differently and potentially save lives by optimizing resources and financing solutions for the ow for money to be spent on what matters most.</p> <p>The issues discussed during each session were identified by the Risk Department of the Secretary of Security of the Municipality of Quito. Overall, the topics essentially focused on communications (within the Government and messages to the public), mobility plans, risk issues and evacuation plans among.</p>\n",
+    "partners": [
+      "Secretary General for Planning and Open Government of Quito",
+      "LINQ Lab"
+    ],
+    "style": "small",
+    "title": "Smarter Crowdsourcing Cotopaxi",
+    "tooltip": null,
+    "social_media": null,
+    "location": [
+      "Quito, Ecuador"
+    ],
+    "team": [
+      "Beth Simone Noveck",
+      "Dinorah Cant\u00fa-Pedraza"
+    ],
+    "short_description": null,
+    "type": "Collective Intelligence",
+    "related_articles": [
+      {
+        "url": "https://www.flickr.com/photos/coordinacionseguridadecuador/sets/72157657373794816",
+        "name": "Latest images of the Cotopaxi Volcano provided by Ministerio Coordinador Seguridad Ecuador"
+      },
+      {
+        "url": "http://www.wired.com/2015/08/cotopaxi-continues-rumble-ecuador-prepares-eruption/",
+        "name": "Cotopaxi Keeps Rumbling as Ecuador Prepares for Eruption"
+      },
+      {
+        "url": "http://thrivingearthexchange.org/dont-know-where-to-go-when-the-volcano-blows-crowdsource-it/",
+        "name": "Don\u2019t know where to go when the volcano blows? Crowdsource it."
+      },
+      {
+        "url": "http://citiscope.org/story/2016/cotopaxi-awakens-quito-and-its-suburbs-get-ready-volcanic-eruption#sthash.DwVMCfrN.h8gP6boG.dpuf",
+        "name": "As Cotopaxi awakens, Quito and its suburbs get ready for a volcanic eruption"
+      },
+      {
+        "url": "http://thegovlab.org/crowdsourcing-innovations-in-disaster-management-for-cotopaxi/",
+        "name": "Online Call For Experts on Innovations in Disaster Management"
+      },
+      {
+        "url": "http://linq.quito.gob.ec/en/first-session-of-cotopaxi-coaching-workshop-by-linq-and-new-york-innovation-lab-govlab/",
+        "name": "Communication regarding the first online session by the Innovation Laboratory Quito-LINQ"
+      }
+    ]
+  },
+  {
+    "status": "test",
+    "is_featured": 0,
+    "problem_statement": "12-month pilot which took place in the Municipality of San Pedro Garza Garc\u00eda, Mexico, designed to evaluate a replicable process for Latin American cities to solve social problems more quickly and effectively.",
+    "tags": {
+      "product_category": [
+        "Training",
+        "Coaching & Mentoring",
+        "Strategy"
+      ],
+      "governance_area": [
+        "Municipal Governance"
+      ],
+      "type_of_institution": [
+        "Public Sector"
+      ],
+      "innovative_capability": [
+        "Collective Intelligence",
+        "Crowdsourcing",
+        "Expert Networks",
+        "Design Thinking",
+        "Rapid Prototyping"
+      ]
+    },
+    "image": "desafios.png",
+    "is_active": true,
+    "results": "<p>Over the course of 2016, the GovLab, in collaboration with the Mayor\u2019s Office of the Municipality of San Pedro Garza Garc\u00eda (SPGG) in Mexico, undertook to:</p> <ul> <li><b>DESIGN:</b> We developed and launched five open innovation challenges designed to solicit good ideas (from the public and civil servants) to solve hard problems facing the municipality.</li> <li><b>TRAIN:</b> We trained 50 challenge winners to further develop their proposals into actionable and implementable policies, resulting in 10 developed projects.</li> <li><b>CONNECT:</b> We supported the desire for peer-to-peer learning by building an expert network of global and local experts to support the problem definition efforts done by the Municipality and, later, the project development efforts done by the selected participants of each challenge. </li> <li><b>LEARN:</b> We evaluated the lessons learned from running this pilot to the end of articulating a replicable method for Latin American cities.</li> </ul> <p>As a result of the pilot project, we were also able to develop a plan for this crowdsourcing method, which leverages expertise from the public and civil servants to effectively transform ideas into implementable proposals, to be replicated in other Latin American cities. This includes the following five key lessons to take into account when designing a problem solving method:</p>\n<p>While it is too early to determine the impact of projects that were developed through the pilot, we have published several reports highlighting our results and launched a project website, all of which can be found in the \u201cMore About\u201d section.</p>\n",
+    "rank": 0,
+    "related_question": 3,
+    "project_website": "http://desafios.sanpedro.gob.mx/",
+    "background": "<p>W\u200bith trust in government at an all-time low, it is imperative to demonstrate alternative strategies for how to govern in ways that are more inclusive and participatory. To that end, public institutions are turning to open innovation--also known as crowdsourcing--to open up the process of identifying both good ideas and the evidence to support their implementation to citizens, civil servants, and organizations.</p> <p>The specific people-led innovation method employed in the San Pedro Garza Garc\u00eda pilot project enabled the municipality to solve problems and to obtain evidence that demonstrated if, when, and how decentralized, collaborative, and open practices of solving public problems resulted in new creative, data-driven, cost-effective and citizen-centric policies and services.</p>\n",
+    "images": [
+      "open-innovation-1.jpg",
+      "open-innovation-2.jpg",
+      "open-innovation-3.jpg",
+      "open-innovation-4.jpg"
+    ],
+    "long_description": "<p>The goal of the project was to pilot and evaluate a replicable process for Latin American cities to tap into the skills, talents and abilities of diverse citizens to solve social problems more quickly and effectively. By creating the \u201cconversational infrastructure\u201d -- method and tools -- to source and implement novel approaches from civil servants and the public, the hope is to spark a potential shift from the traditional top-down, closed governing approaches to more decentralized, collaborative, and open practices of solving public problems using the intelligence of the public seriously and encouraging active forms of citizenship. Rather than relying on a single approach, such as prize-backed challenges, the design of the project utilizes open innovation to source a wide array of ideas and combines it with ICT-enabled training to shape those ideas into implementable new policies and services. </p>\n",
+    "partners": [
+      "Codeando M\u00e9xico and the Municipality of San Pedro Garza Garc\u00eda"
+    ],
+    "style": "cover",
+    "title": "City Challenges - San Pedro Garza Garc\u00eda",
+    "tooltip": null,
+    "social_media": null,
+    "location": [
+      "San Pedro Garza Garc\u00eda, M\u00e9xico"
+    ],
+    "team": [
+      "Beth Simone Noveck",
+      "Dinorah Cant\u00fa-Pedraza",
+      "Anirudh Dinesh",
+      "Kaitlin Koga"
+    ],
+    "short_description": null,
+    "type": "Collective Intelligence",
+    "related_articles": [
+      {
+        "url": "http://desafios.sanpedro.gob.mx:8888/",
+        "name": "Project Website"
+      },
+      {
+        "url": "http://www.thegovlab.org/static/files/desafiosp_slidedeck.pdf",
+        "name": "Project Plan Slide Deck"
+      },
+      {
+        "url": "https://drive.google.com/file/d/0B9P1gGvCmrkpeXJFZGU1RkRCYjg/view",
+        "name": "Preliminary Findings from San Pedro"
+      },
+      {
+        "url": "https://drive.google.com/file/d/0B9P1gGvCmrkpdkNKTFZ6cW9nX2M/view",
+        "name": "Overview of Open Innovation"
+      },
+      {
+        "url": "https://drive.google.com/file/d/0B9P1gGvCmrkpLWxoTlVWWTRxSmM/view",
+        "name": "Interim Report from San Pedro"
+      },
+      {
+        "url": "https://docs.google.com/document/d/1QKj4J3MfcKRcGE0ok4DOP-sdsvNXS-fUc_agSYDYybA/edit#heading=h.3tdpgg3067f",
+        "name": "Final San Pedro Report"
+      },
+      {
+        "url": "https://docs.google.com/document/d/1grxIATb0h8Dj_Nc6SscalYJQVEmGlpmD72DWpbNnxPk/edit#heading=h.we4da0oqzebn",
+        "name": "Project Descriptions"
+      },
+      {
+        "url": "static/files/desafiosp_slidedeck.pdf",
+        "name": "Innovaci\u00f3n Abierta: San Pedro Garza Garc\u00eda Plan de Proyecto 2016 Slide Deck"
+      }
+    ]
+  },
+  {
+    "status": "complete",
+    "is_featured": 0,
+    "problem_statement": "How can we leverage private social media data for public good?",
+    "tags": {
+      "product_category": [
+        "Case Studies"
+      ],
+      "governance_area": [
+        "National Governance",
+        "Regional Governance"
+      ],
+      "type_of_institution": [
+        "Public Sector",
+        "Corporate/Business",
+        "Nonprofit",
+        "Academic"
+      ],
+      "innovative_capability": [
+        "Data Collaboratives",
+        "Agile Research",
+        "Big Data"
+      ]
+    },
+    "image": "data-collab-sm.png",
+    "is_active": true,
+    "results": "<p></p>\n",
+    "rank": 4,
+    "related_question": 999,
+    "project_website": "http://datacollaboratives.org/social-media.html",
+    "background": "<p>The twenty-first century will be challenging on many fronts. From historically catastrophic natural disasters resulting from climate change to inequality to refugee and terrorism crises, it is clear that we need not only new solutions, but new insights and methods of arriving at solutions. Data, and the intelligence gained from it through advances in data science, is increasingly being seen as part of the answer. However, a vast amount of valuable data is held by private companies.</p>\n",
+    "images": [
+      null
+    ],
+    "long_description": "<p>In this report, we focus on an approach to extract public value from social media data that we believe holds the greatest potential: data collaboratives. Data collaboratives are an emerging form of public-private partnership in which actors from different sectors exchange information to create new public value. Such collaborative arrangements, for example between social media companies and humanitarian organizations or civil society actors, can be seen as possible templates for leveraging privately held data towards the attainment of public goals.</p>\n",
+    "partners": [
+      "Facebook"
+    ],
+    "style": "small",
+    "title": "The Potential of Social Media Intelligence to Improve People\u2019s Lives",
+    "tooltip": "<p></p>\n",
+    "social_media": null,
+    "location": [
+      "Global"
+    ],
+    "team": [
+      "Stefaan Verhulst",
+      "Andrew Young"
+    ],
+    "short_description": "<p></p>\n",
+    "type": "",
+    "related_articles": [
+      {
+        "name": "Project Website"
+      },
+      {
+        "url": "http://datacollaboratives.org/social-media.html"
+      }
+    ]
+  },
+  {
+    "status": "test",
+    "is_featured": 0,
+    "problem_statement": "How can we leverage data collaboratives to make urban transportation planning more gender-inclusive?",
+    "tags": {
+      "product_category": [
+        "Dataset",
+        "Platform",
+        "Mapping"
+      ],
+      "governance_area": [
+        "National Governance"
+      ],
+      "type_of_institution": [
+        "International Organization",
+        "Public Sector",
+        "Corporate/Business"
+      ],
+      "innovative_capability": [
+        "Data Collaboratives"
+      ]
+    },
+    "image": "datacollab.png",
+    "is_active": true,
+    "results": null,
+    "rank": 9,
+    "related_question": 2,
+    "project_website": null,
+    "background": "<p>Close to 90% of Chile\u2019s population lives in urban areas, with 40% living in Santiago alone. Like many other South American cities, Santiago continues to expand, which puts pressure on vulnerable populations, who must travel greater distances to work, study and live. Although private car ownership is projected to grow in the coming years, women are more likely to be traveling on foot than men\u201340% of women travel by foot in Santiago, as opposed to 30% of men.</p> <p>When traveling, women often take multi-purpose, multi-stop trips to do chores, work and attend school. The needs of women and girls are not typically taken into account when authorities make plans for transportation developments. Difficulties in public transportation use can lead to a fear of personal safety in public spaces, especially when 85% of women reported that they were harassed on the street in Chile between 2014 and 2015.</p>\n",
+    "images": null,
+    "long_description": "<p>Over the course of a year-long study, The GovLab and its project partners established a data collaborative to seek answers to the following questions:</p> <ul> <li>Does gender play a role in the way people move around the megacity of Santiago, Chile?</li> <li>To what extent is there mobility inequality by gender, and what can be done to incorporate and include gender considerations in transportation planning?</li> <li>Can the analytic model used to study gender and mobility in Chile be used in other places and contexts?</li> </ul> <p>Through the Gender and Urban Mobility data collaborative, The GovLab and its partners are seeking to decode the intersection of urban mobility and gender, combining a wide range of datasets, including call detail records and high-resolution satellite data. This insight could play a key role in the creation of more gender inclusive and equitable decision-making in Santiago and beyond as it relates to urban planning, transportation, and mobility.</p> <p>&nbsp;</p>\n",
+    "partners": [
+      "UNICEF",
+      "Universidad del Desarrollo/Telef\u00f3nica R&D Center",
+      "ISI Foundation",
+      "DigitalGlobe",
+      "Telefonica"
+    ],
+    "style": "cover",
+    "title": "Gender and Urban Mobility in Chile",
+    "tooltip": "<p></p>\n",
+    "social_media": null,
+    "location": [
+      "Latin America"
+    ],
+    "team": [
+      "Stefaan Verhulst",
+      "Andrew Young",
+      "Hannah Pierce",
+      "Michelle Winowatan"
+    ],
+    "short_description": "<p></p>\n",
+    "type": "",
+    "related_articles": [
+      {
+        "url": "http://thegovlab.org/gender-and-urban-mobility-addressing-unequal-access-to-urban-transportation-for-women-and-girls/",
+        "name": "Gender and Urban Mobility: Addressing Unequal Access to Urban Transportation for Women and Girls"
+      },
+      {
+        "url": "https://thelivinglib.org/selected-readings-on-data-gender-and-mobility/",
+        "name": "Selected Readings on Data, Gender, and Mobility"
+      }
+    ]
+  },
+  {
+    "status": "complete",
+    "is_featured": 0,
+    "problem_statement": "How can we facilitate the exchange of thought and research around open government?",
+    "tags": {
+      "product_category": [
+        "Platform",
+        "Strategy"
+      ],
+      "governance_area": [
+        "Municipal Governance",
+        "National Governance",
+        "Regional Governance"
+      ],
+      "type_of_institution": [
+        "Public Sector",
+        "Nonprofit",
+        "Academic",
+        "International Organization"
+      ],
+      "innovative_capability": [
+        "Expert Networks"
+      ]
+    },
+    "image": "macarthur.png",
+    "is_active": true,
+    "results": null,
+    "rank": 0,
+    "related_question": 7,
+    "project_website": "http://opening-governance.org/index.html",
+    "background": "<p>Research networks are a signature MacArthur \u201cway of working.\u201d They are designed to identify a big problem and bring together researchers, practitioners, and policymakers from multiple disciplines to work collaboratively over an extended period of time, typically six to as many as ten years. Ambitious and innovative \u2212but not prescriptive\u2212research networks liberate their members to pursue work that has the potential to change prevailing paradigms.</p> <p>Unlike project support or institutional operating support, research networks create a more open space for ideation and collaboration, with the goal of breaking new ground on big, timely challenges. Intensive preparatory activities to frame research network inquiries, identify network members, and vet initial and renewal network proposals with outside experts increase the potential for research networks not only to make distinctive conceptual contributions, but also to have real-world relevance and impact. </p>\n",
+    "images": [
+      null
+    ],
+    "long_description": "<p>Convened and organized by the GovLab, and made possible by five years of funding support from the John D. and Catherine T. MacArthur Foundation, the MacArthur Foundation Research Network on Opening Governance works to develop the blueprints for more effective and legitimate democratic institutions to the end of improving people\u2019s lives. A core group of twelve members is complemented by an advisory network of academics, technologists, and current and former government officials. Through both face-to-face and online collaboration, the Network is focused on assessing existing innovations in governing and experimenting with new practices and, eventually new norms, for how our institutions make decisions at the local, national, and international level.</p> <p>&nbsp;</p>\n",
+    "partners": [
+      "John D. and Catherine T. MacArthur Foundation"
+    ],
+    "style": "cover",
+    "title": "The MacArthur Research Network on Opening Governance",
+    "tooltip": "<p></p>\n",
+    "social_media": null,
+    "location": [
+      "United States",
+      "United Kingdom",
+      "Denmark"
+    ],
+    "team": [
+      "Beth Simone Noveck",
+      "Stefaan Verhulst",
+      "Andrew Young"
+    ],
+    "short_description": "<p></p>\n",
+    "type": "",
+    "related_articles": [
+      {
+        "url": "https://www.macfound.org/networks/research-network-opening-governance/",
+        "name": "Opening Governance Research Network"
+      }
+    ]
+  },
+  {
+    "status": "test",
+    "is_featured": 1,
+    "problem_statement": "How can we use blockchain technology for social good?",
+    "tags": {
+      "product_category": [
+        "Case Studies"
+      ],
+      "governance_area": [
+        "Municipal Governance",
+        "National Governance",
+        "Regional Governance"
+      ],
+      "type_of_institution": [
+        "Academic",
+        "Nonprofit",
+        "International Organization"
+      ],
+      "innovative_capability": [
+        "Expert Networks"
+      ]
+    },
+    "image": "blockchangelogo.png",
+    "is_active": true,
+    "results": null,
+    "rank": 0,
+    "related_question": 8,
+    "project_website": "https://blockchan.ge/",
+    "background": "<p>Distributed ledger technologies like blockchain are increasingly believed to offer value beyond the world of cryptocurrencies. As a tool for addressing information asymmetries, Blockchain could be capable of empowering underserved populations and helping to address public problems. This project examines how blockchain can establish social change across three areas.</p>\n",
+    "images": [
+      null
+    ],
+    "long_description": "<p>By providing new ways to securely identify individuals and organizations, and record transactions of various types in a distributed manner, blockchain technologies have been heralded as a new tool to address information asymmetries, establish trust and improve governance. The GovLab\u2019s Blockchange initiative, supported by the Rockefeller Foundation, studies the promise and practice of leveraging blockchain to achieve social change objectives across three types of use case: identity, track & trace, and smarter contracting.</p>\n",
+    "partners": [
+      "The Rockefeller Foundation",
+      "Raul Zambrano"
+    ],
+    "style": "cover",
+    "title": "Blockchange: Blockchain Technology for Social Change",
+    "tooltip": null,
+    "social_media": null,
+    "location": [
+      "Global"
+    ],
+    "team": [
+      "Stefaan Verhulst",
+      "Andrew Young",
+      "Hannah Pierce",
+      "Michelle Winowatan",
+      "Juliet McMurren",
+      "Olivia Clark"
+    ],
+    "short_description": null,
+    "type": "",
+    "related_articles": [
+      {
+        "url": "https://blockchan.ge/fieldreport.html",
+        "name": "Field Report: On the Emergent Use of Distributed Ledger Technologies for Identity Management"
+      },
+      {
+        "url": "https://blockchan.ge/primer/narratives.html",
+        "name": "Blockchange Primer"
+      },
+      {
+        "url": "https://blockchan.ge/curatedexamples.html",
+        "name": "Blockchange Curated Examples"
+      },
+      {
+        "url": "https://thelivinglib.org/the-govlab-selected-readings-on-blockchain-and-identity/",
+        "name": "Selected Readings on Blockchain and Identity"
+      },
+      {
+        "url": "https://thelivinglib.org/the-govlab-selected-readings-on-blockchain-technology-and-its-potential-for-transforming-governance/",
+        "name": "Selected Readings on Blockchain Technology and Its Potential for Transforming Governance"
+      }
+    ]
+  },
+  {
+    "status": "complete",
+    "is_featured": 0,
+    "problem_statement": "Solving Public Problems with Data examines how data can be used to improve decision-making and problem solving in the public sector through a series of online lectures by leading experts from the Governance Lab.",
+    "tags": {
+      "product_category": [
+        "Training",
+        "Coaching and Mentorship"
+      ],
+      "governance_area": [
+        "National Governance",
+        "Local Governance"
+      ],
+      "type_of_institution": [
+        "Academic",
+        "Public Sector"
+      ],
+      "innovative_capability": [
+        "Open Data",
+        "Big Data",
+        "Design Thinking",
+        "Agile Research",
+        "Rapid Prototyping",
+        "Data Collaboratives"
+      ]
+    },
+    "image": "sppwd.png",
+    "is_active": true,
+    "results": "<ul> <li><b>10 Self-Paced Lectures</b> - Watch online lectures done at your own pace</li> <li><b>Curated Readings</b> - Read case studies and recommended readings to further your knowledge on each of the topics</li> <li><b>Community</b> - Engage in conversations with people like you who are trying to solve similar public problems collecting, using and/or sharing data through our Network of Innovators SPPwD channel</li> <li><b>Cost</b> - No cost, thanks to a generous grant from the Laura and John Arnold Foundation<sup>*</sup></li> </ul> <p> Guest Lecturers: </p> <ul> <li>Beth Blauer, <a href=\"#\">Executive Director</a>, Johns Hopkins Center for Government Excellence</li> <li>Daniel Goroff, <a href=\"http://www.sloan.org/about-the-foundation/staff-directory/show-staff/show/people/daniel-l-goroff/\">Program Director</>, Alfred P. Sloan Foundation</li> <li>Carter Hewgley, <a href=\"https://govex.jhu.edu/person/carter-hewgley/\">Director of Analytics and Performance</a>, Center for Government Excellent, Johns Hopkins</li> <li>Julia Lane, <a href=\"http://cusp.nyu.edu/people/julia-lane/\">Professor</a>, Center for Urban Science and Progress, NYU</li> <li>Gideon Mann, <a href=\"https://www.linkedin.com/in/gideon-mann-223a2912\">Head of Data Science</a>, CTO Office at Bloomberg LP</li> <li>Amen Ra Mashariki, <a href=\"https://www.linkedin.com/in/amen-ra-mashariki-1452885\">Chief Analytics Officer</a>, New York City</li> <li>Beth Simone Noveck, <a href=\"http://www.thegovlab.org/beth-noveck.html\">Co-Founder and Director</a>, The Governance Lab</li> <li>Quentin Palfrey, <a href=\"https://www.povertyactionlab.org/palfrey\">Executive Director</a>, Abdul Latif Jameel Poverty Action Lab, North America | MIT Department of Economics</li> <li>Arnaud Sahuguet, <a href=\"http://tech.cornell.edu/people/researchers\">Director of the Foundry</a>, Cornell Tech</li> <li>Stefaan Verhulst, <a href=\"http://www.thegovlab.org/stefaan-verhulst.html\">Co-Founder and Director of Research</a>, The Governance Lab </li> <li>Ben Wellington, <a href=\"http://iquantny.tumblr.com/about\">creator of I Quant NY and Visiting Assistant Professor</a>, Pratt Institute in Brooklyn</li> </ul>\n",
+    "rank": 103,
+    "related_question": 6,
+    "project_website": "http://sppd.thegovlab.org/",
+    "background": "<p>This course is designed for public entrepreneurs\u200a\u2014\u200apassionate and innovative people who wish to take advantage of new technology to do good in the world. It is designed for public entrepreneurs inside and outside of government who want to build their capacity to use data and evidence for policy and decision-making.</p>\n",
+    "images": null,
+    "long_description": "<p>The explosion in the availability of new sources of data and the emergence of new data science technologies for making use of such data are expected to have a significant impact on public institutions and how they solve problems and make decisions.</p>\n\n  <p>Whether the goal is improved outcomes and equities, reduced cost and inefficiency, more evidence about what works or the identification of new operational solutions, the ability to use data is becoming essential to governing well in the 21st century.</p>\n\n  <p>Much of the promise of such data-driven and evidence-based decisionmaking has failed to materialize because those in public institutions lack the experience needed for turning data into actionable insights. Even those with quantitative skills often confront legal or technical impediments making it difficult to know how to collect, analyze, use, share, and store data responsibly and ethically.</p>\n\n  <p>Solving Public Problems with Data examines how data can be used to improve decisionmaking and problem solving in the public sector. Through real world examples and case studies, we discuss the fundamental principles of data science to help foster a data analytic mindset. The goal is to enable you to define and leverage the value of data to achieve your public mission. No prior experience with computer science or statistics is necessary or assumed.</p>\n",
+    "partners": [
+      "NYU Tandon School of Engineering",
+      "Laura and John Arnold Foundation"
+    ],
+    "style": "cover",
+    "title": "Solving Public Problems with Data",
+    "tooltip": "<p></p>\n",
+    "social_media": null,
+    "location": [
+      "Global"
+    ],
+    "team": [
+      "Beth Simone Noveck",
+      "Stefaan Verhulst",
+      "Dinorah Cant\u00fa-pedraza",
+      "Kaitlin Koga",
+      "Timi Lewis",
+      "Mark Adkins-Hastings"
+    ],
+    "short_description": "<p></p>\n",
+    "type": "",
+    "related_articles": [
+      {
+        "url": "http://sppd.thegovlab.org/",
+        "name": "Website"
+      }
+    ]
+  },
+  {
+    "status": "complete",
+    "is_featured": 0,
+    "problem_statement": "How can we leverage administrative data to improve social sector services and programs?",
+    "tags": {
+      "product_category": [
+        "Case Studies"
+      ],
+      "governance_area": [
+        "National Governance",
+        "Regional Governance"
+      ],
+      "type_of_institution": [
+        "Public Sector",
+        "Nonprofit",
+        "Academic"
+      ],
+      "innovative_capability": [
+        "Big Data"
+      ]
+    },
+    "image": "datalabs.png",
+    "is_active": true,
+    "results": null,
+    "rank": 6,
+    "related_question": 6,
+    "project_website": "http://medium.com/data-labs",
+    "background": "<p>While they have long collected data, increasingly in digital form, government agencies have struggled to create the infrastructure and acquire the skills needed to make use of this administrative data to realize the promise of evidence-based policymaking. But some states are already out ahead, establishing offices known as Data Labs or Policy Labs to enable states to partner with academia and make use of state administrative data to evaluate and ultimately improve programs and policies. By establishing the necessary technical infrastructure and governance mechanisms to help government gain access to much-needed analytical talent, these data labs are helping to convert data into insights and driving more evidence-based policymaking and service delivery. Urgently needed, however, are more such labs with the capacity to turn the data government collects into improvements in policies and services and the expansion of existing labs to enable nonprofits as well as government to evaluate their offerings using state data.</p>\n",
+    "images": null,
+    "long_description": "<p>In collaboration with New Philanthropy Capital and with a grant from Digital Impact (formerly Markets for Good), the Governance Lab has developed a series of case studies to better our understanding of the existing landscape of policy labs, to learn from their successes and drawbacks, and to help inform those who might be interested in setting up their own labs. Based on interviews with directors and funders of these labs, the case studies look at the governance processes employed to share or access data and how these labs solicit expertise to enable program evaluation. We also published an essay on medium.com where we analyzed the various models of existing labs and the enabling conditions necessary to stand up a new policy lab.</p> <p>The goal is to provide data owners, particularly those that hold personally identifiable data, with a blueprint to securely, responsibly and ethically share that information to end of improving programs in the public interest.</p>\n",
+    "partners": [
+      "New Philanthropy Capital"
+    ],
+    "title": "Data Labs",
+    "tooltip": null,
+    "social_media": null,
+    "location": [
+      "United States"
+    ],
+    "team": [
+      "Beth Simone Noveck",
+      "Anirudh Dinesh"
+    ],
+    "short_description": null,
+    "type": "",
+    "related_articles": [
+      {
+        "url": "http://medium.com/data-labs",
+        "name": "Project Website"
+      },
+      {
+        "url": "http://www.governing.com/commentary/col-data-policy-labs-states-urgently-need.html",
+        "name": "Beth Noveck and Anirudh Dinesh, \u201cThe policy labs we urgently need\u201d, Governing, December 2017"
+      }
+    ]
+  },
+  {
+    "status": "complete",
+    "is_featured": 0,
+    "problem_statement": "How Might Blockchain Technologies Impact the Governance of Natural Resource Extraction?",
+    "tags": {
+      "product_category": [
+        "Case Studies",
+        "Event/workshop",
+        "Report"
+      ],
+      "governance_area": [
+        "Global Governance"
+      ],
+      "type_of_institution": [
+        "International Organizations",
+        "Civil Society",
+        "Industry",
+        "National Government"
+      ],
+      "innovative_capability": [
+        "Blockchain"
+      ]
+    },
+    "image": "blockchangelogo.png",
+    "is_active": true,
+    "results": null,
+    "rank": 1,
+    "related_question": 8,
+    "project_website": "https://blockchan.ge",
+    "background": "<p>Although there is growing excitement (or hype) around the use of blockchain and distributed ledger technologies (DTLs) for creating meaningful industry change, questions remain on whether and how they can create value. Currently, the field is characterized by an \u201cif you build it they will come\u201d logic; faith that by applying blockchain technologies to identity management and other needs, it will have positive impact. To yield a more actionable understanding of whether and how blockchain and other DLTs can propel such changes, we need to move from a faith-based to an evidence-based approach. By providing new ways to securely identify individuals and organizations, and record transactions of various types in a distributed manner, blockchain technologies have been heralded as a new tool to address information asymmetries, establish trust and improve governance \u2013 especially around the extraction of oil, gas and other natural resources.</p>\n",
+    "images": null,
+    "long_description": "<p>In order to take stock of the current practice and narratives surrounding the promise of blockchain in the extractives sector, The GovLab -- with support from the Natural Resource Governance Institute (NGRI) -- sought to explore blockchain\u2019s potential impact on governance across the extractives decision chain, especially with respect to transparency and accountability objectives. The resultant report \u2013 The Practice and Promise of Blockchain Technologies for Extractives Governance \u2013 was developed through detailed desk research of current practice complemented with a comprehensive literature review.</p> <p>In addition, a team of researchers based at the GovLab and NRGI staff members, conducted in-depth interviews with experts on the governance of extractives, blockchain technologies, and the nexus of the two. The desk research and interviews informed the design and facilitation of an Expert Meeting on Blockchain Technologies and the Governance of the Extractives Value Chain, organized by the GovLab and NRGI, and hosted at the OpenGov Hub in Washington, D.C on July 12th 2018. </p>\n",
+    "partners": [
+      "National Resource Governance Institute, Rockefeller Foundation"
+    ],
+    "style": "cover",
+    "title": "Blockchain and Extractives Governance",
+    "tooltip": null,
+    "social_media": null,
+    "location": [
+      "United States"
+    ],
+    "team": [
+      "Stefaan Verhulst",
+      "Andrew Young",
+      "Daniella Heard",
+      "Olivia Clark"
+    ],
+    "short_description": null,
+    "type": "",
+    "related_articles": [
+      {
+        "url": "https://blockchan.ge/fieldreport.html",
+        "name": "Field Report: On the Emergent Use of Distributed Ledger Technologies for Identity Management"
+      },
+      {
+        "url": "https://blockchan.ge/primer/narratives.html",
+        "name": "Blockchange Primer"
+      },
+      {
+        "url": "https://blockchan.ge/curatedexamples.html",
+        "name": "Blockchange Curated Examples"
+      },
+      {
+        "url": "https://thelivinglib.org/the-govlab-selected-readings-on-blockchain-and-identity/",
+        "name": "Selected Readings on blockchain and identity"
+      },
+      {
+        "url": "https://thelivinglib.org/the-govlab-selected-readings-on-blockchain-technology-and-its-potential-for-transforming-governance/",
+        "name": "Selected Readings on blockchain technology and its potential for transforming governance"
+      }
+    ]
+  },
+  {
+    "status": "test",
+    "is_featured": 0,
+    "problem_statement": "How can the potential value of privately held data be unlocked and used for public good?",
+    "tags": {
+      "product_category": [
+        "Network",
+        "Platform",
+        "Event/Workshop"
+      ],
+      "governance_area": [
+        "National Governance",
+        "Regional Governance",
+        "Municipal Governance",
+        "Global Governance"
+      ],
+      "type_of_institution": [
+        "Corporate/Business",
+        "International Organizations",
+        "Government",
+        "Public Sector"
+      ],
+      "innovative_capability": [
+        "Expert Networks",
+        "Data Collaboratives",
+        "Data Stewardship",
+        "Data Responsibility"
+      ]
+    },
+    "image": "data-stewards.png",
+    "is_active": true,
+    "results": null,
+    "rank": 8,
+    "related_question": 2,
+    "project_website": "https://datastewards.net",
+    "background": "<p>Increasingly, the private sector is collaborating with the public sector and researchers on ways to use private-sector data and analytical expertise for public good. With these new practices of data collaborations come the need to reimagine roles and responsibilities to steer the process of using private data, and the insights it can generate, to address some of society\u2019s biggest questions and challenges. Today, establishing and sustaining these new collaborative and accountable approaches requires significant and time-consuming effort and investment of resources for both data holders on the supply side, and institutions that represent the demand.</p>\n",
+    "images": null,
+    "long_description": "<p>By establishing Data Stewardship as a function, recognized within the private sector as a valued responsibility, the practice of Data Collaboratives can become more predictable, scaleable, sustainable and de-risked. The GovLab is launching a first-of-its-kind Data Stewards Network, bringing together responsible data leaders from across corporations to share knowledge and jointly advance a new, more professionalized approach for data collaboration. Together with BrightFront Group and Adapt, we are:</p> <li>Exploring the needs and priorities of current private sector Data Stewards who act as change agents within their firms. Responsible for determining what, when, how and with whom to share private data for public good, these individuals are critical catalysts for ensuring insights are turned into action.</li> <li>Identifying and connecting existing Data Stewards across sectors and regions to create an online and in-person community for exchanging knowledge and best practices.</li> <li>Developing methodologies, tools and frameworks to use data more responsibly, systematically and efficiently to decrease the transaction cost, time and energy currently needed to establish Data Collaboratives.</li>\n",
+    "partners": [
+      "Adapt"
+    ],
+    "title": "Data Stewards Network",
+    "tooltip": null,
+    "social_media": null,
+    "location": [
+      "Global"
+    ],
+    "team": [
+      "Stefaan Verhulst",
+      "Andrew Young",
+      "Ayushi Roy",
+      "Alexandra Shaw",
+      "Michelle Winowatan"
+    ],
+    "short_description": null,
+    "type": "",
+    "related_articles": [
+      {
+        "url": "http://thegovlab.org/data-stewards-data-leadership-to-address-the-challenges-of-the-21st-century/",
+        "name": "Data Stewards: Data Leadership to Address the Challenges of the 21st Century"
+      },
+      {
+        "url": "http://datacollaboratives.org/",
+        "name": "Data Collaboratives"
+      }
+    ]
+  },
+  {
+    "status": "prototype",
+    "is_featured": 0,
+    "problem_statement": "How can privately held data be shared responsibly for social good through cross sector collaboration?",
+    "tags": {
+      "product_category": [
+        "Strategy",
+        "Data sets",
+        "Platform",
+        "Event/workshop",
+        "Website"
+      ],
+      "governance_area": [
+        "National Governance",
+        "Regional Governance",
+        "Municipal Governance",
+        "Global Governance"
+      ],
+      "type_of_institution": [
+        "Corporate/Business",
+        "International Organizations",
+        "Government",
+        "Public Sector"
+      ],
+      "innovative_capability": [
+        "Expert Networks",
+        "Data Collaboratives",
+        "Collective Intelligence",
+        "Open Data"
+      ]
+    },
+    "image": "data-stewards.png",
+    "is_active": true,
+    "results": null,
+    "rank": 7,
+    "related_question": 2,
+    "project_website": "https://datastewards.net",
+    "background": "<p>There are many predictable, repeatable uses for uses for privately held corporate data to serve public good. However, the processes to access and effectively use such data remains almost completely ad-hoc. Establishing \u201cdata collaboratives\u201d and leveraging privately-held data for evidence based policy making is onerous, generally one-off, not informed by best practices or any shared knowledge base.</p>\n",
+    "images": null,
+    "long_description": "<p>The program seeks to develop methodologies, tools and frameworks to share data responsibility and systematically - leveraging existing insights and assessments - so that a decrease in the transaction cost, time and energy can be established for data collaboratives between private and public sectors. There are three core pillars of data responsibility:</p> <li>Duty to Share: Corporations must act on this need and recognize the potential value of data in order to help improve people\u2019s lives.</li> <li>Duty to Protect: if precautions aren\u2019t taken, sharing data can be more harmful than beneficial. Oftentimes, people are worried about data-sharing for such reasons; but what makes data protection more complex is data application in different contexts. The issue is much larger than privacy at the point of sharing -- we must be concerned about mitigating risks across the data life cycle: collection stage, processing stage, sharing stage, analyzing stage, and the using stage.</li> <li>The Duty to Act: there are often many projects occurring simultaneously that release new insights, and yet, too often they are not acted upon. To leverage this untapped value, we need a new framework for data responsibility that\u2019s comprised of these three core pillars -- otherwise, we run the risk of losing data assets that serve public good.</li>\n",
+    "partners": [
+      "Hewlett Foundation",
+      "WeAdapt"
+    ],
+    "title": "Data Responsibility",
+    "tooltip": null,
+    "social_media": null,
+    "location": [
+      "Global"
+    ],
+    "team": [
+      "Stefaan Verhulst",
+      "Andrew Young",
+      "Alexandra Shaw"
+    ],
+    "short_description": null,
+    "type": "",
+    "related_articles": [
+      {
+        "url": "http://datacollaboratives.org/",
+        "name": "Data Collaboratives"
+      },
+      {
+        "url": "http://www.weareadapt.io/",
+        "name": "Adapt"
+      },
+      {
+        "url": "https://hewlett.org/strategy/citizen-voices-and-evidence-informed-policy/",
+        "name": "Hewlett Foundation"
+      }
+    ]
+  },
+  {
+    "status": "test",
+    "is_featured": 0,
+    "problem_statement": "How can you leverage government data to create a knowledge base for solving problems?",
+    "tags": {
+      "product_category": [
+        "Methodology"
+      ],
+      "governance_area": [
+        "National Governance",
+        "Municipal Governance",
+        "Global Governance"
+      ],
+      "type_of_institution": [
+        "Government"
+      ],
+      "innovative_capability": [
+        "Collective Intelligence",
+        "Open Data"
+      ]
+    },
+    "image": "open-data-demand-methodology.jpg",
+    "is_active": true,
+    "results": null,
+    "rank": 5,
+    "related_question": 1,
+    "project_website": "http://www.thegovlab.org/open-data-demand.html",
+    "background": "<p>Across the world, significant time and resources are being invested in making government data accessible to all with the broad goal of improving people\u2019s lives. The 2016 Open Data Barometer found that 79 out of 115 countries examined have an open data portal. As of September 2017, Data.gov, the United States\u2019 open data portal, provides access to 302,614 datasets. Meanwhile, 54 countries across the globe have adopted the International Open Data Charter.</p> <p>Evidence of open data\u2019s impact\u2014on improving governance, empowering citizens, creating economic opportunity, and solving public problems\u2014is emerging and is largely encouraging.</p> <p>Yet much of the potential value of open data remains untapped, in part because we often do not understand who is using open data or, more importantly, who is not using open data but could benefit from the insights it may generate. By identifying, prioritizing, segmenting, and engaging with the actual and future demand for open data in a systemic and systematic way, practitioners can ensure that open data is more targeted.</p>\n",
+    "images": null,
+    "long_description": "<p>The GovLab\u2019s Open Data Demand Assessment and Segmentation Methodology provides open data policymakers and practitioners with an approach for identifying, segmenting, and engaging with demand. This process specifically seeks to empower data champions within public agencies who want to improve their data\u2019s ability to improve people\u2019s lives. We narrowed our methodology to just six steps to enable open data champions to repeatedly map the current and future demand for open data within their country or city. Previous work examining the global impacts of open data at the GovLab and a six-month, hands-on project with the Inter-American Development Bank informed this methodology.</p>\n",
+    "partners": [
+      "Luminate Group",
+      "Inter-American Development Bank",
+      "Reboot",
+      "Mayor\u2019s Fund to Advance New York City",
+      "New York City Mayor\u2019s Office of Data Analytics"
+    ],
+    "title": "Open Data Demand",
+    "tooltip": null,
+    "social_media": null,
+    "location": [
+      "Costa Rica",
+      "New York City"
+    ],
+    "team": [
+      "Stefaan Verhulst",
+      "Andrew Young",
+      "Michelle Winowatan"
+    ],
+    "short_description": null,
+    "type": "",
+    "related_articles": [
+      {
+        "url": "http://www.thegovlab.org/static/files/publications/open-data-demand-methodology.pdf",
+        "name": "Open Data Demand Assessment and Segmentation Methodology"
+      },
+      {
+        "url": "http://www.thegovlab.org/static/files/publications/Data+Demand.pdf",
+        "name": "Toward an Open Data Demand Assessment and Segmentation Methodology Report"
+      },
+      {
+        "url": "https://medium.com/data-stewards-network/leveraging-and-sharing-data-for-urban-flourishing-d6d48584443a",
+        "name": "Leveraging and Sharing Data for Urban Flourishing"
+      },
+      {
+        "url": "http://thegovlab.org/if-you-build-it-will-they-come-a-case-for-demand-driven-open-data/",
+        "name": "If You Build It, Will They Come? A Case for Demand-Driven Open Data"
+      }
+    ]
+  },
+  {
+    "status": "test",
+    "is_featured": 0,
+    "problem_statement": "A comprehensive 10-module course in Spanish and English to train public officials on how to use new technologies to improve the judicial system.",
+    "tags": {
+      "product_category": [
+        "Training",
+        "Coaching &amp; Mentoring",
+        "Strategy"
+      ],
+      "governance_area": [
+        "National Governance"
+      ],
+      "type_of_institution": [
+        "Public Sector / Courts"
+      ],
+      "innovative_capability": [
+        "Open Data",
+        "Crowdsourcing",
+        "Expert Networks"
+      ]
+    },
+    "image": "open-justice.png",
+    "is_active": true,
+    "results": "<p>Launched in january 2019, we anticipate coaching a dozen projects arising from the course beginning this spring.</p>\n",
+    "rank": 100,
+    "related_question": 6,
+    "project_website": null,
+    "background": "<p>Open justice is a growing movement to use new technologies, including big data, digital platforms, blockchain and more, to improve our legal system by making the workings of our legal institutions easier to understand and scrutinize. The term describes the use of new technology to foster data transparency, courtroom openness, and public engagement in order to improve the efficiency, effectiveness and legitimacy of the courts and promote better public policy. Because of these new technologies and tools, the opportunity for more diverse people to make improvements to the judicial system has never been greater.</p>\n",
+    "images": null,
+    "long_description": "<p>\u201cIntroduction to Open Justice\u201d is a self-paced massively open online course (MOOC) designed to aid those developing open justice projects to advance their work. Created primarily for lawyers, judges, and public officials but also technologists, and members of the public, the course consists of 10 modules which serve as introductions to different aspects of open justice. It trains public entrepreneurs in strategies for using technology, especially data, to increase efficiency, improve equity, fight corruption and enhance legitimacy in the third branch of government.</p> <p>&nbsp;</p>\n",
+    "partners": [
+      "The Electoral Tribunal of the Federal Judiciary of Mexico"
+    ],
+    "style": "cover",
+    "title": "Open Justice",
+    "tooltip": "<p></p>\n",
+    "social_media": null,
+    "location": [
+      "Mexico"
+    ],
+    "team": [
+      "Beth Simone Noveck",
+      "Victoria Alsina",
+      "Dinorah Cantu-Pedraza",
+      "Matt Ryan",
+      "Dane Gambrell",
+      "Auralice Graft",
+      "Darshana Narayanan",
+      "Pablo Collada",
+      "Leonardo Ferreira de Oliveira",
+      "Anirudh Dinesh"
+    ],
+    "short_description": "<p></p>\n",
+    "type": "",
+    "related_articles": null
+  },
+  {
+    "status": "complete",
+    "is_featured": 0,
+    "problem_statement": "GovLab received a grant from The Democracy Fund to study citizen engagement for Congress and create a Crowdlaw Playbook for Congress and teach citizen engagement techniques to Members.",
+    "tags": {
+      "product_category": [
+        "Platform",
+        "Mapping",
+        "Strategy",
+        "Case Studies"
+      ],
+      "governance_area": [
+        "National Governance"
+      ],
+      "type_of_institution": [
+        "Public sector"
+      ],
+      "innovative_capability": [
+        "Open data",
+        "Big data",
+        "Small data",
+        "Collective Intelligence",
+        "Crowdsourcing",
+        "Expert networks"
+      ]
+    },
+    "image": "crowdlaw-square.png",
+    "is_active": true,
+    "results": null,
+    "rank": 0,
+    "related_question": 4,
+    "project_website": "https://congress.crowd.law",
+    "background": "<p>With legislation largely done by professional staff and politicians working behind closed doors, it is no wonder that rates of trust in Congress are at historic lows. Lobbyists vying for precious face time with Members and constituents\u2019 emails and letters piling up are fueling the demand from lawmakers and the public alike for innovative and efficient ways to tap into the public\u2019s expertise and know-how. Crowdlaw is what GovLab calls the use of the Internet to enable people to participate in one or more stages of the lawmaking process, including but not limited to problem identification, solution identification, proposal drafting, ratification, implementation or evaluation.</p>\n",
+    "images": null,
+    "long_description": "<p>Sponsored by the Democracy Fund, the CrowdLaw for Congress project explores how lawmaking bodies around the world are turning to CrowdLaw or the use of new technology to foster an efficient two-way conversation with the public to the end of improving the quality and the legitimacy of lawmaking.</p> <p>Building on its experience working with public partners to design, implement and research the use of new technologies for governing, the Governance Lab at New York University in collaboration with the Kluge Center at the Library of Congress is launching a series of five videos detailing the many ways legislatures around the world are using CrowdLaw practices successfully to engage with the public at each stage of lawmaking. The videos are accompanied by in-depth case studies examining CrowdLaw initiatives, a series of online interviews with politicians and congressional staff offering vivid detail of how and why their parliaments are turning to online engagement to improve lawmaking. The CrowdLaw Playbook offers a downloadable guide with practical how-to's for introducing 21st century lawmaking techniques here in the United States.</p> <p>&nbsp;</p>\n",
+    "partners": [
+      "Democracy Fund"
+    ],
+    "style": "cover",
+    "title": "CrowdLaw Playbook",
+    "tooltip": "<p></p>\n",
+    "social_media": null,
+    "location": [
+      "United States",
+      "Global"
+    ],
+    "team": [
+      "Beth Simone Noveck",
+      "Victoria Alsina",
+      "Anirudh Dinesh",
+      "Matt Ryan",
+      "Marco Konopacki",
+      "Sam DeJohn",
+      "Mark Adkins-Hastings",
+      "Rose Harvey"
+    ],
+    "short_description": "<p></p>\n",
+    "type": "",
+    "related_articles": [
+      {
+        "url": "https://crowd.law/",
+        "name": "CrowdLaw Site"
+      }
+    ]
+  },
+  {
+    "status": "complete",
+    "is_featured": 0,
+    "problem_statement": "A free, online program to train public entrepreneurs to use innovative methods, including design thinking, evidence-based decisionmaking and collective intelligence, to solve public problems.",
+    "tags": {
+      "product_category": [
+        "Training",
+        "Coaching &amp; Mentoring",
+        "Strategy"
+      ],
+      "governance_area": [
+        "National Governance"
+      ],
+      "type_of_institution": [
+        "Public Sector"
+      ],
+      "innovative_capability": [
+        "Open Data",
+        "Crowdsourcing",
+        "Problem Definition"
+      ]
+    },
+    "image": "logo-insa.png",
+    "is_active": true,
+    "results": "<p>Over 400 participants in the state of New Jersey are enrolled in the Innovation Skills Accelerator. The course is also being replicated in Germany and Australia.</p>\n",
+    "rank": 101,
+    "related_question": 6,
+    "project_website": null,
+    "background": "<p>The Innovation Skills Accelerator (InSA) is a free, online program to train public officials to leverage new technology and data to drive innovation in their day-to-day work, and tap into the intelligence and expertise of residents in their jurisdictions. Developed by the Governance Lab in collaboration with the State of New Jersey, this program aims to help public entrepreneurs -- those passionate individuals who want to get better at designing public interest projects and taking them from idea to implementation -- work differently.</p>\n",
+    "images": [
+      "insa-2.png",
+      "insa-1.png",
+      "insa-3.png"
+    ],
+    "long_description": "\n<p>The Innovation Skills Accelerator includes video instruction, interviews with leading public sector innovators from around the world, readings, and self-assessments. Course content spans an array of subject areas, such as introductions to new technologies like blockchain and big data analytics, utilizing modern methodologies such as user-centered design and open innovation, and employing experimental design approaches.</p> <p>&nbsp;</p>\n",
+    "partners": [
+      "State of New Jersey"
+    ],
+    "style": "cover",
+    "title": "Innovation Skills Accelerator",
+    "tooltip": "<p></p>\n",
+    "social_media": null,
+    "location": [
+      "United States"
+    ],
+    "team": [
+      "Beth Simone Noveck",
+      "Matt Ryan",
+      "Anirudh Dinesh",
+      "Sam DeJohn"
+    ],
+    "short_description": "<p></p>\n",
+    "type": "",
+    "related_articles": null
+  },
+  {
+    "status": "test",
+    "is_featured": 0,
+    "problem_statement": "Beth Simone Noveck is leading a research project with an aim to measure current knowledge and use of innovative skills by local government leaders in the United States.",
+    "tags": {
+      "product_category": [
+        "Training"
+      ],
+      "governance_area": [
+        "Municipal Governance"
+      ],
+      "type_of_institution": [
+        "Public Sector"
+      ],
+      "innovative_capability": [
+        "Crowdsourcing",
+        "Expert networks",
+        "Open Innovation",
+        "Open Data"
+      ]
+    },
+    "image": "icma-logo.png",
+    "is_active": true,
+    "results": null,
+    "rank": 102,
+    "related_question": 6,
+    "project_website": "https://www.publicentrepreneur.org/skills",
+    "background": "<p>GovLab\u2019s work on measuring innovative and entrepreneurial skills within the public sector starts from the hypothesis that government can do a better job of eradicating poverty and inequality, slowing economic fluctuations and climate change, and improving security, literacy and wellness if public officials know how and when to leverage new creative, technological and data-informed tools and methods (\u201cinnovative skills\u201d) to more effectively and efficiently define problems and develop implementable solutions.</p> <p>Those innovative problem solving skills include six basic competencies: 1) knowing how to define an actionable problem (problem-definition), 2) working with the people affected by a problem to understand the problem and its causes (human-centered design), 3) knowing how to leverage social science research to design experiments that change behavior (behavioral insights), 4) understanding how to formulate a hypothesis, identify and use data to undertake evidence-based ways of working (data analytical thinking), 5) tapping collective intelligence to understand the problem and develop solutions (open innovation) and 6) having the know how to accelerate the completion of a project from idea to implementation (lean-agile methods).</p>\n",
+    "images": null,
+    "long_description": "<p>GovLab Director Beth Simone Noveck was recently announced as one of four inaugural International City/County Management Association Local Government Research Fellows. Her research project, titled \u201cPromoting Local Leaders\u2019 Innovation, Learning, and Effective Problem-Solving\u201d, focuses on identifying and analyzing the skill gaps of local leaders\u2019 use of innovative methods to solve problems using new technology.</p> <p>Specifically, she is conducting nationwide mixed-methods research in order to understand the current and desired level of knowledge of the aforementioned six (and other) innovative skills as well as the learning practices of local public officials in the United States. The goal of this research is to understand the current problem-solving skillset among local officials and inform the creation of new skills training programs for local officials that respond to people\u2019s needs and that, in turn, might make public officials more effective at solving public problems. </p>\n",
+    "partners": [
+      "International City/County Management Association"
+    ],
+    "style": "small",
+    "title": "ICMA Innovation Skills Survey",
+    "tooltip": "<p></p>\n",
+    "social_media": null,
+    "location": [
+      "United States"
+    ],
+    "team": [
+      "Beth Simone Noveck",
+      "Anirudh Dinesh",
+      "Sam DeJohn"
+    ],
+    "short_description": "<p></p>\n",
+    "type": "",
+    "related_articles": null
+  },
+  {
+    "status": "test",
+    "is_featured": 0,
+    "problem_statement": "Open Policymaking: making more effective and legitimate policy by tapping collective intelligence",
+    "tags": {
+      "product_category": [
+        "Case Studies",
+        "Guide",
+        "Recommendations"
+      ],
+      "governance_area": [
+        "Collaborative Governance"
+      ],
+      "type_of_institution": [
+        "Nonprofit"
+      ],
+      "innovative_capability": [
+        "Collective Intelligence",
+        "Crowdsourcing",
+        "Expert Networks",
+        "Citizen Engagement"
+      ]
+    },
+    "image": "aarp-logo.png",
+    "is_active": true,
+    "results": null,
+    "rank": 0,
+    "related_question": 4,
+    "project_website": null,
+    "background": "<p>The deployment of Autonomous Vehicles (AVs) creates the potential to transform society by \u201creducing crashes, alleviating congestion, diminishing pollution, and increasing mobility while improving travel time.\u201d In addition to improving safety, AVs may also increase mobility and create economic and social opportunity for the underserved, including low income, disabled, and elderly communities. However, numerous challenges exist, which require developing a better understanding of the problems as people experience and perceive them across communities, as well as identifying innovative solutions to those problems by tapping the collective intelligence of diverse and creative experts. To build upon AARP leadership as a next-generation listening organization that leverages the latest technology to enhance member engagement, GovLab lays out 8 cost-effective dialogic mechanisms for open and engaged policymaking. Rooted in both empirical research and practice, these recommendations focus on processes that have a proven track record for efficient and effective policy consultation. In this report, we discuss each of these recommendations in depth and provide specific guidance with regard to implementation and how to use these methods to get more people to respond; obtain diverse, innovative and unexpected ideas; go beyond screeds and rants; and increase legitimacy and effectiveness of its policymaking through more active and engaged forms listening.</p>\n",
+    "images": null,
+    "long_description": "<p>The GovLab created a report that recommends eight cost-effective dialogic mechanisms for open and engaged policymaking to support AARP in developing better AV policy. Rooted in both empirical research and practice, these recommendations focus on processes that have a proven track record for efficient and effective policy consultation on hard issues and are optimally suited for use in connection with challenging policymaking issues. Recommendations are divided into four stages of the policymaking process (Understanding the Problem, Developing Solutions, Drafting, and Evaluation and Assessment) with each recommendation describing a process for obtaining the information and expertise specifically needed at that stage.</p>\n",
+    "partners": [
+      "AARP"
+    ],
+    "style": "small",
+    "title": "Open Policymaking",
+    "tooltip": "<p></p>\n",
+    "social_media": null,
+    "location": [
+      "United States"
+    ],
+    "team": [
+      "Victoria Alsina",
+      "Anirudh Dinesh",
+      "Rose Harvey",
+      "Beth Simone Noveck"
+    ],
+    "short_description": "<p></p>\n",
+    "type": "",
+    "related_articles": null
+  },
+  {
+    "status": null,
+    "is_featured": 0,
+    "problem_statement": "Unless we define the questions well to unlock the potential of data and data science, how can we provide answers that matter?",
+    "tags": {
+      "product_category": [
+        "Campaign",
+        "Methodology"
+      ],
+      "governance_area": [
+        "National Governance",
+        "Municipal Governance",
+        "Global Governance"
+      ],
+      "type_of_institution": [
+        "Corporate/Business",
+        "Government",
+        "Public Sector",
+        "Academic"
+      ],
+      "innovative_capability": [
+        "Expert Networks",
+        "Data Collaboratives"
+      ]
+    },
+    "image": "100-questions-logo-v-dark-blue.png",
+    "is_active": true,
+    "results": "<p>The results of the initiative is to initiate data collaboratives aimed at solving questions that matter. A data collaborative is a new form of collaboration, beyond the public-private partnership model, in which participants from different sectors exchange their data to create public value. Our ultimate goal is to leverage the insights from the data collaboratives to better design policies and provide more actionable solutions that can help improve people\u2019s lives around the world.</p>\n",
+    "rank": 0,
+    "related_question": 5,
+    "project_website": "https://the100questions.org",
+    "background": "<p>The variety and complexity of challenges facing our world today -- from climate change to the rethinking of work to economic inequality to terrorism -- are unprecedented. At the same time, today\u2019s policymaking and problem-solving approaches cannot provide the solutions we need to the complex social, economic and cultural problems we face, contributing to an increased decline in trust in institutions. We need not only innovative solutions, we also need innovation in how we define the problems we encounter and subsequently develop solutions.</p>\n",
+    "images": null,
+    "long_description": "<p>The 100 Questions is an initiative by The GovLab, with support from Schmidt Futures, Data2X and a consortium of other partners. The initiative seeks to to improve the set of questions that if answered -- using new data sources and data science -- could transform the way we solve a variety of 21st century challenges. In addition, this project introduces and expands the concept of \u201cbilinguals\u201d -- individuals that possess both domain expertise and data science capabilities -- as being essential to define questions that matter to particular fields and can be addressed through data science.</p> <p>The 100 Questions Initiative builds on The GovLab\u2019s Smarter Crowdsourcing methodology to match societal challenges with diverse ideas from curated global experts. More specifically, The 100 Questions will be sourced by bilinguals. For each domain, The GovLab will form ten cohorts of bilinguals who are invited to develop, evaluate and select the ten most relevant questions collaboratively. Once the bilinguals have produced and prioritized the ten questions, the public will be invited to comment and express interest for the ten most compelling questions for each domain.</p> <p>Together with domain partners, bilinguals, data holders and the public, The GovLab will strive to identify existing datasets could provide answers to the 100 questions \u2013 even if they are not easily accessible, e.g., proprietary datasets held by private companies. When confronted with data voids, the GovLab will attempt to define the new datasets that should be generated to help fill the gap. The GovLab\u2019s aim is to provide a clear definition of the data requirements and therefore facilitate the formation of data collaboratives with promising data providers.</p> <p>The 100 Questions will help us understand the unresolved questions that could help address the most vexing problems we face across sectors and geographies when answered. They will help us establish priorities, so that we can make the most of scarce public resources.</p> <p>&nbsp;</p>\n",
+    "partners": [
+      "Schmidt Futures",
+      "Data2X",
+      "International Office for Migration (IOM)",
+      "Joint Research Centre",
+      "European Commission",
+      "World Resources Institute",
+      "Bertelsmann Foundation"
+    ],
+    "style": null,
+    "title": "100 Questions Initiative",
+    "tooltip": "<p></p>\n",
+    "social_media": null,
+    "location": [
+      "Global"
+    ],
+    "team": [
+      "Stefaan Verhulst",
+      "Alexandra Shaw",
+      "Andrew Young",
+      "Andrew Zahuranec",
+      "Maitri Pujara",
+      "Michelle Winowatan",
+      "Stephan Schmidt",
+      "Stephen Tubman"
+    ],
+    "short_description": "<p></p>\n",
+    "type": "Collective Intelligence",
+    "related_articles": null
+  },
+  {
+    "status": null,
+    "is_featured": 0,
+    "problem_statement": "How can institutions use technology to solve problems with groups?",
+    "tags": {
+      "product_category": [
+        "Research Report",
+        "Practical Guide",
+        "Case Studies",
+        "Strategy Training"
+      ],
+      "governance_area": [
+        "City Governance",
+        "Regional Governance",
+        "National Governance"
+      ],
+      "type_of_institution": [
+        "Public sector"
+      ],
+      "innovative_capability": [
+        "Collective Intelligence",
+        "Citizen Engagement",
+        "Open Innovation",
+        "Policy Making",
+        "Service Delivery"
+      ]
+    },
+    "image": "nesta.png",
+    "is_active": true,
+    "results": "<p>Research commenced in September 2019. Research findings and related resources will be published early in 2020 and be made freely accessible.</p>\n",
+    "rank": 0,
+    "related_question": 4,
+    "project_website": null,
+    "background": "<p>Making progress in how we understand, think and act together is critical to solving some of the most complex challenges of our times \u2013 from climate change to inequality. By focusing on advancing knowledge and practical applications of collective intelligence in fields with public benefit we aim to demonstrate how every organisation can tackle problems more successfully if it tapped into a \u2018bigger mind\u2019.</p>\n",
+    "images": null,
+    "long_description": "<p>Drawing on earlier work by The GovLab and NESTA, this research will identify and examine cases where governments, in particular cities, have used collective intelligence (CI) to better understand and solve problems, generate a wider range of possible solutions, make more inclusive decisions that can support collective action, co-implement initiatives and monitor, evaluate and adjust programs. This will include a specific focus on the institutionalization of these CI initiatives: the organisational arrangements and contexts that have enabled CI processes to be initiated, conducted, and integrated with existing governance approaches, so as to draw out the conditions, capabilities and structures that help to optimise institutionalisation of CI in public sector organisations. Cases will include a mix of those with demonstrated institutional and social impact and those showcasing emergent practice, and will consider the benefits and risks of technology used in CI processes.</p> <p>A key aim of the research will be to create a practical guide or a set of design principles that institutions such as local authorities, interested in collective intelligence as a method, can use when developing new projects and initiatives.</p> <p>Know of any examples of governments employing collective intelligence to understand and solve public problems? Email us at <a href=\"ci@thegovlab.org\">ci@thegovlab.org</a>.</p> <p>&nbsp;</p>\n  <h2>Board of Advisors</h2>\n<table class=\"e-people-list\">\n    <tr>\n        <td>\n            <div>Mara Balestrini</div>\n            <div>Partner & CEO, Ideas for Change</div>\n        </td>\n        <td>\n            <div>Stefana Broadbent</div>\n            <div>Associate Professor Department of Design Politecnico di Milano</div>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            <div>Christiana Freitas</div>\n            <div>Associate Professor Researcher at the National Institute of Science & Technology on Digital Democracy / InCT.DD</div>\n        </td>\n        <td>\n            <div>Francois Grey</div>\n            <div>Co-Director, Center for Citizen CyberScience</div>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            <div>Indy Johar</div>\n            <div>Co-Founder, Dark Matter Labs</div>\n        </td>\n        <td>\n            <div>Myung Lee</div>\n            <div>Executive Director, Cities of Service</div>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            <div>Tom Malone</div>\n            <div>Founding Director, MIT Centre for Collective Intelligence</div>\n        </td>\n        <td>\n            <div>Cecilia Nicolini</div>\n            <div>Research Affiliate, MIT Centre for Collective Intelligence</div>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            <div>Lex Paulson</div>\n            <div>Director, School of Collective Intelligence Universit\u00e9 Mohammed VI Polytechnique</div>\n        </td>\n        <td>\n            <div>Tiago Peixoto</div>\n            <div>Senior Public Sector Specialist, Governance Global Practice, World Bank Group</div>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            <div>Carolina Pozo</div>\n            <div>Co-Founder, Knowledge Economy Initiative</div>\n        </td>\n          <td>\n            <div>Rebecca Rumbul</div>\n            <div>Head of Research, MySociety</div>\n        </td>\n    </tr>\n  </table>\n",
+    "partners": [
+      "NESTA Centre for Collective Intelligence Design"
+    ],
+    "style": null,
+    "title": "Using Collective Intelligence to Solve Public Problems",
+    "tooltip": "<p></p>\n",
+    "social_media": null,
+    "location": [
+      "Global"
+    ],
+    "team": [
+      "BETH SIMONE NOVECK",
+      "Matt Ryan",
+      "Sam DeJohn",
+      "Anirudh Dinesh"
+    ],
+    "short_description": "<p></p>\n",
+    "type": "",
+    "related_articles": [
+      {
+        "url": "https://www.nesta.org.uk/project/centre-collective-intelligence-design/",
+        "name": "NESTA Centre for Collective Intelligence Design"
+      },
+      {
+        "url": "http://crowd.law",
+        "name": "CrowdLaw: Online Public Participation in Lawmaking"
+      },
+      {
+        "url": "http://congress.crowd.law",
+        "name": "CrowdLaw for Congress"
+      },
+      {
+        "url": "http://www.thegovlab.org/static/files/publications/openpolicymaking-april29.pdf",
+        "name": "Open Policymaking Playbook"
+      }
+    ]
+  }
+]
