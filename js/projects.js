@@ -28,7 +28,7 @@ new Vue({
   data () {
     return {
       projectsData: [],
-      listView: false,
+      listview: false,
       meta_title: 'The GovLab | Projects',
       meta_content: 'Building new technology to solve public problems. Our projects try to answer the questions that stand between today and more effective and legitimate governance tomorrow.',
       apiURL: 'https://directus.thegovlab.com/thegovlab/items/projects'
@@ -73,11 +73,12 @@ new Vue({
 })
 .catch(error => console.error(error));
     },
-    showList(teammember) {
-      this.listView = true;
+    showList() {
+      this.listview = true;
+      console.log('her');
     },
-    showThumb(teammember) {
-      this.listView = false;
+    showThumb() {
+      this.listview = false;
     },
     projectsMore(slug) {
       window.location.href= slug+'.html';
