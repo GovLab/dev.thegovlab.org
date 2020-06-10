@@ -1488,6 +1488,8 @@ button:focus {
   color: #008895; }
 .b-projects-list-wrapper.m-collective-intelligence .e-project-item h2 a {
   color: #ee5b43; }
+  .b-projects-list-wrapper.m-collective-intelligence .e-project-item-list h2 a {
+        color: #008895; }
 .b-projects-list-wrapper.m-design-thinking .e-project-item h2 a {
   color: #008ab3; }
 @media (min-width: 1025px) {
@@ -1517,6 +1519,17 @@ button:focus {
   text-transform: uppercase;
   line-height: 1.2;
   font-size: 18px; }
+  .b-projects-list-wrapper .e-project-item-list h2 {
+    margin: 0 40px 0;
+    -webkit-flex: 1;
+    flex: 1;
+    font-weight: 800;
+    text-transform: uppercase;
+    line-height: 1.2;
+    font-size: 18px;}
+
+
+
 .b-projects-list-wrapper .e-project-item p {
   font-size: 14px;
   line-height: 1.4; }
@@ -1562,7 +1575,7 @@ button:focus {
 .b-project-view.m-list .b-projects-list-wrapper .e-project-item p {
   font-size: 16px;
   color: rgba(0, 0, 0, 0.6); }
-.b-project-view.m-list .b-projects-list-wrapper .e-project-item .e-project-blurb {
+.b-project-view.m-list .b-projects-list-wrapper .e-project-item-list .e-project-blurb {
   margin: 0 80px 0 0; }
 .b-project-view.m-list .b-projects-list-wrapper .e-project-item .e-project-blurb p {
   margin: 0; }
@@ -1583,6 +1596,9 @@ button:focus {
 @media (min-width: 1025px) {
   .b-project-view.m-grid .b-projects-list-wrapper .e-project-group {
     padding: 15px; } }
+    @media (min-width: 1025px) {
+      .b-project-view.m-grid .b-projects-list-wrapper .e-project-group-list {
+        padding: 0px; } }
 @media (max-width: 800px) {
   .b-project-view.m-grid .b-projects-list-wrapper .e-project-item:not(:last-child) {
     border-bottom: 1px solid rgba(0, 0, 0, 0.15); } }
@@ -1597,6 +1613,16 @@ button:focus {
     vertical-align: top;
     position: relative;
     border: 1px dotted rgba(0, 0, 0, 0.2); }
+
+    .b-project-view.m-grid .b-projects-list-wrapper .e-project-item-list {
+      background-color: rgba(0, 0, 0, 0.05);
+      /* display: -webkit-flex; */
+      display: flex;
+      border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+      /* -webkit-flex-wrap: wrap; */
+      flex-wrap: wrap;
+      padding: 20px 0; }
+
     .b-project-view.m-grid .b-projects-list-wrapper .e-project-item.m-clickable {
       cursor: pointer; } }
 .b-project-view.m-grid .b-projects-list-wrapper .e-project-item h2 {
@@ -1604,6 +1630,7 @@ button:focus {
   text-transform: uppercase;
   line-height: 1.2;
   font-size: 18px; }
+
   @media (min-width: 1025px) {
     .b-project-view.m-grid .b-projects-list-wrapper .e-project-item h2 {
       font-size: 20px;
@@ -2070,6 +2097,137 @@ button:focus {
         height: 220px;
         width: 220px;
         margin: 20px 50px; } }
+
+
+
+        .b-events {
+          padding-top: 100px; }
+          .b-events h1 {
+            margin-top: 0;
+            color: rgba(0, 0, 0, 0.8);
+            font-size: 24px;
+            text-transform: uppercase;
+            font-weight: 600;
+            text-align: center; }
+          .b-events h2 {
+            text-align: center;
+            color: rgba(255, 255, 255, 0.7);
+            font-size: 22px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            padding: 0 0 20px; }
+          .b-events .e-team-list {
+            background-color: white; }
+          .b-events .e-team-member {
+            min-height: 300px;
+            margin: 0;
+            position: relative;
+            height: auto;
+            border-bottom: 1px solid rgba(0, 0, 0, 0.1); }
+            .b-events .e-team-member h3, .b-events .e-team-member h4, .b-events .e-team-member p {
+              color: rgba(0, 0, 0, 0.8);
+              margin: 0; }
+            .b-events .e-team-member h3 {
+              font-weight: 600;
+              text-transform: uppercase; }
+            .b-events .e-team-member h4 {
+              font-weight: 400;
+              text-transform: uppercase;
+              color: rgba(0, 0, 0, 0.5);
+              margin-bottom: 20px; }
+            .b-events .e-team-member .e-wrap {
+              max-width: 1025px;
+              margin-left: auto;
+              margin-right: auto;
+              display: -webkit-flex;
+              display: flex;
+              position: relative;
+              z-index: 1; }
+              @media (max-width: 800px) {
+                .b-events .e-team-member .e-wrap {
+                  -webkit-flex-flow: column;
+                  flex-flow: column; } }
+            .b-events .e-team-member .e-info,
+            .b-events .e-team-member .e-bio {
+              margin: 20px; }
+            .b-events .e-team-member .e-info {
+              -webkit-flex: 1;
+              flex: 1;
+              order: 1; }
+            .b-events .e-team-member .e-bio {
+              -webkit-flex: 4;
+              flex: 4;
+              order: 1;
+              height: auto;
+              transition: all .4s ease; }
+              @media (min-width: 1025px) {
+                .b-events .e-team-member .e-bio {
+                  max-height: 4000px; } }
+              @media (max-width: 800px) {
+                .b-events .e-team-member .e-bio {
+                  max-height: 4000px; } }
+              .b-events .e-team-member .e-bio .b-button.m-less {
+                display: none; }
+              .b-events .e-team-member .e-bio .b-button.m-hide {
+                display: none;
+                margin-bottom: 10px; }
+              .b-events .e-team-member .e-bio .e-project {
+                display: none;
+                padding: 10px;
+                border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+                cursor: pointer; }
+                .b-events .e-team-member .e-bio .e-project:hover {
+                  background-color: rgba(0, 0, 0, 0.05); }
+                .b-events .e-team-member .e-bio .e-project:last-child {
+                  border-bottom: none; }
+              .b-events .e-team-member .e-bio.m-active {
+                max-height: 4000px;
+                transition: all .4s ease; }
+                .b-events .e-team-member .e-bio.m-active .b-button.m-more {
+                  display: none; }
+                .b-events .e-team-member .e-bio.m-active .b-button.m-less {
+                  display: inline-block; }
+              .b-events .e-team-member .e-bio.m-show {
+                max-height: 4000px;
+                transition: all .4s ease; }
+                .b-events .e-team-member .e-bio.m-show .e-project {
+                  display: block; }
+                .b-events .e-team-member .e-bio.m-show .b-button.m-show {
+                  display: none; }
+                .b-events .e-team-member .e-bio.m-show .b-button.m-hide {
+                  display: inline-block; }
+              .b-events .e-team-member .e-bio p {
+                margin-bottom: 15px; }
+              .b-events .e-team-member .e-bio p:not(:first-of-type) {
+                display: block; }
+              .b-events .e-team-member .e-bio p:only-of-type ~ .m-more {
+                display: block; }
+              .b-events .e-team-member .e-bio.m-active p {
+                display: block; }
+              .b-events .e-team-member .e-bio .b-button {
+                color: #523080; }
+              .b-events .e-team-member .e-bio a:hover {
+                transition: all .4s ease;
+                color: #381759; }
+          .b-events .e-team-picture {
+            z-index: 0;
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            margin: 30px auto 0;
+            height: 180px;
+            width: 180px;
+            overflow: hidden;
+            border-radius: 50%; }
+            @media (min-width: 1025px) {
+              .b-events .e-team-picture {
+                position: absolute;
+                left: -80px;
+                top: 0;
+                height: 220px;
+                width: 220px;
+                margin: 20px 50px; } }
+
 
 .b-project-team {
   padding: 20px 0;
@@ -3608,7 +3766,7 @@ button:focus {
     font-size: 14px;
 }
 
-.project_list li
+.project_list
 {
   padding: 10px 0;
 list-style-type: none;
