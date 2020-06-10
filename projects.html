@@ -54,15 +54,18 @@
         <a href="./job-board.html">Job Board</a>
         <a href="./contact.html">Contact</a>
     </nav>
-<section class="b-projects-landing b-top-section">
+<div id='projectlist'>
+
+
+<section class="b-projects-landing b-top-section" >
     <h2>Building new technology to solve public problems</h2>
     <h3>Our Projects try to answer the questions that stand between today and more effective and legitimate governance tomorrow</h3>
     <div class="e-view-switcher">
-        <i class="e-view-button material-icons js-view-grid-trigger m-active" title="View in Grid Layout">view_module</i>
-        <i class="e-view-button material-icons js-view-list-trigger" title="View in List Layout">view_headline</i>
+        <i class="e-view-button material-icons js-view-grid-trigger m-active" title="View in Grid Layout" @click="showThumb()">view_module</i>
+        <i class="e-view-button material-icons js-view-list-trigger" title="View in List Layout" @click="showList()">view_headline</i>
     </div>
 </section>
-<div class="b-project-view m-grid" id='projectlist'>
+<div class="b-project-view m-grid" >
     <section class="b-projects-list-wrapper m-data">
         <div class="e-project-type">
             <h4>Smarter Governance Through</h4>
@@ -70,8 +73,8 @@
         </div>
         <div class="e-project-list">
             <h3 class="e-project-question">How to open up <strong>government data</strong> for solving problems?</h3>
-            <div class="e-project-group">
-    <div class="e-project-item m-active-True" v-for="project in projectsData" v-if="project.sub_tag=='How to open up government data for solving problems?'">
+            <div :class="[listview ? ' e-project-group-list' : 'e-project-group']">
+    <div :class="[listview ? ' e-project-item-list m-active-True' : 'e-project-item m-active-True']"  v-for="project in projectsData" v-if="project.sub_tag=='How to open up government data for solving problems?'">
         <a :href="project.link"><div class="e-card-image " :style="{ backgroundImage: 'url(' + project.main_picture.data.thumbnails[3].url+ ')' }"></div></a>
         <h2><a :href="project.link">{{project.name}}</a></h2>
         <div class="e-project-blurb">
@@ -186,6 +189,7 @@
   </div>
 </div>
 </section>
+</div>
 
 </div>    <footer class="b-footer">
         <div class="e-wrap">
@@ -216,7 +220,7 @@
             </div>
         </div>
     </footer>
-  
+
     <div class="b-copyright">
         <div class="e-wrap">
             <a class="e-cc-badge" rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png"></a>
