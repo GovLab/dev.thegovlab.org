@@ -73,8 +73,9 @@
         </div>
         <div class="e-project-list">
             <h3 class="e-project-question">How to open up <strong>government data</strong> for solving problems?</h3>
-            <div :class="[listview ? ' e-project-group-list' : 'e-project-group']">
-    <div :class="[listview ? ' e-project-item-list m-active-True' : 'e-project-item m-active-True']"  v-for="project in projectsData" v-if="project.sub_tag=='How to open up government data for solving problems?'">
+            <!-- <div :class="[listview ? ' e-project-group-list' : 'e-project-group']"> -->
+              <div class="e-project-group">
+    <div :class="e-project-item"  v-for="project in projectsData" v-if="project.sub_tag=='How to open up government data for solving problems?'">
         <a :href="project.link"><div class="e-card-image " :style="{ backgroundImage: 'url(' + project.main_picture.data.thumbnails[3].url+ ')' }"></div></a>
         <h2><a :href="project.link">{{project.name}}</a></h2>
         <div class="e-project-blurb">
