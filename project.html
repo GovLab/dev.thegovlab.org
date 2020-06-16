@@ -243,7 +243,7 @@
             <a v-for = "member in projectData.project_team" class="e-person" :href="'http://www.thegovlab.org/team.html#' + member.team_id.slug">
         <div class="e-person-pic" :style="{ backgroundImage: 'url(' + member.team_id.picture.data.thumbnails[3].url+ ')' }"></div>
         <div class="e-team-info">
-            <h3 class="e-team-name">member.name</h3>
+            <h3 class="e-team-name">{{member.team_id.name}}</h3>
         </div>
     </a>
     </div>
