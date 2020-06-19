@@ -28,14 +28,6 @@ const client=  new DirectusSDK({
 })
 
 
-
-
-
-
-
-
-// Vue.use(VueCarousel)
-Vue.use(VueAwesomeSwiper)
 Vue.use(VueMeta);
 new Vue({
 
