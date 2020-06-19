@@ -12,6 +12,27 @@ function isReloadedPage() {
 function main() {
   if (isReloadedPage()) {
     window.location.reload();
+    $(window).on('load', function() {
+      $('.b-project-slider').slick({
+          arrows: false,
+          infinite: false,
+          draggable: false,
+          centerMode: true,
+          slidesToShow: 1,
+          variableWidth: true,
+          focusOnSelect: true,
+          swipeToSlide: true,
+          responsive: [
+          {
+              breakpoint: 800,
+              settings: {
+                  draggable: true,
+                  slidesToShow: 1,
+              }
+          }
+          ]
+      });
+  });
   }
 }
 main();
