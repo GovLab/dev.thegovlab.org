@@ -206,14 +206,11 @@
         </div>
     </div>
 
-    <div class="b-project-slider slick slick-initialized slick-slider" v-if="projectData.gallery">
-
-                <div aria-live="polite" class="slick-list" style="padding: 0px 50px;"><div class="slick-track" role="listbox" style="opacity: 1; width: 30000px; left: 259.5px;">
-                  <span class="slick-slide slick-current slick-center" data-slick-index="0" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide00">
-                    <img class="e-project-image" :src="projectData.gallery[0].directus_files_id.data.full_url" alt=""></span>
-                    <span class="slick-slide" v-if="index>0" v-for = "(pic, index) in projectData.gallery" :data-slick-index="index" aria-hidden="true" tabindex="-1" role="option" :aria-describedby="'slick-slide0'+index+1"><img class="e-project-image" :src="pic.directus_files_id.data.full_url" alt=""></span>
-                    </div></div>
-    </div>
+     <div class="b-project-slider slick">
+        <div v-for="(pic, index) in items">
+            <span><img class="e-project-image" :src="pic.directus_files_id.data.full_url" alt=""></span>
+        </div>
+</div>
 
 </section>
 
