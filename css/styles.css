@@ -1354,6 +1354,9 @@ button:focus {
           max-height: 500px; } }
     .b-project-slider span:not(.slick-current) .e-project-image {
       transform: scale(0.7); }
+      .b-project-slider .slick-current .e-project-image {
+  transform: scale(1)!important;
+}
 
 .b-single-results {
   background-color: rgba(0, 0, 0, 0.05);
