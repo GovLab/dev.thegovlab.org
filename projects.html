@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html lang="en" class="wf-proximanova-n1-active wf-proximanova-n6-active wf-proximanova-n4-active wf-proximanova-i4-active wf-proximanova-i1-active wf-proximanova-i6-active wf-proximanova-n3-active wf-active"><head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><title>The GovLab | Publications</title>
-    <meta content="The GovLab | Projects" property="og:title">    <meta property="og:type" content="website">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <!-- <title>The GovLab | Publications</title> -->
+    <!-- <meta content="The GovLab | Projects" property="og:title"> -->
+    <meta property="og:type" content="website">
     <meta property="og:image" content="http://www.thegovlab.org/static/img/govlab-og.png">
     <meta content="The GovLab" property="og:site_name">    <!-- Typekit -->
     <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//use.typekit.net/zez3buj.js"></script>
@@ -16,7 +18,7 @@
           (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
           m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-      ga('create', 'UA-40012093-4', 'auto');
+      ga('create', 'UA-XXXXXX-X', 'auto');
       ga('send', 'pageview');
   </script>    <script src="https://unpkg.com/@directus/sdk-js@5.3.4/dist/directus-sdk.umd.min.js"></script>
     <script src="https://momentjs.com/downloads/moment.js"></script>
@@ -57,6 +59,7 @@
 <div id='projectlist'>
 
 
+
 <section class="b-projects-landing b-top-section" >
     <h2>Building new technology to solve public problems</h2>
     <h3>Our Projects try to answer the questions that stand between today and more effective and legitimate governance tomorrow</h3>
@@ -75,7 +78,8 @@
             <h3 class="e-project-question">How to open up <strong>government data</strong> for solving problems?</h3>
             <!-- <div :class="[listview ? ' e-project-group-list' : 'e-project-group']"> -->
               <div class="e-project-group">
-    <div class="e-project-item"  v-for="project in projectsData" v-if="project.sub_tag=='How to open up government data for solving problems?'">
+    <div class="e-project-item"  v-for="project in projectsData" v-if="subtag.options.choices[project.subtag]=='How to open up government data for solving problems?'">
+
         <a :href="'http://www.thegovlab.org/'+project.slug+'.html'"><div class="e-card-image " :style="{ backgroundImage: 'url(' + project.main_picture.data.thumbnails[3].url+ ')' }"></div></a>
         <h2><a :href="'http://www.thegovlab.org/'+project.slug+'.html'">{{project.name}}</a></h2>
         <div class="e-project-blurb">
@@ -86,7 +90,7 @@
 
         <h3 class="e-project-question"><strong>Data Collaboratives:</strong> How to create public value by exchanging data across sectors?</h3>
         <div class="e-project-group">
-<div class="e-project-item m-active-True" v-for="project in projectsData" v-if="project.sub_tag=='Data Collaboratives: How to create public value by exchanging data across sectors?'">
+<div class="e-project-item m-active-True" v-for="project in projectsData" v-if="subtag.options.choices[project.subtag]=='Data Collaboratives: How to create public value by exchanging data across sectors?'">
     <a :href="'http://www.thegovlab.org/'+project.slug+'.html'"><div class="e-card-image " :style="{ backgroundImage: 'url(' + project.main_picture.data.thumbnails[3].url+ ')' }"></div></a>
     <h2><a :href="'http://www.thegovlab.org/'+project.slug+'.html'">{{project.name}}</a></h2>
     <div class="e-project-blurb">
@@ -97,7 +101,7 @@
 
     <h3 class="e-project-question">How to create an inter-disciplinary knowledge base of governance innovation?</h3>
     <div class="e-project-group">
-<div class="e-project-item m-active-True" v-for="project in projectsData" v-if="project.sub_tag=='How to create an inter-disciplinary knowledge base of governance innovation?'">
+<div class="e-project-item m-active-True" v-for="project in projectsData" v-if="subtag.options.choices[project.subtag]=='How to create an inter-disciplinary knowledge base of governance innovation?'">
 <a :href="'http://www.thegovlab.org/'+project.slug+'.html'"><div class="e-card-image " :style="{ backgroundImage: 'url(' + project.main_picture.data.thumbnails[3].url+ ')' }"></div></a>
 <h2><a :href="'http://www.thegovlab.org/'+project.slug+'.html'">{{project.name}}</a></h2>
 <div class="e-project-blurb">
@@ -107,7 +111,7 @@
 
 <h3 class="e-project-question">How to leverage distributed ledger technologies to improve people's lives?</h3>
 <div class="e-project-group">
-<div class="e-project-item m-active-True" v-for="project in projectsData" v-if="project.sub_tag=='How to leverage distributed ledger technologies to improve people`s lives?'">
+<div class="e-project-item m-active-True" v-for="project in projectsData" v-if="subtag.options.choices[project.subtag]=='How to leverage distributed ledger technologies to improve people`s lives?'">
 <a :href="'http://www.thegovlab.org/'+project.slug+'.html'"><div class="e-card-image " :style="{ backgroundImage: 'url(' + project.main_picture.data.thumbnails[3].url+ ')' }"></div></a>
 <h2><a :href="'http://www.thegovlab.org/'+project.slug+'.html'">{{project.name}}</a></h2>
 <div class="e-project-blurb">
@@ -127,7 +131,7 @@
       <div class="e-project-list">
           <h3 class="e-project-question">How do we build legitimacy and grow capacity by empowering local experts to solve public problems?</h3>
           <div class="e-project-group">
-  <div class="e-project-item m-active-True" v-for="project in projectsData" v-if="project.sub_tag=='How do we build legitimacy and grow capacity by empowering local experts to solve public problems?'">
+  <div class="e-project-item m-active-True" v-for="project in projectsData" v-if="subtag.options.choices[project.subtag]=='How do we build legitimacy and grow capacity by empowering local experts to solve public problems?'">
       <a :href="'http://www.thegovlab.org/'+project.slug+'.html'"><div class="e-card-image " :style="{ backgroundImage: 'url(' + project.main_picture.data.thumbnails[3].url+ ')' }"></div></a>
       <h2><a :href="'http://www.thegovlab.org/'+project.slug+'.html'">{{project.name}}</a></h2>
       <div class="e-project-blurb">
@@ -138,7 +142,7 @@
 
 <h3 class="e-project-question"><b>CrowdLaw:</b> What is tech-enabled civic engagement in law and policymaking?</h3>
       <div class="e-project-group">
-<div class="e-project-item m-active-True" v-for="project in projectsData" v-if="project.sub_tag=='CrowdLaw: What is tech-enabled civic engagement in law and policymaking?'">
+<div class="e-project-item m-active-True" v-for="project in projectsData" v-if="subtag.options.choices[project.subtag]=='CrowdLaw: What is tech-enabled civic engagement in law and policymaking?'">
   <a :href="'http://www.thegovlab.org/'+project.slug+'.html'"><div class="e-card-image " :style="{ backgroundImage: 'url(' + project.main_picture.data.thumbnails[3].url+ ')' }"></div></a>
   <h2><a :href="'http://www.thegovlab.org/'+project.slug+'.html'">{{project.name}}</a></h2>
   <div class="e-project-blurb">
@@ -149,7 +153,7 @@
 
   <h3 class="e-project-question"><b>Smarter Crowdsourcing:</b> How do we curate and tap global expertise to develop implementable solutions to intractable problems?</h3>
   <div class="e-project-group">
-<div class="e-project-item m-active-True" v-for="project in projectsData" v-if="project.sub_tag=='Smarter Crowdsourcing: How do we curate and tap global expertise to develop implementable solutions to intractable problems?'">
+<div class="e-project-item m-active-True" v-for="project in projectsData" v-if="subtag.options.choices[project.subtag]=='Smarter Crowdsourcing: How do we curate and tap global expertise to develop implementable solutions to intractable problems?'">
 <a :href="'http://www.thegovlab.org/'+project.slug+'.html'"><div class="e-card-image " :style="{ backgroundImage: 'url(' + project.main_picture.data.thumbnails[3].url+ ')' }"></div></a>
 <h2><a :href="'http://www.thegovlab.org/'+project.slug+'.html'">{{project.name}}</a></h2>
 <div class="e-project-blurb">
@@ -159,7 +163,7 @@
 
 <h3 class="e-project-question"><b>Public Entrepreneurship:</b> How can we enable the public and government officials to equip themselves with the skillset and mindset needed to solve complex public problems?</h3>
 <div class="e-project-group">
-<div class="e-project-item m-active-True" v-for="project in projectsData" v-if="project.sub_tag=='Public Entrepreneurship: How can we enable the public and government officials to equip themselves with the skillset and mindset needed to solve complex public problems?'">
+<div class="e-project-item m-active-True" v-for="project in projectsData" v-if="subtag.options.choices[project.subtag]=='Public Entrepreneurship: How can we enable the public and government officials to equip themselves with the skillset and mindset needed to solve complex public problems?'">
 <a :href="'http://www.thegovlab.org/'+project.slug+'.html'"><div class="e-card-image " :style="{ backgroundImage: 'url(' + project.main_picture.data.thumbnails[3].url+ ')' }"></div></a>
 <h2><a :href="'http://www.thegovlab.org/'+project.slug+'.html'">{{project.name}}</a></h2>
 <div class="e-project-blurb">
@@ -180,7 +184,7 @@
 <div class="e-project-list">
   <h3 class="e-project-question"></h3>
   <div class="e-project-group">
-  <div class="e-project-item m-active-True" v-for="project in projectsData" v-if="project.main_tag == 'archives'">
+  <div class="e-project-item m-active-True" v-for="project in projectsData" v-if="maintag.options.choices[project.maintag] == 'archives'">
   <a :href="'http://www.thegovlab.org/'+project.slug+'.html'"><div class="e-card-image " :style="{ backgroundImage: 'url(' + project.main_picture.data.thumbnails[3].url+ ')' }"></div></a>
   <h2><a :href="'http://www.thegovlab.org/'+project.slug+'.html'">{{project.name}}</a></h2>
   <div class="e-project-blurb">
@@ -228,7 +232,8 @@
             This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a><br><br>
         </div>
     </div>
-    <div id="overlay"></div>    <script src="static/vendor/slick.min.js"></script>
+    <div id="overlay"></div>
+    <script src="http://www.thegovlab.org/static/vendor/slick.min.js"></script>
     <script src="static/vendor/EasePack.min.js"></script>
     <script src="static/vendor/rAF.js"></script>
     <script src="static/vendor/TweenLite.min.js"></script>
