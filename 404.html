@@ -5340,8 +5340,8 @@ test404
 "surfing-logs-reveal-global-eating-patterns"];
         
     urlD.map( function(a){
-             console.log(a);
-            if (redirects.indexOf(a)!= -1 )window.location.href = 'http://www.thegovlab.org/'+a; return
+              a.split('?');
+            if (redirects.indexOf(a[0])!= -1 )window.location.href = 'http://www.thegovlab.org/'+a; return
              
     })    
   
