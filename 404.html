@@ -5341,7 +5341,7 @@ alert(urlD[urlD.length-1]);
 "surfing-logs-reveal-global-eating-patterns"];
         
    var redirectURL = urlD[urlD.length -1];
-
+    if(redirectURL == '')redirectURL = urlD[urlD.length -2];
     console.log(redirectURL.length, redirectURL, redirects.indexOf(redirectURL))
     
   if (redirects.indexOf(redirectURL)!= -1 ) {
