@@ -5341,6 +5341,7 @@ test404
         
     urlD.map( function(a){
               a.split('?');
+            console.log(a)
             if (redirects.indexOf(a[0])!= -1 )window.location.href = 'http://www.thegovlab.org/'+a[0]; return
              
     })    
