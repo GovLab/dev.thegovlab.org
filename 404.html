@@ -2,7 +2,9 @@ test404
 
 
   <script>
-
+const rawText = 'abc?aaa.abcd?.aabbccc!';
+const matchedArray = rawText.match(/.*?[?!.]/g);
+console.log(matchedArray);
     var urlD = window.location.href.split("/");
     
     var redirects = 
