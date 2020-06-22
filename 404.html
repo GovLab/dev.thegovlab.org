@@ -2,9 +2,9 @@ test404
 
 
   <script>
-alert('here');
-    var urlD = window.location.href.split("/");
 
+    var urlD = window.location.href.split("/");
+alert(urlD[urlD.length-1]);
     
     var redirects = 
         ["reach-is-crowdsourcing-street-criminal-incidents-to-reduce-crime-in-lima",
@@ -5341,7 +5341,8 @@ alert('here');
 "surfing-logs-reveal-global-eating-patterns"];
         
    var redirectURL = urlD[urlD.length -1];
-    console.log(redirectURL.length, redirectURL)
+
+    console.log(redirectURL.length, redirectURL, redirects.indexOf(redirectURL))
     
   if (redirects.indexOf(redirectURL)!= -1 ) {
     window.location.href = 'http://www.thegovlab.org/'+redirectURL; 
