@@ -2,11 +2,7 @@ test404
 
 
   <script>
-const rawText = 'abc?aaa.abcd?.aabbccc!';
-const matchedArray = rawText.match(/.*?[?!.]/g);
-console.log(matchedArray);
-    var urlD = window.location.href.split("/");
-    
+
     var redirects = 
         ["reach-is-crowdsourcing-street-criminal-incidents-to-reduce-crime-in-lima",
 "whats-inside-the-black-box-of-digital-innovation",
@@ -5342,9 +5338,7 @@ console.log(matchedArray);
 "surfing-logs-reveal-global-eating-patterns"];
         
     urlD.map( function(ab){
-              const maA = ab.match(/.*?[?!.]/g);
-            console.log(maA)
-            if (redirects.indexOf(maA[0])!= -1 )window.location.href = 'http://www.thegovlab.org/'+maA[0]; return
+            if (redirects.indexOf(ab)!= -1 )window.location.href = 'http://www.thegovlab.org/'+ab; return
              
     })    
   
