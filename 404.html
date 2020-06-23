@@ -1,7 +1,13 @@
 test404
-
+<br>
+<br>
+404? Try one of these redirects 
+<select id="linklist" onchange="window.location.href = 'http://www.thegovlab.org/'+this.options[this.selectedIndex].value"></select>
 
   <script>
+
+
+
 
     var redirects =
         ["reach-is-crowdsourcing-street-criminal-incidents-to-reduce-crime-in-lima",
@@ -5336,6 +5342,19 @@ test404
 "the-govlab",
 "mental-geography-wonky-maps-and-a-long-way-ahead",
 "surfing-logs-reveal-global-eating-patterns"];
+
+
+var sel = document.getElementById('linklist');
+var fragment = document.createDocumentFragment();
+
+redirects.forEach(function(redirect, index) {
+    var opt = document.createElement('option');
+    opt.innerHTML = redirect;
+    opt.value = redirect;
+    fragment.appendChild(opt);
+});
+
+sel.appendChild(fragment);
 
     var urlD = window.location.href.replace(/\?/g, "/");
     var urlAr = urlD.split("/");
