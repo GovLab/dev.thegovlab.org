@@ -5337,7 +5337,8 @@ test404
 "mental-geography-wonky-maps-and-a-long-way-ahead",
 "surfing-logs-reveal-global-eating-patterns"];
         
-    var urlD = window.location.href.split("/");
+    var urlD = window.location.href.replace(/\?/g, "/"); 
+    urlD.split("/");
     urlD.map( function(ab){
             if (redirects.indexOf(ab)!= -1 )window.location.href = 'http://www.thegovlab.org/'+ab; return
              
