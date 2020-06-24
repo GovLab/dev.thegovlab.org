@@ -6,7 +6,8 @@ test404
 <select id="linklist" onchange="window.location.href = 'https://govlab.github.io/dev.thegovlab.org/'+this.options[this.selectedIndex].value"></select>
 
   <script>
-var redirects = ["opening-government-collaborative-strategies-for-solving-the-worlds-hardest-problems",
+var redirects =
+        ["opening-government-collaborative-strategies-for-solving-the-worlds-hardest-problems",
 "the-open-government-partnership-ogp-turns-one",
 "quotes-of-the-week",
 "online-learning-and-making-the-most-of-open-government-data",
@@ -684,7 +685,7 @@ redirects.forEach(function(redirect, index) {
 sel.appendChild(fragment);
 
     var urlD = window.location.href.replace(/\?/g, "");
-    var urlAr = urlD.split("");
+    var urlAr = urlD.split("/");
     urlAr.map( function(ab){
           console.log(ab);
             if (redirects.indexOf(ab)!= -1 )window.location.href = 'http://www.thegovlab.org/'+ab; return
