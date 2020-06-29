@@ -57,7 +57,7 @@ new Vue({
     fetchPost() {
       self = this;
       const client = new DirectusSDK({
-        url: "https://directus.thegovlab.com/",
+        url: "https://directusdev.thegovlab.com/",
         project: "thegovlab",
         storage: window.localStorage
       });
