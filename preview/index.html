@@ -126,7 +126,7 @@
                 <div class="e-bio">
                     <h3>{{postdata.title}}</h3></a>
                     <h4 ><span class="material-icons">insert_invitation</span>Published {{postdata.created_on}}</h4>
-                    <h5 >by <span v-for="(author, index) in postdata.authors">{{author.team_id.name}}<span v-if="(index+2)<postdata.authors.length">, </span><span v-if="(index+1)==postdata.authors.length">and </span></span></h5>
+                    <h5 >by <span v-for="(author, index) in postdata.authors">{{author.team_id.name}}<span v-if="(index+2)<postdata.authors.length">, </span><span v-if="(index+2)==postdata.authors.length">and </span></span></h5>
 
                     <div v-if="!postdata.extended" v-html="postdata.excerpt"></div>
                     <div v-if="postdata.extended && postdata.content" v-html="postdata.content"></div>
