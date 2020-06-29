@@ -68,7 +68,7 @@ new Vue({
     filter: {
       slug: self.postslug
     },
-    fields: ['*.*','authors.*']
+    fields: ['*.*','authors.team_id.*']
   }
 ).then(data => {
 
